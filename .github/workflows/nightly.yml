@@ -1,0 +1,39 @@
+name: Nightly Task
+
+on:
+  schedule:
+    - cron: "0 17 * * *" # UTC 17:00 = JST 翌2:00
+  workflow_dispatch: # 手動実行ボタン（テスト用）
+
+permissions:
+  contents: write
+
+jobs:
+  nightly:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: 夜間タスク生成スクリプトを実行
+        env:
+          SHOTSTACK_API_KEY: ${{ secrets.SHOTSTACK_API_KEY }}
+          YOUTUBE_CLIENT_ID: ${{ secrets.YOUTUBE_CLIENT_ID }}
+          YOUTUBE_CLIENT_SECRET: ${{ secrets.YOUTUBE_CLIENT_SECRET }}
+          YOUTUBE_REFRESH_TOKEN: ${{ secrets.YOUTUBE_REFRESH_TOKEN }}
+        run: node scripts/nightly-task.mjs
+
+      - name: コミット＆プッシュ
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add tasks/
+          if git diff --cached --quiet; then
+            echo "変更なし。コミットをスキップします"
+            exit 0
+          fi
+          git commit -m "chore: 夜間タスク自動生成 [skip ci]"
+          git push origin main
