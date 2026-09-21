@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "from": "Muse",
+      "to": "みゅーず",
+      "added": "2026-09-22",
+      "source": "tts_qa_auto",
+      "confidence": 4
+    }
+  ],
+  "log": [
+    {
+      "date": "2026-09-22",
+      "action": "add",
+      "from": "Muse",
+      "to": "みゅーず",
+      "before": "(なし)",
+      "reason": "「Muse（ミューズ）」をTTSが「ニュース」に近い音で発音した、またはWhisperが近似音を頻出語に引き寄せた可能性が高いが、固有名詞の誤読としてTTS起因が疑われる。（音声では「ニュース」と聞こえます）"
+    }
+  ]
+}
