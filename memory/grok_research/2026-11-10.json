@@ -1,0 +1,521 @@
+{
+  "generated": "2026-11-10T21:45:23+09:00",
+  "test_run": true,
+  "session_covered": {
+    "us": "2026-11-09（米東部時間。日本時間11/10 6:00頃終了）",
+    "japan": "2026-11-09",
+    "x_window_utc": "2026-11-09T12:40:00Z 以降（収集時点から約24時間）",
+    "notes": "テスト実行時点は日本時間2026-11-10 21:45頃。米10月CPI（同日22:30発表予定）は未発表。Xは有名人・政府・中銀・大手企業公式・CEO・主要報道機関の公式アカウントのみ。"
+  },
+  "x_statements": [
+    {
+      "account": "@AMD",
+      "post_url": "https://x.com/AMD/status/2119781382662570141",
+      "time_jst": "2026-11-09T22:17:19+09:00",
+      "gist": "公式発表。第5世代AMD EPYCプロセッサがGoogle Cloud TPU 8txのホスト基盤を支え、機微なAIモデルの保護に使うと発表した。",
+      "tickers": [
+        "AMD",
+        "GOOGL",
+        "NVDA"
+      ],
+      "news_article": {
+        "outlet": "Yahoo Finance（独自記事。ロイター配信ではない）",
+        "url": "https://finance.yahoo.com/technology/ai/articles/amd-lands-key-role-googles-191648789.html",
+        "article_date": "2026-11-09",
+        "note": "Googleが機密計算向けTPU 8txに第5世代EPYCを採用したと報じ、AMD株は半導体反発のなか10%超高、オッペンハイマーがアウトパフォームへ格上げ・目標600ドル、と記載。終値の13.3%は本記事ではなく下記ロイター市場記事で確認。"
+      }
+    },
+    {
+      "account": "@sundarpichai",
+      "post_url": "https://x.com/sundarpichai/status/2119857335871164769",
+      "time_jst": "2026-11-10T03:19:08+09:00",
+      "gist": "Alphabet/GoogleのCEO。1世代・1年でTPUシステムを4種類投入したとし、従来の半導体サイクルを待たずDeepMindとハードウェアを共同設計している、と述べた（引用元のGoogle投稿を引用）。",
+      "tickers": [
+        "GOOGL",
+        "NVDA",
+        "AMD"
+      ],
+      "news_article": {
+        "outlet": "日本経済新聞（公式アカウント@nikkeiが記事を投稿。本文は未開封のため詳細は未確認）",
+        "url": "https://www.nikkei.com/article/DGXZQOGN09B3P0Z01C26A1000000/",
+        "article_date": "2026-11-10",
+        "x_post_url": "https://x.com/nikkei/status/2119984755173167271",
+        "note": "@nikkei投稿の見出しは「GoogleのAI半導体、4種類に拡大　NVIDIA対抗でクラウド向け外販」。記事本文は開いていない。"
+      }
+    },
+    {
+      "account": "@WhiteHouse",
+      "post_url": "https://x.com/WhiteHouse/status/2119867204976128194",
+      "time_jst": "2026-11-10T03:58:21+09:00",
+      "gist": "公式発表。トランプ大統領が60 Minutesのインタビューでイラン、景気、SI（超知能）などを語ったとし、要点映像へのリンクを投稿した。",
+      "tickers": [
+        "CL",
+        "BZ",
+        "USDJPY"
+      ],
+      "news_article": null,
+      "news_article_note": "この投稿自体を直接扱った報道は、開いた記事では確認できず（未確認）。イラン関連の市場解説は、日曜時点の発言を引用したロイター記事がある（下記move_causesの原油・株・為替）。"
+    },
+    {
+      "account": "@WhiteHouse",
+      "post_url": "https://x.com/WhiteHouse/status/2119909036292456711",
+      "time_jst": "2026-11-10T06:44:34+09:00",
+      "gist": "公式発表（米株式市場の終了後）。トランプ大統領の発言として、カタール、サウジ、UAE、バーレーン、クウェートなどは現状維持、すなわち史上最大の海軍封鎖と新たなOperation Iron Gate（陸と海）の継続を望んでいる、と投稿した。",
+      "tickers": [
+        "CL",
+        "BZ",
+        "USDJPY"
+      ],
+      "news_article": null,
+      "news_article_note": "米市場終了後の投稿。開いたロイター記事が直接引用しているのは日曜の「新たな対イラン攻撃は極めて可能性が低い」発言であり、本投稿との対応は未確認。"
+    },
+    {
+      "account": "@WhiteHouse",
+      "post_url": "https://x.com/WhiteHouse/status/2119921881755107788",
+      "time_jst": "2026-11-10T07:35:37+09:00",
+      "gist": "公式発表（米株式市場の終了後）。カタール首相との会談後、対イランの海軍封鎖について報告した、とし、トランプ大統領の「軍事行動の終了時には、米国と世界の人々はより安全になる」という発言を引用した。",
+      "tickers": [
+        "CL",
+        "BZ",
+        "USDJPY"
+      ],
+      "news_article": null,
+      "news_article_note": "米市場終了後の投稿。開いた記事での直接の取り上げは未確認。"
+    },
+    {
+      "account": "@federalreserve",
+      "post_url": "https://x.com/federalreserve/status/2120079543172280778",
+      "time_jst": "2026-11-10T18:02:06+09:00",
+      "gist": "米連邦準備制度理事会の公式アカウント。ウォラー理事がロンドンのキングス・カレッジで経済見通しについて講演すると案内し、原稿と中継へのリンクを投稿した。",
+      "tickers": [
+        "SPX",
+        "NDX",
+        "USDJPY",
+        "TNX"
+      ],
+      "news_article": {
+        "outlet": "Federal Reserve Board（一次原稿）／CNBC",
+        "url": "https://www.federalreserve.gov/newsevents/speech/waller20261110a.htm",
+        "secondary_url": "https://www.cnbc.com/2026/11/10/fed-governor-waller-sees-december-hike-likely.html",
+        "article_date": "2026-11-10",
+        "note": "開いた原稿では、景気は強く労働市場は安定、インフレは高すぎるとし、10月CPIが改善しても12月会合で0.25%利上げを支持する方向。コアCPIが0.3%前後かそれ以上なら0.50%利上げも検討すべき、と述べた。CNBCも同趣旨を報じた。講演は米CPI発表（日本時間22:30）の数時間前。"
+      }
+    },
+    {
+      "account": "@elonmusk",
+      "post_url": "https://x.com/elonmusk/status/2120088070443655190",
+      "time_jst": "2026-11-10T18:35:59+09:00",
+      "gist": "JAX/SGLangを捨て、強化学習と推論のスタックをC/C++で一から書き直したと述べた。事前学習は完了し、Grok 4.8は強化学習中で評価が始まりつつある、とした。",
+      "tickers": [
+        "TSLA"
+      ],
+      "news_article": null,
+      "news_article_note": "開いた主要メディア記事では未確認。"
+    },
+    {
+      "account": "@elonmusk",
+      "post_url": "https://x.com/elonmusk/status/2120090152429404655",
+      "time_jst": "2026-11-10T18:44:16+09:00",
+      "gist": "法律で禁じられない限り、Cybercabがあらゆる地域で旅客輸送距離の過半を担う、と述べた。",
+      "tickers": [
+        "TSLA"
+      ],
+      "news_article": null,
+      "news_article_note": "開いた主要メディア記事では未確認。"
+    },
+    {
+      "account": "@elonmusk",
+      "post_url": "https://x.com/elonmusk/status/2120093699048870138",
+      "time_jst": "2026-11-10T18:58:21+09:00",
+      "gist": "「1兆ドルが気に入らなかったなら、10兆ドルは本当に嫌だろう」と返信した。文脈は「The Truth About Elon's Wealth」という投稿への返答。報酬パッケージやテスラ株に関する公式発表かどうかは、開いた記事では確認できず（未確認）。",
+      "tickers": [
+        "TSLA"
+      ],
+      "news_article": null,
+      "news_article_note": "開いた主要メディア記事では未確認。"
+    },
+    {
+      "account": "@elonmusk",
+      "post_url": "https://x.com/elonmusk/status/2120099798078656909",
+      "time_jst": "2026-11-10T19:22:36+09:00",
+      "gist": "Grok 4.8はOpus 5.5ほどではないとしたうえで、Grok 5は2〜3か月以内にOpus 5.5を上回る可能性があり、その後も加速が続く、と述べた。",
+      "tickers": [
+        "TSLA"
+      ],
+      "news_article": null,
+      "news_article_note": "開いた主要メディア記事では未確認。"
+    },
+    {
+      "account": "@elonmusk",
+      "post_url": "https://x.com/elonmusk/status/2120102767624880364",
+      "time_jst": "2026-11-10T19:34:54+09:00",
+      "gist": "大量データを宇宙と地上で動かすために作ったStarlinkのソフトウェアが、超知能（super intelligence）の学習にもよく適している、と述べた。",
+      "tickers": [
+        "TSLA"
+      ],
+      "news_article": null,
+      "news_article_note": "開いた主要メディア記事では未確認。"
+    },
+    {
+      "account": "@CNBC",
+      "post_url": "https://x.com/CNBC/status/2120125683317751886",
+      "time_jst": "2026-11-10T21:05:27+09:00",
+      "gist": "公式アカウント。「ジェンスン・フアン氏と中国のスパイとされる人物との関係が、エヌビディアの中国問題をさらに複雑にしている」とする記事を投稿した。",
+      "tickers": [
+        "NVDA"
+      ],
+      "news_article": {
+        "outlet": "CNBC（投稿が案内する記事。投稿本文以外の全文は未開封）",
+        "url": "https://x.com/CNBC/status/2120125683317751886",
+        "article_date": "2026-11-10",
+        "note": "取締役会の独立調査と株安の経緯は、開いたCNBCの11/9市場ライブとロイターの市場記事で確認済み。"
+      }
+    },
+    {
+      "account": "@Reuters",
+      "post_url": "https://x.com/Reuters/status/2120134376763654367",
+      "time_jst": "2026-11-10T21:40:00+09:00",
+      "gist": "公式アカウント。民主党が議会を掌握し、エヌビディアが標的になりうるとし、ジェンスン・フアンCEOへの疑惑が今後の調査対象になるかを注視する、というポッドキャストの案内を投稿した。",
+      "tickers": [
+        "NVDA"
+      ],
+      "news_article": {
+        "outlet": "Reuters（ポッドキャスト案内。開いた11/9市場記事でも調査と株安を報道）",
+        "url": "https://x.com/Reuters/status/2120134376763654367",
+        "article_date": "2026-11-10",
+        "note": "関連して同アカウントは同日、アリス・フアン氏の経歴記事や「エヌビディアは圧力下でも広いテクノロジー株は反発している」とするMorning Bid案内も投稿している。"
+      }
+    },
+    {
+      "account": "@nikkei",
+      "post_url": "https://x.com/nikkei/status/2119946000500400297",
+      "time_jst": "2026-11-10T09:11:27+09:00",
+      "gist": "日経電子版公式。「日経平均株価、一時6万円を回復　米AI株上昇や原油安で」と投稿した。これは11/10午前の東京市場（本ファイルの主対象である11/9セッションの翌日）の速報。",
+      "tickers": [
+        "N225"
+      ],
+      "news_article": {
+        "outlet": "日本経済新聞（公式投稿の見出し。本文は未開封）",
+        "url": "https://x.com/nikkei/status/2119946000500400297",
+        "article_date": "2026-11-10",
+        "note": "同アカウントは11:51 JSTに「日経平均午前1700円高、「トランプ発言」後押し　非鉄株高が映す楽観」も投稿。本文未開封のため「トランプ発言」の指す対象は未確認。"
+      }
+    }
+  ],
+  "move_causes": [
+    {
+      "name": "S&P 500",
+      "ticker": "SPX",
+      "session": "US 2026-11-09",
+      "move_pct": 2.35,
+      "close": 7549.94,
+      "reason": "原油安でインフレ懸念が和らぎ、前週（2025年4月以来の週間下落）からの買い戻し。11業種すべてが上昇し、9業種が1%超。前週の下落は中間選挙で民主党が議会を制したことによるAI・データセンター規制懸念と報じられた。",
+      "outlet": "Reuters",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-rise-rough-103539344.html",
+      "article_date": "2026-11-09",
+      "also_seen_in": [
+        {
+          "outlet": "Reuters（Euronext転載）",
+          "url": "https://live.euronext.com/en/financial-news/stocks-jump-oil-tumbles-nvidia-falls-amid-internal-probe",
+          "article_date": "2026-11-09"
+        },
+        {
+          "outlet": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/08/stock-market-today-live-updates.html",
+          "article_date": "2026-11-09"
+        }
+      ]
+    },
+    {
+      "name": "Nasdaq Composite",
+      "ticker": "IXIC",
+      "session": "US 2026-11-09",
+      "move_pct": 2.74,
+      "close": 25253.14,
+      "reason": "S&Pと同様、原油安とテクノロジー株の買い戻し。ロイターは7月30日以来の日次上昇と記載。エヌビディアは下落したが、ほかの半導体やマグニフィセント7が上昇した。",
+      "outlet": "Reuters",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-rise-rough-103539344.html",
+      "article_date": "2026-11-09"
+    },
+    {
+      "name": "Dow Jones Industrial Average",
+      "ticker": "DJI",
+      "session": "US 2026-11-09",
+      "move_pct": 2.15,
+      "close": 52389.75,
+      "reason": "原油安と幅広い買い。CNBCはゴールドマン・サックスやキャタピラーの上昇が支えになったとし、選挙当日の終値を上回ったと記載。",
+      "outlet": "Reuters / CNBC",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-rise-rough-103539344.html",
+      "article_date": "2026-11-09",
+      "secondary_url": "https://www.cnbc.com/2026/11/08/stock-market-today-live-updates.html"
+    },
+    {
+      "name": "ドル円",
+      "ticker": "USDJPY",
+      "session": "US 2026-11-09（ニューヨーク終値）",
+      "move_pct": -0.41,
+      "close": 157.89,
+      "reason": "イラン情勢の悪化懸念が和らぎ、リスク資産へ資金が戻ったことで安全資産のドルが売られた。トランプ大統領が日曜、外交が続く限り新たな対イラン攻撃は極めて可能性が低いと述べたことが背景、とロイターは報じた。ブレントは終値92.57ドル（約6%安）。",
+      "outlet": "Reuters",
+      "url": "https://au.investing.com/news/forex-news/us-dollar-holds-onto-payrolls-gains-nz-dollar-rises-after-election-4753724",
+      "article_date": "2026-11-09",
+      "note": "為替専用のロイター記事は「ドルが対円で0.41%安の157.89円」。別のロイター株式市場記事（Euronext転載）は「0.34%安の157.91円」。方向はいずれも円高ドル安。ARIA 11/10台本の「157.88円、前日比0.38円の円安」とは方向が食い違う。",
+      "also_seen_in": [
+        {
+          "outlet": "Reuters（Euronext転載）",
+          "url": "https://live.euronext.com/en/financial-news/stocks-jump-oil-tumbles-nvidia-falls-amid-internal-probe",
+          "article_date": "2026-11-09",
+          "print": "ドルが対円で0.34%安の157.91円、米10年債利回りは4.874%（+1.48bp）"
+        }
+      ]
+    },
+    {
+      "name": "Advanced Micro Devices",
+      "ticker": "AMD",
+      "session": "US 2026-11-09",
+      "move_pct": 13.3,
+      "close": null,
+      "reason": "フィラデルフィア半導体指数が6.9%高となるなか、ブロードコムとともに最大の押し上げ役。CNBCによるとオッペンハイマーがアウトパフォームへ格上げし、目標株価600ドル（金曜終値から34%高の含み）を付けた。加えて公式発表どおり、第5世代EPYCがGoogle Cloud TPU 8txのホストCPUに採用された。",
+      "outlet": "Reuters / CNBC",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-rise-rough-103539344.html",
+      "article_date": "2026-11-09",
+      "secondary_url": "https://www.cnbc.com/2026/11/08/stock-market-today-live-updates.html",
+      "note": "ロイターは+13.3%。CNBC本文は「jumping 13%」「SOXX構成で14%」など表記が揺れあり。終値の絶対水準は開いたロイター/CNBC本文では確認できず（未確認）。"
+    },
+    {
+      "name": "Broadcom",
+      "ticker": "AVGO",
+      "session": "US 2026-11-09",
+      "move_pct": 8.8,
+      "close": null,
+      "reason": "半導体指数の反発をけん引した2銘柄の一方。個別の会社発表を開いた記事では確認できず、幅広い半導体の買い戻しの一部として報じられている。",
+      "outlet": "Reuters",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-rise-rough-103539344.html",
+      "article_date": "2026-11-09",
+      "note": "CNBCは「nearly 9%」。"
+    },
+    {
+      "name": "NVIDIA",
+      "ticker": "NVDA",
+      "session": "US 2026-11-09",
+      "move_pct": -4.2,
+      "close": null,
+      "reason": "取締役会が、CEOジェンスン・フアン氏と、米情報機関が中国のスパイとする実業家との関係について独立調査を始めたと日曜に発表。投資家がCEO続投を問い、4月7日以来の安値で終えた。フィラデルフィア半導体指数で唯一の下落。CNBCは「closed down 4%」と記載。",
+      "outlet": "Reuters / CNBC",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-rise-rough-103539344.html",
+      "article_date": "2026-11-09",
+      "secondary_url": "https://www.cnbc.com/2026/11/08/stock-market-today-live-updates.html",
+      "note": "終値のドル水準は開いたロイター/CNBC本文では確認できず（未確認）。CNBCはスポークスパーソンが「CEOとして中断なく続ける方針」と述べたとも報じている。"
+    },
+    {
+      "name": "Tesla",
+      "ticker": "TSLA",
+      "session": "US 2026-11-09",
+      "move_pct": 5.5,
+      "close": null,
+      "reason": "CNBCはMagnificent 7がエヌビディア以外高だったとし、テスラは5.5%高と記載。個別材料は同記事では示されていない。",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/08/stock-market-today-live-updates.html",
+      "article_date": "2026-11-09",
+      "note": "終値のドル水準は開いたCNBC本文では確認できず（未確認）。"
+    },
+    {
+      "name": "Amazon",
+      "ticker": "AMZN",
+      "session": "US 2026-11-09",
+      "move_pct": 3.0,
+      "move_pct_qualifier": "約3%（CNBCの表現は gained about 3%）",
+      "close": null,
+      "reason": "CNBCはMagnificent 7がエヌビディア以外高だったとし、アマゾンは約3%高と記載。個別材料は同記事では示されていない。",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/08/stock-market-today-live-updates.html",
+      "article_date": "2026-11-09"
+    },
+    {
+      "name": "Microsoft",
+      "ticker": "MSFT",
+      "session": "US 2026-11-09",
+      "move_pct": 3.0,
+      "move_pct_qualifier": "ほぼ3%（CNBCの表現は added almost 3%）",
+      "close": null,
+      "reason": "CNBCはMagnificent 7がエヌビディア以外高だったとし、マイクロソフトはほぼ3%高と記載。個別材料は同記事では示されていない。",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/08/stock-market-today-live-updates.html",
+      "article_date": "2026-11-09"
+    },
+    {
+      "name": "Alphabet",
+      "ticker": "GOOGL",
+      "session": "US 2026-11-09",
+      "move_pct": 1.0,
+      "move_pct_qualifier": "約1%（CNBCの表現は climbed ... 1%）",
+      "close": null,
+      "reason": "CNBCはMagnificent 7の上昇の一つとして約1%高と記載。同日、GoogleはTPU 8txなどを発表し、AMD EPYCをホストCPUに採用（Yahoo Finance記事とAMD公式投稿）。ただしCNBCの終値ライブは値動きの主因をこの発表とは明記していない。",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/08/stock-market-today-live-updates.html",
+      "article_date": "2026-11-09"
+    },
+    {
+      "name": "Apple",
+      "ticker": "AAPL",
+      "session": "US 2026-11-09",
+      "move_pct": null,
+      "reason": "CNBCはMagnificent 7がエヌビディア以外高だったと記載したが、アップルの終値変化率は開いたロイター/CNBC/日経の本文では確認できず（未確認）。",
+      "outlet": "CNBC（方向のみ）",
+      "url": "https://www.cnbc.com/2026/11/08/stock-market-today-live-updates.html",
+      "article_date": "2026-11-09",
+      "unverified": true
+    },
+    {
+      "name": "Meta Platforms",
+      "ticker": "META",
+      "session": "US 2026-11-09",
+      "move_pct": null,
+      "reason": "CNBCはMagnificent 7がエヌビディア以外高だったと記載したが、メタの終値変化率は開いたロイター/CNBC/日経の本文では確認できず（未確認）。",
+      "outlet": "CNBC（方向のみ）",
+      "url": "https://www.cnbc.com/2026/11/08/stock-market-today-live-updates.html",
+      "article_date": "2026-11-09",
+      "unverified": true
+    },
+    {
+      "name": "Philadelphia Semiconductor Index",
+      "ticker": "SOX",
+      "session": "US 2026-11-09",
+      "move_pct": 6.9,
+      "close": null,
+      "reason": "前週12%超安のあと反発。ロイターはエヌビディアが指数内で唯一の下落、AMDとブロードコムが最大の押し上げと記載。CNBCはiShares Semiconductor ETF（SOXX）が7%超〜8%超高とも記載（指数とETFで数値が異なる）。",
+      "outlet": "Reuters",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-rise-rough-103539344.html",
+      "article_date": "2026-11-09"
+    },
+    {
+      "name": "Brent crude / WTI",
+      "ticker": "BZ / CL",
+      "session": "US 2026-11-09",
+      "move_pct": -5.85,
+      "close": 92.57,
+      "second_leg": {
+        "ticker": "CL",
+        "move_pct": -4.38,
+        "close": 86.85
+      },
+      "reason": "トランプ大統領が日曜、和平協議が進む限り新たな対イラン攻撃は極めて可能性が低いと述べたことを受け、インフレ懸念が後退した、とロイター。ブレントは5.75ドル安の92.57ドル（-5.85%）、WTIは3.98ドル安の86.85ドル（-4.38%）。",
+      "outlet": "Reuters",
+      "url": "https://live.euronext.com/en/financial-news/stocks-jump-oil-tumbles-nvidia-falls-amid-internal-probe",
+      "article_date": "2026-11-09"
+    },
+    {
+      "name": "日経平均株価",
+      "ticker": "N225",
+      "session": "JP 2026-11-09",
+      "move_pct": 2.33,
+      "close": 58775.5,
+      "reason": "6営業日ぶり反発。前週末比1340円73銭高。日経は、前週末の米市場でSOXなどが大きく上昇し、東京でもAI・半導体株を中心に幅広い買いが入ったとし、米ナスダック100先物や台湾加権指数の堅調も追い風、と報じた。上げ幅は一時2000円超。CNBCも終値5万8775.5円、+2.33%と記載。",
+      "outlet": "日本経済新聞 / 日経平均プロフィル",
+      "url": "https://www.nikkei.com/article/DGXZQOFL094LU0Z01C26A1000000/",
+      "article_date": "2026-11-09",
+      "secondary_url": "https://indexes.nikkei.co.jp/nkave/archives/summary?dt=20261109&idx=nk225"
+    },
+    {
+      "name": "三菱重工業",
+      "ticker": "7011.T",
+      "session": "JP 2026-11-09",
+      "move_pct": 5.2,
+      "close": 3063,
+      "reason": "日経は、最高益見通し・自社株買い・巨額投資計画の「3本柱」を発表して急伸し、好業績銘柄への買いの筆頭だった、と報じた。",
+      "outlet": "日本経済新聞（理由）／Yahoo!ファイナンス時系列（終値と変化率）",
+      "url": "https://www.nikkei.com/article/DGXZQOUB091AYTZ01C26A1000000/",
+      "article_date": "2026-11-09",
+      "price_source": "https://finance.yahoo.co.jp/quote/7011.T/history",
+      "note": "日経記事の無料部分には終値の変化率がなかった。Yahooファイナンス時系列で11/9終値3063円、前週末11/6終値2912.5円から+150.5円（+5.2%）を算出。優先媒体（日経本文）での変化率確認は未了。"
+    },
+    {
+      "name": "トヨタ自動車",
+      "ticker": "7203.T",
+      "session": "JP 2026-11-09",
+      "move_pct": 4.6,
+      "close": 3491,
+      "reason": "11/9当日の個別材料は、開いた日経の11/9市場記事では確認できず（未確認）。11/5の日経は、中間決算発表と27年3月期営業利益見通しの3兆9000億円への上方修正、自社株買い枠拡大で株が急伸したと報じている。時系列では11/5終値3533円のあと11/6に3338円まで下げ、11/9に3491円へ戻している。",
+      "outlet": "Yahoo!ファイナンス時系列（終値と変化率）／日本経済新聞（11/5の決算報道）",
+      "url": "https://finance.yahoo.co.jp/quote/7203.T/history",
+      "article_date": "2026-11-09",
+      "secondary_url": "https://www.nikkei.com/article/DGXZQOFL054JTTV01C26A1000000/",
+      "earnings_article_date": "2026-11-05",
+      "note": "変化率は11/9終値3491円÷11/6終値3338円で+4.6%。11/9台本が決算を当日要因のように読める書き方をしている点は、日付のずれに注意。"
+    },
+    {
+      "name": "First Solar",
+      "ticker": "FSLR",
+      "session": "US 2026-11-09",
+      "move_pct": -5.0,
+      "move_pct_qualifier": "5%超安（CNBCの表現は slid more than 5%）",
+      "reason": "CNBCによると、パイパー・サンドラーが目標株価を引き下げた。",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/08/stock-market-today-live-updates.html",
+      "article_date": "2026-11-09"
+    }
+  ],
+  "followups": [
+    {
+      "source_script": "memory/scripts/2026-11-10.md",
+      "promise": "本日日本時間22時30分に米10月CPIを発表。市場予想は前月比+0.3%、前回+0.6%。まず見る数字はコアCPI前月比+0.2%。",
+      "status": "未発表",
+      "as_of_jst": "2026-11-10T21:45:23+09:00",
+      "outcome": "収集時点ではまだ発表前。BLSの日程は11/10 8:30 a.m. ET。CNBC（11/9付）はDow Jones予想で総合+0.3%、コア+0.2%とし、2025年の政府機関閉鎖で昨年10月のデータが欠けているため前年比は出ない、と報じた。ロイターの為替記事も総合+0.3%予想。ウォラー理事は発表数時間前の講演で、改善しても12月に0.25%利上げを支持する方向、コアが0.3%前後以上なら0.50%も検討、と述べた。",
+      "sources": [
+        "https://www.cnbc.com/2026/11/09/october-cpi-report-2026-inflation.html",
+        "https://www.bls.gov/schedule/news_release/cpi.htm",
+        "https://www.federalreserve.gov/newsevents/speech/waller20261110a.htm",
+        "https://www.cnbc.com/2026/11/10/fed-governor-waller-sees-december-hike-likely.html"
+      ]
+    },
+    {
+      "source_script": "memory/scripts/2026-11-09.md（週報）",
+      "promise": "今週最大の関門は日本時間火曜夜10時半のCPI。物価が予想どおり鈍化すれば利上げ懸念が後退し、上振れれば12月利上げが現実味を帯びる。先週の急落が一時的な修正か構造転換かは火曜夜の数字が答えを出す。",
+      "status": "一部経過・本体は未達",
+      "outcome": "週初の経過として、11/9の米株はS&P+2.35%、ナスダック+2.74%、SOX+6.9%と幅広い反発（ロイター）。ただしエヌビディアはCEO調査で-4.2%。CME FedWatchは12月利上げ確率が80%超〜84%と、開いたロイター記事は記載。CPIそのものは未発表のため、「答え」はまだ出ていない。",
+      "sources": [
+        "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-rise-rough-103539344.html",
+        "https://live.euronext.com/en/financial-news/stocks-jump-oil-tumbles-nvidia-falls-amid-internal-probe"
+      ]
+    },
+    {
+      "source_script": "memory/scripts/2026-11-09.md（週報）",
+      "promise": "金曜の日本時間夜10時半にPPI。CPI翌日の生産者物価で物価の流れを確認する。",
+      "status": "未到来",
+      "outcome": "予定どおり11/13（金）のイベントとして残っている。結果は未発表。",
+      "sources": [
+        "https://www.bls.gov/schedule/2026/11_sched_list.htm"
+      ]
+    },
+    {
+      "source_script": "memory/scripts/2026-11-09.md（週報）",
+      "promise": "シスコが米国時間12日の場後に決算。モルガン・スタンレーは目標株価を135ドルから120ドルへ引き下げ、AI案件の採算悪化を警戒。",
+      "status": "未到来",
+      "outcome": "開いたロイター/CNBCの11/9記事は、今週のAI関連決算としてCoreWeave、Applied Materials、Ciscoに言及。決算そのものはまだ。目標株価引き下げの続報は今回開いた記事では確認せず（未確認）。",
+      "sources": [
+        "https://www.cnbc.com/2026/11/08/stock-market-today-live-updates.html",
+        "https://live.euronext.com/en/financial-news/stocks-jump-oil-tumbles-nvidia-falls-amid-internal-probe"
+      ]
+    },
+    {
+      "source_script": "memory/scripts/2026-11-10.md",
+      "promise": "米下院の中国特別委員会がフアンCEOに18日の説明を求めている、との言及（「明日伝える」ではなく当日ニュースの一部）。",
+      "status": "未確認（続報なし）",
+      "outcome": "今回開いたロイター/CNBC記事では、取締役会の独立調査とCEO続投の意向は確認できたが、下院委員会の18日説明要求そのものの一次確認や続報は取れていない（未確認）。",
+      "sources": [
+        "https://www.cnbc.com/2026/11/08/stock-market-today-live-updates.html"
+      ]
+    }
+  ],
+  "limitations": [
+    "cursor-githubコネクタにファイル作成・更新用のツールがなく、このJSONをリポジトリへ直接コミットできていない。gh CLIも未ログイン。",
+    "@realDonaldTrumpの過去24時間の投稿はsearch_posts_allで0件。イランに関する日曜の発言はロイターが報じているが、X上の該当投稿は本窓では見つかっていない（Truth Socialなど別経路の可能性、未確認）。",
+    "Xのsearch_posts_allは1回あたり最大25件。主要アカウントは個別クエリで補ったが、全公式アカウントの全投稿を網羅してはいない。",
+    "AAPLとMETAの正確な終値変化率、AMD/NVDA/TSLAなどの終値ドル水準は、開いたロイター/CNBC/日経本文では確認できず。",
+    "三菱重工・トヨタの変化率はYahoo!ファイナンスの時系列から算出。日経の無料本文には変化率がなかった。",
+    "日経の一部記事（三菱重工、トヨタ、Google TPU）は会員限定で全文を開けていない。",
+    "イーロン・マスクのGrok/Starlink/Cybercab投稿を直接扱う主要メディア記事は、開いた範囲では見つかっていない。",
+    "米10月CPIは収集時点（21:45 JST）で未発表。"
+  ]
+}
