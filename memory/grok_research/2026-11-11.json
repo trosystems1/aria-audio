@@ -1,0 +1,253 @@
+{
+  "generated": "2026-11-11 06:24 JST",
+  "target_session": "US 2026-11-10 (Tue) close / JP 2026-11-10",
+  "x_statements": [
+    {
+      "account": "@federalreserve",
+      "posted_at_jst": "2026-11-10 18:02",
+      "url": "https://x.com/federalreserve/status/2120079543172280778",
+      "summary": "ウォラー理事のキングス・カレッジ・ロンドンでの経済見通し講演の告知。報道によると、ウォラー氏は10月のインフレが鈍化しても12月に利上げすべきで、悪化すれば0.5%の利上げも検討すべきと発言。",
+      "related_tickers": [
+        "SPY",
+        "QQQ",
+        "USDJPY",
+        "米2年債"
+      ],
+      "press": [
+        {
+          "media": "Reuters (via MarketScreener)",
+          "url": "https://ca.marketscreener.com/news/wall-st-ends-lower-as-hot-inflation-data-fed-comments-heighten-rate-worries-ce785edad18ef422",
+          "date": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "account": "@federalreserve",
+      "posted_at_jst": "2026-11-11 05:31",
+      "url": "https://x.com/federalreserve/status/2120253027131232741",
+      "summary": "ボウマン副議長（金融監督担当）のCFRでの金融政策講演の告知。ロイターによると、利上げを求めるまではいかなかったが、インフレが最優先課題と認めた。",
+      "related_tickers": [
+        "SPY",
+        "米国債"
+      ],
+      "press": [
+        {
+          "media": "Reuters (via MarketScreener)",
+          "url": "https://ca.marketscreener.com/news/wall-st-ends-lower-as-hot-inflation-data-fed-comments-heighten-rate-worries-ce785edad18ef422",
+          "date": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "account": "@elonmusk",
+      "posted_at_jst": "2026-11-10 19:34",
+      "url": "https://x.com/elonmusk/status/2120102767624880364",
+      "summary": "Starlinkのソフトウェア（宇宙・地上間の大量データ転送の管理用）は、超知能の学習にも非常に適していると判明した、と投稿。報道機関での裏付けは未確認。",
+      "related_tickers": [
+        "TSLA",
+        "SpaceX(非上場)",
+        "xAI(非上場)"
+      ],
+      "press": []
+    },
+    {
+      "account": "@WhiteHouse",
+      "posted_at_jst": "2026-11-11 03:57",
+      "url": "https://x.com/WhiteHouse/status/2120229357608485243",
+      "summary": "「米製造業への新たな歴史的投資」とする投稿。対象企業や金額は投稿本文に記載なし（リンク先未確認）。",
+      "related_tickers": [],
+      "press": []
+    }
+  ],
+  "move_causes": [
+    {
+      "item": "米主要3指数",
+      "move": "S&P500 -0.38%（7,521.48）、ナスダック -0.74%（25,067.23）、ダウ -0.31%（52,227.80）",
+      "cause": "10月CPIが前月比+0.4%と予想（+0.3%）を上回り、12月利上げ観測が強まった。ウォラー理事、ローガン・ダラス連銀総裁らのタカ派発言も重し。CME FedWatchで12月の0.25%以上の利上げ織り込みはほぼ100%。",
+      "sources": [
+        {
+          "media": "Reuters (via MarketScreener)",
+          "url": "https://ca.marketscreener.com/news/wall-st-ends-lower-as-hot-inflation-data-fed-comments-heighten-rate-worries-ce785edad18ef422",
+          "date": "2026-11-10"
+        },
+        {
+          "media": "AP",
+          "url": "https://apnews.com/article/stock-markets-ai-earnings-oil-ffe205fbc4fddf65c3e8e64e740355b7",
+          "date": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "item": "米国債利回り",
+      "move": "2年債 +18bp超で4.736%、10年債 +13bpで4.992%（一時5%超）、30年債 5.352%",
+      "cause": "CPI上振れと、420億ドルの国債入札が低調だったこと。",
+      "sources": [
+        {
+          "media": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/10/us-bonds-treasurys-yields.html",
+          "date": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "item": "ドル円",
+      "move": "158.66円（ドル+0.47%）、ロイター集計。FXStreetでは一時158.76円",
+      "cause": "CPI上振れで米金利が上昇し、ドルが主要通貨に対して全面高。",
+      "sources": [
+        {
+          "media": "Reuters (via CNA)",
+          "url": "https://www.channelnewsasia.com/business/dollar-strengthens-after-us-inflation-data-boosts-fed-rate-hike-expectations-6537586",
+          "date": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "item": "NVDA",
+      "move": "-5.47%（ロイター表、2日で約10%下落）",
+      "cause": "ジェンスン・フアンCEOと中国人実業家アリス・フアン氏をめぐるスパイ疑惑で社内調査を開始したことで、CEOの去就への懸念が高まった。The Informationは、両者の関係を通じて少なくとも75億ドル分のチップが中国企業経由で出荷されたと報道。",
+      "sources": [
+        {
+          "media": "Reuters (via MarketScreener)",
+          "url": "https://ca.marketscreener.com/news/wall-st-ends-lower-as-hot-inflation-data-fed-comments-heighten-rate-worries-ce785edad18ef422",
+          "date": "2026-11-10"
+        },
+        {
+          "media": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/10/stock-market-movers-live-updates.html",
+          "date": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "item": "MSFT",
+      "move": "-2.20%（533.16ドル、終値は価格データ）",
+      "cause": "アンソロピックがClaude Sheets、Claude Whiteboards、Claude DataというOffice対抗のツールを発表し、急落した。IPOに向けた修正届出の直後。",
+      "sources": [
+        {
+          "media": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/10/stock-market-movers-live-updates.html",
+          "date": "2026-11-10"
+        },
+        {
+          "media": "Bloomberg Law",
+          "url": "https://news.bloomberglaw.com/private-equity/anthropic-unveils-office-tools-ahead-of-ipo-taking-on-microsoft",
+          "date": "2026-11-10"
+        }
+      ],
+      "price_source": "https://exa.ai/library/markets/stock/MSFT"
+    },
+    {
+      "item": "AVGO",
+      "move": "+3.91%（331.98ドル、価格データ）",
+      "cause": "半導体・AIインフラ株の反発の続き。報道ではアンソロピック関連の資金調達・計算資源契約やJPモルガンの支持が挙がるが、主要報道機関での裏付けは未確認（Yahoo Finance/Investing.comのみ）。",
+      "sources": [
+        {
+          "media": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-stocks-rise-2-69-173950413.html",
+          "date": ""
+        },
+        {
+          "media": "Investing.com",
+          "url": "https://www.investing.com/news/stock-market-news/why-is-broadcom-stock-rallying-today-93CH-5016133",
+          "date": "2026-11-10"
+        }
+      ],
+      "price_source": "https://exa.ai/library/markets/stock/AVGO",
+      "confidence": "cause_unverified_by_major_outlet"
+    },
+    {
+      "item": "AMZN",
+      "move": "+1.48%（270.87ドル、価格データ）",
+      "cause": "主要報道機関で個別の理由は確認できず。",
+      "sources": [],
+      "price_source": "https://exa.ai/library/markets/stock/AMZN?date=2026-11-10&view=daily&measure=change",
+      "confidence": "cause_unknown"
+    },
+    {
+      "item": "その他の大型株",
+      "move": "TSLA +0.46%、AAPL -0.62%（±1%未満）。META・GOOGLの前日比は未確認。",
+      "cause": "",
+      "sources": []
+    },
+    {
+      "item": "米住宅株",
+      "move": "レナー約-5%、D.R.ホートン約-4%、ITB -3%超",
+      "cause": "CPI上振れで利上げ観測が強まり、住宅ローン金利上昇懸念。",
+      "sources": [
+        {
+          "media": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/10/stock-market-movers-live-updates.html",
+          "date": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "item": "CoreWeave（引け後）",
+      "move": "通常取引は下落、決算発表後の時間外で約5%高と伝えられる",
+      "cause": "7〜9月期決算と見通し引き上げ（時間外の数字は主要報道機関で未確認）。",
+      "sources": [
+        {
+          "media": "Reuters (via MarketScreener)",
+          "url": "https://ca.marketscreener.com/news/wall-st-ends-lower-as-hot-inflation-data-fed-comments-heighten-rate-worries-ce785edad18ef422",
+          "date": "2026-11-10"
+        }
+      ],
+      "confidence": "after_hours_unverified"
+    },
+    {
+      "item": "アンソロピックIPO",
+      "move": "調達額は最大644億ドル、完全希薄化後の評価額は最大1.4兆ドルの見込み、今月後半に上場予定",
+      "cause": "AI大型株からの資金シフトや持ち高調整の可能性。",
+      "sources": [
+        {
+          "media": "Reuters (via MarketScreener)",
+          "url": "https://ca.marketscreener.com/news/wall-st-ends-lower-as-hot-inflation-data-fed-comments-heighten-rate-worries-ce785edad18ef422",
+          "date": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "item": "日経平均（11/10）",
+      "move": "+1,684.08円（+2.87%）で60,459.58円、3営業日ぶりに6万円台回復。TOPIX +1.98%で3,893.71",
+      "cause": "前日の米AI・半導体株高を引き継ぎ、ソフトバンクグループ（終値で13%あまり上昇、1銘柄で約380円押し上げ）、アドバンテスト、東京エレクトロンが買われた。",
+      "sources": [
+        {
+          "media": "日本経済新聞",
+          "url": "https://www.nikkei.com/article/DGXZQOFL100F10Q6A111C2000000/",
+          "date": "2026-11-10"
+        }
+      ]
+    }
+  ],
+  "followups": [
+    {
+      "promise": "11/10台本：本日22:30に米10月CPI発表、予想は前月比+0.3%（前回+0.6%）、まず見る数字はコアCPI前月比+0.2%",
+      "source_script": "https://github.com/trosystems1/aria-audio/blob/main/memory/scripts/2026-11-10.md",
+      "result": "総合は前月比+0.4%（予想+0.3%）、コアは+0.3%（予想+0.2%）でともに上振れ。前年比は2025年の政府閉鎖の影響で公表なし。住居費が上昇分の3割超、食品+0.5%。",
+      "sources": [
+        {
+          "media": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/10/cpi-inflation-report-october-2026.html",
+          "date": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "promise": "11/10台本：エヌビディアの取締役会による独立調査、米下院中国特別委員会がフアンCEOに18日の説明を要求",
+      "source_script": "https://github.com/trosystems1/aria-audio/blob/main/memory/scripts/2026-11-10.md",
+      "result": "株価は10日も約5.5%安で2日で約10%下落。CNBCによるとフアン氏は謝罪を表明。18日の説明はまだ先。",
+      "sources": [
+        {
+          "media": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/10/stock-market-movers-live-updates.html",
+          "date": "2026-11-10"
+        },
+        {
+          "media": "Reuters (via MarketScreener)",
+          "url": "https://ca.marketscreener.com/news/wall-st-ends-lower-as-hot-inflation-data-fed-comments-heighten-rate-worries-ce785edad18ef422",
+          "date": "2026-11-10"
+        }
+      ]
+    }
+  ]
+}
