@@ -1,0 +1,335 @@
+{
+  "generated": "2026-11-12T06:40:00+09:00",
+  "test_run": false,
+  "session_covered": {
+    "us": "2026-11-11（水・米東部時間。日本時間11/12 6:00終了）。ベテランズデーで株式は通常取引、米国債市場は休場。",
+    "japan": "2026-11-11",
+    "x_window_utc": "2026-11-11T00:00:00Z〜2026-11-11T21:30:00Z",
+    "notes": "並走期間（〜11/17ごろ）。n8nはまだこのファイルを読まない。Xは有名人・政府・中銀・大手企業公式・CEO・主要報道機関の公式アカウントのみ。"
+  },
+  "x_statements": [
+    {
+      "account": "@elonmusk",
+      "post_url": "https://x.com/elonmusk/status/2120565056429814073",
+      "time_jst": "2026-11-12T02:11:22+09:00",
+      "gist": "サイバートラックの受注残をこなすため、生産を2027年夏の終わりまで延長すると投稿。テスラ株は上昇。",
+      "tickers": [
+        "TSLA"
+      ],
+      "news_article": {
+        "outlet": "CBS News",
+        "url": "https://www.cbsnews.com/news/tesla-extend-cybertruck-production-backlog/",
+        "article_date": "2026-11-11",
+        "note": "ロイター・ブルームバーグ・CNBC・WSJ・日経での記事は未確認。株価反応はTipRanks/Seeking Alphaが報道。"
+      }
+    },
+    {
+      "account": "@elonmusk",
+      "post_url": "https://x.com/elonmusk/status/2120565179276832797",
+      "time_jst": "2026-11-12T02:11:51+09:00",
+      "gist": "テスラの自動運転（FSD）がフィンランドで承認されたと投稿（引用投稿）。",
+      "tickers": [
+        "TSLA"
+      ],
+      "news_article": null
+    },
+    {
+      "account": "@USTreasury（@SecScottBessent）",
+      "post_url": "https://x.com/USTreasury/status/2120351410143252485",
+      "time_jst": "2026-11-11T12:02:25+09:00",
+      "gist": "ベッセント財務長官が米中関係全国委員会のガラで基調講演。「貿易は双方の利益を進めるもので、どちらの主権も損なうべきでない」。報道では『デカップリングでなくデリスキング』、AIの協力と競争を冷静に見極めるべきと発言。",
+      "tickers": [
+        "FXI",
+        "NVDA",
+        "SPY"
+      ],
+      "news_article": {
+        "outlet": "Reuters",
+        "url": "https://www.reuters.com/3fec1b0a85a0/world/china/us-china-should-stay-clear-eyed-ai-cooperation-competition-bessent-says-2026-11-11/",
+        "article_date": "2026-11-11",
+        "also": "https://home.treasury.gov/news/press-releases/sb0688"
+      }
+    },
+    {
+      "account": "@Reuters",
+      "post_url": "https://x.com/Reuters/status/2120392350828568667",
+      "time_jst": "2026-11-11T14:45:06+09:00",
+      "gist": "上院銀行委員会のクレイマー議員（共和党）が、中国のスパイとされる女性との関係発覚を受けてエヌビディアのフアンCEOに辞任を要求。",
+      "tickers": [
+        "NVDA"
+      ],
+      "news_article": {
+        "outlet": "Reuters (via Investing.com)",
+        "url": "https://www.investing.com/news/stock-market-news/senior-republican-on-us-senate-banking-panel-calls-on-nvidia-ceo-huang-to-resign-5017609",
+        "article_date": "2026-11-11"
+      }
+    },
+    {
+      "account": "@business",
+      "post_url": "https://x.com/business/status/2120552167496954244",
+      "time_jst": "2026-11-12T01:20:09+09:00",
+      "gist": "下院の共和党有力議員が、フアンCEOに説明を求めるため議会が召喚状を出す用意があると発言。11/11時点で召喚状は未発行。",
+      "tickers": [
+        "NVDA"
+      ],
+      "news_article": {
+        "outlet": "Bloomberg Law",
+        "url": "https://news.bloomberglaw.com/artificial-intelligence/congress-set-to-subpoena-nvidias-jensen-huang-republican-says",
+        "article_date": "2026-11-11"
+      }
+    },
+    {
+      "account": "@WSJ",
+      "post_url": "https://x.com/WSJ/status/2120542640185720991",
+      "time_jst": "2026-11-12T00:42:17+09:00",
+      "gist": "速報：コアウィーブ株が21%急伸、データセンター建設の新たな資金調達方法を示しAI相場を再活性化。",
+      "tickers": [
+        "CRWV",
+        "NVDA",
+        "NBIS"
+      ],
+      "news_article": {
+        "outlet": "Reuters (via Kitco)",
+        "url": "https://www.kitco.com/news/off-the-wire/2026-11-11/stocks-climb-coreweave-results-ease-ai-spending-concerns",
+        "article_date": "2026-11-11"
+      }
+    },
+    {
+      "account": "@CNBC",
+      "post_url": "https://x.com/CNBC/status/2120494052420342067",
+      "time_jst": "2026-11-11T21:29:13+09:00",
+      "gist": "ベアードがフアンCEOをめぐる懸念とAIの不透明感を理由にエヌビディアを格下げ。",
+      "tickers": [
+        "NVDA"
+      ],
+      "news_article": {
+        "outlet": "Kiplinger",
+        "url": "https://www.kiplinger.com/investing/stocks/nasdaq-adds-400-points-after-coreweave-earnings-stock-market-today",
+        "article_date": "2026-11-11",
+        "note": "ニュートラルへ格下げ、モルガン・スタンレーはトップピックから外した（オーバーウェイト維持）と記載。CNBC記事本文は未取得。"
+      }
+    }
+  ],
+  "move_causes": [
+    {
+      "name": "S&P 500",
+      "ticker": "SPX",
+      "session": "US 2026-11-11",
+      "move_pct": 1.3,
+      "close": 7619.38,
+      "reason": "コアウィーブの好決算でAI投資の持続性への懸念が和らぎ、AI・半導体株が反発。エヌビディアも2日続落から持ち直した。情報技術セクターが11業種で最も強く、VIXは4日続落。",
+      "outlet": "AP（終値）／Reuters（理由）",
+      "url": "https://apnews.com/article/stock-markets-ai-earnings-oil-297d040c83844a9563327340b370c24e",
+      "article_date": "2026-11-11",
+      "also_seen_in": [
+        {
+          "outlet": "Reuters (via Kitco)",
+          "url": "https://www.kitco.com/news/off-the-wire/2026-11-11/stocks-climb-coreweave-results-ease-ai-spending-concerns"
+        },
+        {
+          "outlet": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-11-dow-sp-500-nasdaq-nvidia-treasurys-veterans-day-140638547.html"
+        }
+      ],
+      "note": "APによると史上最高値まで2.6%に接近。ロイター記事の数字（+1.33%、7,620.79）は引け前の値。"
+    },
+    {
+      "name": "ナスダック総合",
+      "ticker": "IXIC",
+      "session": "US 2026-11-11",
+      "move_pct": 1.6,
+      "close": 25466.19,
+      "reason": "ハイテク株主導。Yahoo Financeは中間選挙後の下落分を引け値で取り戻したと報道。",
+      "outlet": "AP / Yahoo Finance",
+      "url": "https://apnews.com/article/wall-street-stocks-dow-nasdaq-027cd5f4583d1a11c1795150bf065afb",
+      "article_date": "2026-11-11"
+    },
+    {
+      "name": "ダウ平均",
+      "ticker": "DJI",
+      "session": "US 2026-11-11",
+      "move_pct": 0.5,
+      "close": 52486.49,
+      "reason": "上昇はハイテク中心で、ダウの上げ幅は限定的（+254ドル）。",
+      "outlet": "AP",
+      "url": "https://apnews.com/article/stock-markets-ai-earnings-oil-297d040c83844a9563327340b370c24e",
+      "article_date": "2026-11-11"
+    },
+    {
+      "name": "フィラデルフィア半導体指数",
+      "ticker": "SOX",
+      "session": "US 2026-11-11",
+      "move_pct": 7,
+      "close": null,
+      "reason": "構成銘柄すべてが上昇し、1週間ぶりの高値。",
+      "outlet": "Reuters (via Kitco)",
+      "url": "https://www.kitco.com/news/off-the-wire/2026-11-11/stocks-climb-coreweave-results-ease-ai-spending-concerns",
+      "article_date": "2026-11-11",
+      "note": "引け前の数字。終値は未確認。"
+    },
+    {
+      "name": "CoreWeave",
+      "ticker": "CRWV",
+      "session": "US 2026-11-11",
+      "move_pct": 24.71,
+      "close": 60.77,
+      "reason": "7〜9月期売上高36.6億ドル（前年同期比168%増、LSEG予想35.5億ドル）と予想を上回り、通期見通しを引き上げ。2028年前半に調整後黒字化、無担保社債市場は使わないと表明し債務懸念が後退。CEOは2027年の残り容量は10倍の申し込みと発言。2025年4月以来の大幅高。",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/11/coreweave-crwv-outlook-earnings-ai.html",
+      "article_date": "2026-11-11",
+      "also_seen_in": [
+        {
+          "outlet": "Reuters (via Kitco)",
+          "url": "https://www.kitco.com/news/off-the-wire/2026-11-11/stocks-climb-coreweave-results-ease-ai-spending-concerns"
+        },
+        {
+          "outlet": "Reuters (via Investing.com)",
+          "url": "https://www.investing.com/news/stock-market-news/coreweave-sparks-ai-cloud-stock-rally-lifts-nvidia-as-results-ease-bubble-fears-5018610"
+        }
+      ],
+      "note": "終値60.77ドルはInvesting.comの価格表。Nebius +15.44%、Applied Digital +7.37%、IREN +5.63%（CNBC）。"
+    },
+    {
+      "name": "NVIDIA",
+      "ticker": "NVDA",
+      "session": "US 2026-11-11",
+      "move_pct": 2.87,
+      "close": 173.73,
+      "reason": "2日間で時価総額約4300億ドルを失った後の買い戻し。ベアードの格下げ、クレイマー上院議員の辞任要求、議会の召喚状検討が続くなかでの反発。中国は疑惑を「根拠がない」と否定、取締役会は国家安全保障や機密が損なわれたと考える理由はないとしている。11月の下落率は約12%（Yahoo Finance）。",
+      "outlet": "Kiplinger（+2.9%）／Reuters（背景）",
+      "url": "https://www.kiplinger.com/investing/stocks/nasdaq-adds-400-points-after-coreweave-earnings-stock-market-today",
+      "article_date": "2026-11-11",
+      "also_seen_in": [
+        {
+          "outlet": "Reuters (via Euronext)",
+          "url": "https://live.euronext.com/en/financial-news/stocks-gain-coreweave-eases-worries-dollar-strengthens"
+        }
+      ],
+      "note": "終値173.73ドル・+2.87%はInvesting.comの価格表。ロイター引け前は+3.8%。"
+    },
+    {
+      "name": "メモリー・光通信株",
+      "ticker": "MU, SNDK, COHR, LITE",
+      "session": "US 2026-11-11",
+      "move_pct": null,
+      "close": null,
+      "reason": "コアウィーブ決算を受けたAI関連の買い。CNBCではサンディスク+16%、マイクロン+13%、コヒレント+12%、ルメンタム+14%（取引時間中）。",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/11/stocks-moving-the-most-today-live-updates.html",
+      "article_date": "2026-11-11",
+      "note": "Investing.comの価格表ではMU +11.89%（811.30ドル）、SNDK +13.69%、AMD +7.32%（552.90ドル）。"
+    },
+    {
+      "name": "Microsoft",
+      "ticker": "MSFT",
+      "session": "US 2026-11-11",
+      "move_pct": -2,
+      "close": null,
+      "reason": "アンソロピックがClaude Sheets・Whiteboards・DataというOffice対抗ツールを発表したことで2日続落。",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/11/stocks-moving-the-most-today-live-updates.html",
+      "article_date": "2026-11-11",
+      "note": "取引時間中の数字。終値は未確認。"
+    },
+    {
+      "name": "Tesla",
+      "ticker": "TSLA",
+      "session": "US 2026-11-11",
+      "move_pct": 2.91,
+      "close": 390.84,
+      "reason": "マスク氏がサイバートラック生産を2027年夏の終わりまで延長すると投稿。",
+      "outlet": "CBS News（理由）／exa.ai（価格）",
+      "url": "https://www.cbsnews.com/news/tesla-extend-cybertruck-production-backlog/",
+      "article_date": "2026-11-11",
+      "note": "価格出典 https://exa.ai/library/markets/stocks/TSLA?date=2026-11-11&view=daily 。主要5媒体での騰落率確認はできていない。",
+      "confidence": "price_from_data_vendor"
+    },
+    {
+      "name": "Corning",
+      "ticker": "GLW",
+      "session": "US 2026-11-11",
+      "move_pct": 10,
+      "close": null,
+      "reason": "ジェフリーズが買い推奨・目標株価134ドルで調査開始。AI光インフラ銘柄として再評価。",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/11/stocks-moving-the-most-today-live-updates.html",
+      "article_date": "2026-11-11",
+      "note": "「10%超」は取引時間中。"
+    },
+    {
+      "name": "ドル円",
+      "ticker": "USDJPY",
+      "session": "US 2026-11-11",
+      "move_pct": 0.69,
+      "close": 159.83,
+      "reason": "10月CPI上振れとFRB高官のタカ派発言で12月利上げ観測が強まりドルが全面高。2カ月超ぶりのドル高値で160円に迫った。ドル指数は102.85。",
+      "outlet": "Reuters (via Investing.com)",
+      "url": "https://ca.investing.com/news/economy-news/dollar-gains-as-hot-inflation-hawkish-fed-talk-lift-ratehike-bets-4949209",
+      "article_date": "2026-11-11",
+      "also_seen_in": [
+        {
+          "outlet": "ロイター（欧州市場サマリー）",
+          "url": "https://topics.smt.docomo.ne.jp/article/reuters/business/reuters-20261112005?fm=latestnews"
+        }
+      ],
+      "note": "NY終盤の値かは未確認（ロイターの記事時点の値）。"
+    },
+    {
+      "name": "FRB利上げ観測",
+      "ticker": "FedWatch",
+      "session": "US 2026-11-11",
+      "move_pct": null,
+      "close": null,
+      "reason": "CME FedWatchで12月の0.25%以上の利上げを完全に織り込み、0.5%利上げの確率は13.2%。12月FOMCは12/9に結論。",
+      "outlet": "Reuters (via Kitco)",
+      "url": "https://www.kitco.com/news/off-the-wire/2026-11-11/stocks-climb-coreweave-results-ease-ai-spending-concerns",
+      "article_date": "2026-11-11"
+    },
+    {
+      "name": "日経平均（11/11）",
+      "ticker": "N225",
+      "session": "JP 2026-11-11",
+      "move_pct": 1.31,
+      "close": 61248.59,
+      "reason": "3日続伸。先週急落後の値ごろ感と信用買い残減少による需給改善。SBGが決算後の売りをこなして底堅く、アドバンテスト・東京エレクトロン・キオクシアなど半導体も持ち直し。TOPIXは+0.92%で3,929.39。",
+      "outlet": "日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOFL110IU0R11C26A1000000/",
+      "article_date": "2026-11-11"
+    }
+  ],
+  "followups": [
+    {
+      "source_script": "memory/scripts/2026-11-11.md",
+      "promise": "日本時間13日（金）22:30に米10月PPI発表。前回+1.3%、予想+0.4%。「明日の配信で結果をお伝えします」。",
+      "status": "未発表",
+      "as_of_jst": "2026-11-12T06:40:00+09:00",
+      "outcome": "発表は日本時間11/13 22:30の予定で、11/13朝の配信時点ではまだ出ていない。台本の『明日の配信で結果』は誤りで、結果を伝えられるのは11/14（土）配信。11/13台本では『今夜発表』と予告するのが正しい。",
+      "sources": [
+        "https://github.com/trosystems1/aria-audio/blob/main/memory/scripts/2026-11-11.md"
+      ]
+    },
+    {
+      "source_script": "memory/scripts/2026-11-10.md / 2026-11-11.md",
+      "promise": "エヌビディアをめぐる調査と、下院中国特別委員会がフアンCEOに18日の説明を要求",
+      "status": "進行中",
+      "as_of_jst": "2026-11-12T06:40:00+09:00",
+      "outcome": "11/11はクレイマー上院議員が辞任を要求、下院側はフアン氏が説明に応じなければ召喚状を出す構え（未発行）。株価は3営業日ぶりに反発。エヌビディアの8〜10月期決算は11/17（米国時間）発表予定で、説明要求日（18日）はその翌日。",
+      "sources": [
+        "https://www.investing.com/news/stock-market-news/senior-republican-on-us-senate-banking-panel-calls-on-nvidia-ceo-huang-to-resign-5017609",
+        "https://news.bloomberglaw.com/artificial-intelligence/congress-set-to-subpoena-nvidias-jensen-huang-republican-says",
+        "https://nvidianews.nvidia.com/news/nvidia-sets-conference-call-for-third-quarter-financial-results-6928873"
+      ]
+    },
+    {
+      "source_script": "grok_research/2026-11-11.json",
+      "promise": "コアウィーブ決算（11/10引け後、時間外で約5%高と伝えられた）",
+      "status": "結果判明",
+      "as_of_jst": "2026-11-12T06:40:00+09:00",
+      "outcome": "11/11の通常取引で+24.71%。",
+      "sources": [
+        "https://www.cnbc.com/2026/11/11/coreweave-crwv-outlook-earnings-ai.html"
+      ]
+    }
+  ],
+  "limitations": "指数の終値はAPとYahoo Financeで確認（ロイター本文は引け前の数字）。NVDA・CRWV・MU・AMDの終値はInvesting.comの価格表、TSLAの終値はexa.aiの価格データで、主要5媒体では未確認。MSFT・GLW・SOXは取引時間中の数字で終値は未確認。AAPL・AMZN・GOOGL・METAの騰落は調べられていない。米国債市場は休場のため利回りの更新なし。ドル円159.83円はロイター記事時点の値で、NY終値かは未確認。@federalreserveと@realDonaldTrumpの市場関連の投稿は収集範囲では見つからず、@WhiteHouseはベテランズデー関連のみ。テスラFSDのフィンランド承認は報道での裏付け未確認。エヌビディア決算日（11/17）は同社ニュースルームの検索結果からの確認で、ページ本文は未取得。"
+}
