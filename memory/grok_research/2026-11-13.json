@@ -1,0 +1,310 @@
+{
+  "generated": "2026-11-13T06:17:53+09:00",
+  "test_run": false,
+  "session_covered": {
+    "us": "2026-11-12（木・米東部時間。日本時間11/13 6:00終了）",
+    "japan": "2026-11-12",
+    "x_window_utc": "2026-11-12T00:00:00Z〜2026-11-12T21:16:00Z",
+    "notes": "並走期間（〜11/17ごろ）。n8nはまだこのファイルを読まない。Xは有名人・政府・中銀・大手企業公式・CEO・主要報道機関の公式アカウントのみ。"
+  },
+  "x_statements": [
+    {
+      "account": "@CNBC",
+      "post_url": "https://x.com/CNBC/status/2120876958200602711",
+      "time_jst": "2026-11-12T22:50:45+09:00",
+      "gist": "速報：エヌビディアのジェンスン・フアンCEOが辞任。CFOのコレット・クレス氏が暫定CEOに就任。取締役会は社内外から後任を探す。",
+      "tickers": [
+        "NVDA"
+      ],
+      "news_article": {
+        "outlet": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/12/nvidia-jensen-huang-ceo-live-updates.html",
+        "article_date": "2026-11-12",
+        "note": "取締役会議長ハーベイ・ジョーンズ氏『事業、顧客への約束、製品ロードマップは中断なく続く』。"
+      }
+    },
+    {
+      "account": "@business",
+      "post_url": "https://x.com/business/status/2120881162797076936",
+      "time_jst": "2026-11-12T23:07:27+09:00",
+      "gist": "ブルームバーグ：フアン氏は中国のスパイとされる女性を含む2件の不倫報道を受けて職を追われた。クレス氏が暫定CEO、株は時間前取引で下落。",
+      "tickers": [
+        "NVDA"
+      ],
+      "news_article": {
+        "outlet": "Reuters (via Euronext)",
+        "url": "https://live.euronext.com/en/financial-news/wall-street-edges-nvidia-drops-after-ceo-resigns",
+        "article_date": "2026-11-12"
+      }
+    },
+    {
+      "account": "@Reuters",
+      "post_url": "https://x.com/Reuters/status/2120979964535173612",
+      "time_jst": "2026-11-13T05:40:04+09:00",
+      "gist": "トランプ大統領、アップル前CEOのティム・クック氏は『レジェンド』でありフアン氏の後任になるべきだと発言。",
+      "tickers": [
+        "NVDA",
+        "AAPL"
+      ],
+      "news_article": {
+        "outlet": "Reuters (via Investing.com)",
+        "url": "https://www.investing.com/news/stock-market-news/trump-says-ex-apple-ceo-cook-should-replace-huang-at-nvidia-5022650",
+        "article_date": "2026-11-12",
+        "note": "発言の元投稿（Truth Social等）は未確認。"
+      }
+    },
+    {
+      "account": "@Reuters",
+      "post_url": "https://x.com/Reuters/status/2120927099859108293",
+      "time_jst": "2026-11-13T02:10:00+09:00",
+      "gist": "後任候補として、技術責任者のイアン・バック氏と暫定CEOのクレス氏の2人を有力視するアナリスト・投資家が多い。",
+      "tickers": [
+        "NVDA"
+      ],
+      "news_article": {
+        "outlet": "Reuters",
+        "url": "https://x.com/Reuters/status/2120927099859108293",
+        "article_date": "2026-11-12",
+        "note": "記事本文は未取得（投稿のリンク先）。"
+      }
+    },
+    {
+      "account": "@business",
+      "post_url": "https://x.com/business/status/2120809169909428481",
+      "time_jst": "2026-11-12T18:21:23+09:00",
+      "gist": "ブルームバーグ独自：スキャンダルの中心の女性は中国に戻り北京にいる。中国はスパイ疑惑を否定。別投稿でシンガポールは訴追に十分な証拠なしと判断。",
+      "tickers": [
+        "NVDA"
+      ],
+      "news_article": {
+        "outlet": "Bloomberg",
+        "url": "https://x.com/business/status/2120885592326127734",
+        "article_date": "2026-11-12",
+        "note": "シンガポールの判断は@businessの別投稿。記事本文は未取得。"
+      }
+    },
+    {
+      "account": "@federalreserve",
+      "post_url": "https://x.com/federalreserve/status/2120936375390540151",
+      "time_jst": "2026-11-13T02:46:51+09:00",
+      "gist": "FRBが2027年のFOMC日程（暫定・改定版）を公表。同日、バー理事がAIと格差について講演。",
+      "tickers": [
+        "SPY"
+      ],
+      "news_article": null
+    },
+    {
+      "account": "@SecScottBessent",
+      "post_url": "https://x.com/SecScottBessent/status/2120929009492246607",
+      "time_jst": "2026-11-13T02:17:35+09:00",
+      "gist": "ベッセント財務長官、製造業の衰退は政策の結果であり反転できる、トランプ政権の通商政策と減税で製造業に勢いが戻ったと投稿。",
+      "tickers": [
+        "XLI"
+      ],
+      "news_article": null
+    },
+    {
+      "account": "@elonmusk",
+      "post_url": "https://x.com/elonmusk/status/2120746428720988408",
+      "time_jst": "2026-11-12T14:12:04+09:00",
+      "gist": "『ロボタクシーは週168時間働く』と投稿。テスラ公式も同日FSD（監視付き）の宣伝投稿。市場材料としては弱い。",
+      "tickers": [
+        "TSLA"
+      ],
+      "news_article": null
+    }
+  ],
+  "move_causes": [
+    {
+      "name": "S&P 500",
+      "ticker": "SPX",
+      "session": "US 2026-11-12",
+      "move_pct": -0.34,
+      "close": 7593.39,
+      "reason": "フアンCEO辞任でエヌビディアが下落し、エネルギー株の上昇を打ち消した。エネルギーは4日続伸で11業種トップ（トランプ氏の『イランとのディールは不要』発言で原油高）。ブロードコム、AMD、アルファベット、アマゾンが下支え。",
+      "outlet": "Reuters (via Devdiscourse)",
+      "url": "https://www.devdiscourse.com/article/international/4006182-us-stocks-equities-close-lower-as-nvidia-drop-outweighs-energy-gains",
+      "article_date": "2026-11-12",
+      "note": "終値はロイター速報値（preliminary）。"
+    },
+    {
+      "name": "ナスダック総合",
+      "ticker": "IXIC",
+      "session": "US 2026-11-12",
+      "move_pct": -0.4,
+      "close": 25363.75,
+      "reason": "エヌビディア安とネビウス急落でAI関連が売られた。",
+      "outlet": "Reuters (via Devdiscourse)",
+      "url": "https://www.devdiscourse.com/article/international/4006182-us-stocks-equities-close-lower-as-nvidia-drop-outweighs-energy-gains",
+      "article_date": "2026-11-12"
+    },
+    {
+      "name": "ダウ平均",
+      "ticker": "DJI",
+      "session": "US 2026-11-12",
+      "move_pct": -0.36,
+      "close": 52296.2,
+      "reason": "日中はプラス圏の時間帯もあったが小幅安で終了（-190.29ドル）。",
+      "outlet": "Reuters (via Devdiscourse)",
+      "url": "https://www.devdiscourse.com/article/international/4006182-us-stocks-equities-close-lower-as-nvidia-drop-outweighs-energy-gains",
+      "article_date": "2026-11-12"
+    },
+    {
+      "name": "NVIDIA",
+      "ticker": "NVDA",
+      "session": "US 2026-11-12",
+      "move_pct": -4.34,
+      "close": 166.19,
+      "reason": "フアンCEOが社長・CEO・取締役を即時辞任（中国スパイ疑惑の女性との関係に加え、2件目の不倫報道）。CFOのクレス氏が暫定CEO。一時12%近く下落したが下げ幅を縮小。取引開始30分で個人投資家の買いが約1.11億ドルと同社株で過去最大（Vanda Analytics）。",
+      "outlet": "Reuters（理由）／Yahoo Finance（終値）",
+      "url": "https://www.devdiscourse.com/article/international/4006182-us-stocks-equities-close-lower-as-nvidia-drop-outweighs-energy-gains",
+      "article_date": "2026-11-12",
+      "also_seen_in": [
+        {
+          "outlet": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/12/nvidia-jensen-huang-ceo-live-updates.html"
+        },
+        {
+          "outlet": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/quote/NVDA/history/"
+        }
+      ],
+      "note": "終値166.19ドル・-4.34%はYahoo Financeの価格表（前日173.73ドル）。日中安値はYahooで148.80ドル。"
+    },
+    {
+      "name": "Nebius",
+      "ticker": "NBIS",
+      "session": "US 2026-11-12",
+      "move_pct": -16,
+      "close": null,
+      "reason": "7〜9月期売上高9.808億ドル（前年比571%増、LSEG予想9.075億ドル）は予想超えも、第三者データセンターの稼働遅れで2026年売上見通しをレンジ下限（30億〜34億ドルの下限）に。2026年設備投資は約270億ドル、2027年は400億〜450億ドルと予想（FactSet 287.7億ドル）を大きく上回った。コアウィーブ、IREN、アプライド・デジタルも下落。",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/12/nebius-q3-earnings-report-2026.html",
+      "article_date": "2026-11-12",
+      "note": "-16%はCNBC記事時点の数字。終値は未確認。"
+    },
+    {
+      "name": "AMD",
+      "ticker": "AMD",
+      "session": "US 2026-11-12",
+      "move_pct": 5.86,
+      "close": 585.3,
+      "reason": "エヌビディアの経営混乱で競合に資金が向かった（ロイターは取引時間中+7%と報道）。",
+      "outlet": "Reuters (via Euronext)",
+      "url": "https://live.euronext.com/en/financial-news/wall-street-edges-nvidia-drops-after-ceo-resigns",
+      "article_date": "2026-11-12",
+      "note": "終値・+5.86%はInvesting.comの価格表（https://www.investing.com/news/stock-market-news/wall-st-opens-lower-after-nvidia-ceo-steps-down-5022326）。"
+    },
+    {
+      "name": "Broadcom",
+      "ticker": "AVGO",
+      "session": "US 2026-11-12",
+      "move_pct": 5.4,
+      "close": null,
+      "reason": "エヌビディアの競合として買われた。",
+      "outlet": "Reuters (via Euronext)",
+      "url": "https://live.euronext.com/en/financial-news/wall-street-edges-nvidia-drops-after-ceo-resigns",
+      "article_date": "2026-11-12",
+      "note": "+5.4%は取引時間中。終値は未確認（検索要約では+5.54%だが一次確認できず）。"
+    },
+    {
+      "name": "Alibaba (ADR)",
+      "ticker": "BABA",
+      "session": "US 2026-11-12",
+      "move_pct": -7.07,
+      "close": 94.34,
+      "reason": "米政府が最先端チップを使う海外データセンターへのアクセスを制限するとの懸念で、エヌビディアのチップを使う中国テック株が下落（ロイター、取引時間中-7.1%）。",
+      "outlet": "Reuters (via Euronext)",
+      "url": "https://live.euronext.com/en/financial-news/wall-street-edges-nvidia-drops-after-ceo-resigns",
+      "article_date": "2026-11-12",
+      "note": "終値・-7.07%はexa.aiの価格データ。"
+    },
+    {
+      "name": "Strategy",
+      "ticker": "MSTR",
+      "session": "US 2026-11-12",
+      "move_pct": -6.6,
+      "close": null,
+      "reason": "MSCIが同社株をグローバル指数から除外すると発表。",
+      "outlet": "Reuters (via Investing.com)",
+      "url": "https://ca.investing.com/news/stock-market-news/nasdaq-futures-fall-as-nvidia-turmoil-rattles-ai-stocks-4951887",
+      "article_date": "2026-11-12",
+      "note": "取引開始直後（9:45ET）の数字。終値は未確認。"
+    },
+    {
+      "name": "米10年債利回り",
+      "ticker": "US10Y",
+      "session": "US 2026-11-12",
+      "move_pct": null,
+      "close": 5.125,
+      "reason": "トランプ氏の『イランとのディールは不要』発言で原油高、10月CPI上振れでFRBの追加利上げ観測。10年債は13bp超上昇し5%台を回復。2年債4.879%、30年債5.449%。12月利上げ確率はCME FedWatchで100%（50bpは約13%）。",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/12/us-treasurys-bonds-yields.html",
+      "article_date": "2026-11-12",
+      "note": "単位は%。ロイターは5.113%（記事時点）。"
+    },
+    {
+      "name": "ドル円",
+      "ticker": "USDJPY",
+      "session": "US 2026-11-12",
+      "move_pct": 0.13,
+      "close": 159.975,
+      "reason": "FRBのタカ派化観測でドル指数は19カ月ぶり高値（103.17）。円は9月以来の安値。三村財務官は『夏の介入を忘れるのは早すぎる』とけん制。日本の10月企業物価は前年比7.1%に再加速。",
+      "outlet": "Reuters (via Euronext)",
+      "url": "https://live.euronext.com/en/financial-news/dollar-drops-slightly-19-month-highs-rate-divergence-focus",
+      "article_date": "2026-11-12",
+      "note": "159.975円はロイター記事時点（NY午後）の値。NY終値かは未確認。move_pctは円安方向の率。"
+    },
+    {
+      "name": "原油（WTI／ブレント）",
+      "ticker": "CL/BZ",
+      "session": "US 2026-11-12",
+      "move_pct": 2,
+      "close": 88.74,
+      "reason": "トランプ氏がTruth Socialで『イランとのディールは不要。金も海峡も押さえた』と投稿し、戦争長期化懸念。WTIは88.74ドルで引け（2%超高）、ブレントは95.82ドル（3%超高）。",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/12/us-treasurys-bonds-yields.html",
+      "article_date": "2026-11-12",
+      "also_seen_in": [
+        {
+          "outlet": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/12/oil-prices-jump-after-trump-says-no-iran-deal-needed-weve-got-their-strait.html"
+        }
+      ],
+      "note": "closeはWTI。トランプ氏の発言はX投稿ではなくTruth Socialのため x_statements には入れていない。"
+    }
+  ],
+  "followups": [
+    {
+      "source_script": "memory/scripts/2026-11-12.md / 2026-11-11.md",
+      "promise": "日本時間11/13（金）22:30に米10月PPI発表。前回前月比+1.3%、コアPPI予想+0.3%（11/12台本）／PPI予想+0.4%（11/11台本・CNBC）。",
+      "status": "未発表",
+      "as_of_jst": "2026-11-13T06:17:53+09:00",
+      "outcome": "発表は今夜（日本時間11/13 22:30）。11/13台本では『今夜発表』と予告、結果は11/14（土）配信で。CNBCは総合PPI予想を+0.4%と報道。コア予想0.3%は今回の出典で再確認できていない。",
+      "sources": [
+        "https://www.cnbc.com/2026/11/12/us-treasurys-bonds-yields.html",
+        "https://github.com/trosystems1/aria-audio/blob/main/memory/scripts/2026-11-12.md"
+      ]
+    },
+    {
+      "source_script": "memory/scripts/2026-11-10.md / 2026-11-11.md、grok_research/2026-11-12.json",
+      "promise": "エヌビディアをめぐる調査、フアンCEOへの議会の説明要求（18日）",
+      "status": "大きく進展",
+      "as_of_jst": "2026-11-13T06:17:53+09:00",
+      "outcome": "11/12にフアン氏が社長・CEO・取締役を即時辞任、クレスCFOが暫定CEO。株価は-4.34%。決算は11/17（米国時間）予定で、暫定体制での初決算になる。議会の説明要求（18日）がどうなるかは未確認。",
+      "sources": [
+        "https://www.cnbc.com/2026/11/12/nvidia-jensen-huang-ceo-live-updates.html",
+        "https://nvidianews.nvidia.com/news/nvidia-sets-conference-call-for-third-quarter-financial-results-6928873"
+      ]
+    },
+    {
+      "source_script": "memory/scripts/2026-11-12.md",
+      "promise": "アンソロピックIPO（11/19ナスダック上場予定、仮条件70〜78ドル）",
+      "status": "予定どおり（変更情報なし）",
+      "as_of_jst": "2026-11-13T06:17:53+09:00",
+      "outcome": "今回の収集範囲では日程・条件の変更報道は見つからなかった（確認は限定的）。",
+      "sources": []
+    }
+  ],
+  "limitations": "指数の終値はロイターの速報値（preliminary）で確定値は未確認。NVDA終値はYahoo Finance、AMD終値はInvesting.com、BABA終値はexa.aiの価格表で、主要5媒体の本文では終値を確認していない。AVGO・NBIS・MSTRは取引時間中の騰落率で終値は未確認。AAPL・MSFT・META・TSLAの騰落は調べていない（アルファベット、アマゾンは上昇とロイター）。ドル円159.975円はロイター記事時点の値。トランプ氏のイラン発言とクック氏推しの元投稿はX上で確認しておらず（イラン発言はTruth Social）、@realDonaldTrumpの該当X投稿は収集範囲で見つからなかった。@WhiteHouseの投稿は移民・軍事関連のみで市場材料なし。日経新聞の記事は今回参照していない。アンソロピックIPOの最新状況は深く調べていない。"
+}
