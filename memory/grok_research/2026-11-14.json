@@ -1,0 +1,340 @@
+{
+  "generated": "2026-11-14T06:20:35+09:00",
+  "test_run": false,
+  "session_covered": {
+    "us": "2026-11-13（金・米東部時間。日本時間11/14 6:00終了）",
+    "japan": "2026-11-13",
+    "x_window_utc": "2026-11-13T00:00:00Z〜2026-11-13T21:15:00Z",
+    "notes": "並走期間（〜11/17ごろ）。n8nはまだこのファイルを読まない。Xは有名人・政府・中銀・大手企業公式・CEO・主要報道機関の公式アカウントのみ。土曜配信なので週間の動きにも触れられる。"
+  },
+  "x_statements": [
+    {
+      "account": "@CNBC",
+      "post_url": "https://x.com/CNBC/status/2121233847949922347",
+      "time_jst": "2026-11-13T22:28:54+09:00",
+      "gist": "ベッセント財務長官、エヌビディアとメガスピード（シンガポール）について『明らかな迂回用のペーパー会社に売っていないか、流出防止の努力は十分だったのか』と疑問。財務省などはメガスピードのエンティティリスト追加を何カ月も支持していたが、決めるのは商務省だと述べた。",
+      "tickers": [
+        "NVDA"
+      ],
+      "news_article": {
+        "outlet": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/13/us-inflation-outlook-federal-reserve-rate-hike.html",
+        "article_date": "2026-11-13",
+        "note": "ロイター版: https://www.investing.com/news/economy-news/bessent-says-treasury-favored-limits-on-megaspeed-5025721"
+      }
+    },
+    {
+      "account": "@CNBC",
+      "post_url": "https://x.com/CNBC/status/2121207092061110682",
+      "time_jst": "2026-11-13T20:42:35+09:00",
+      "gist": "ラトニック商務長官が上院銀行委員会での証言に応じる（12月10日、NBC報道）。スコット委員長はフアン前CEOにも12月3日の証言を要請。対中チップ輸出の監督が焦点。",
+      "tickers": [
+        "NVDA"
+      ],
+      "news_article": {
+        "outlet": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/13/nvidia-scandal-lutnick-chip-sales.html",
+        "article_date": "2026-11-13",
+        "note": "メガスピードは過去2年で48億ドル超のエヌビディア製AIチップを購入（CNBC）。"
+      }
+    },
+    {
+      "account": "@CNBC",
+      "post_url": "https://x.com/CNBC/status/2121044521521729844",
+      "time_jst": "2026-11-13T09:56:35+09:00",
+      "gist": "在籍13年のコレット・クレスCFOが暫定CEOに。後継計画は未発表で、取締役会は社内外の候補を検討。",
+      "tickers": [
+        "NVDA"
+      ],
+      "news_article": {
+        "outlet": "Reuters (via StreetInsider)",
+        "url": "https://www.streetinsider.com/Market+Check/Wall+St+slides+as+Nvidia+overhang+weighs+on+tech/27338658.html",
+        "article_date": "2026-11-13",
+        "note": "ロイターはFT報道として、取締役会がアームのレネ・ハースCEOに後任の打診をしたと伝えた。"
+      }
+    },
+    {
+      "account": "@business",
+      "post_url": "https://x.com/business/status/2121249275522830755",
+      "time_jst": "2026-11-13T23:30:12+09:00",
+      "gist": "ブルームバーグ：アンソロピックが史上最大のIPOへ。今年は大型株式発行が相次ぐ。",
+      "tickers": [
+        "ANT"
+      ],
+      "news_article": {
+        "outlet": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/10/anthropic-sets-price-range-of-70-to-78-in-upcoming-ipo.html",
+        "article_date": "2026-11-10",
+        "note": "仮条件70〜78ドル。11/18値決め、11/19にナスダックでティッカー『ANT』で取引開始（Yahoo Finance）。約6倍の応募超過とブルームバーグ報道（ロイター経由）。"
+      }
+    },
+    {
+      "account": "@business",
+      "post_url": "https://x.com/business/status/2121334803089809766",
+      "time_jst": "2026-11-14T05:10:04+09:00",
+      "gist": "アンソロピックのダリオ・アモデイCEO、IPO前の説明会で計算資源（コンピュート）の確保が最大の課題の一つと発言。同日はJPモルガンのダイモンCEOとの対談も配信（@AnthropicAI告知）。",
+      "tickers": [
+        "ANT",
+        "JPM"
+      ],
+      "news_article": {
+        "outlet": "Bloomberg",
+        "url": "https://x.com/business/status/2121334803089809766",
+        "article_date": "2026-11-13",
+        "note": "記事本文は未取得（投稿のリンク先）。"
+      }
+    },
+    {
+      "account": "@CNBC",
+      "post_url": "https://x.com/CNBC/status/2121351046496653403",
+      "time_jst": "2026-11-14T06:14:36+09:00",
+      "gist": "来週はAI相場の大きな試練：エヌビディア決算（17日）に始まり、アンソロピックIPOで締めくくる。",
+      "tickers": [
+        "NVDA",
+        "ANT"
+      ],
+      "news_article": null
+    },
+    {
+      "account": "@business",
+      "post_url": "https://x.com/business/status/2121036582232662044",
+      "time_jst": "2026-11-13T09:25:02+09:00",
+      "gist": "シスコ、今四半期の売上見通しが予想を上回り、通期見通しも引き上げ。AIブームでネットワーク機器の需要が続く。（@Reutersも同趣旨）",
+      "tickers": [
+        "CSCO"
+      ],
+      "news_article": {
+        "outlet": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/cisco-stocks-fall-5-29-173456905.html",
+        "article_date": "2026-11-13",
+        "note": "ただし株価は粗利益率の低下などで5%超下落。"
+      }
+    },
+    {
+      "account": "@business",
+      "post_url": "https://x.com/business/status/2121319714253119896",
+      "time_jst": "2026-11-14T04:10:06+09:00",
+      "gist": "ドルは1カ月超ぶりの大きな週間上昇へ。FRBの12月利上げ観測が追い風。",
+      "tickers": [
+        "USDJPY",
+        "DXY"
+      ],
+      "news_article": {
+        "outlet": "Reuters (via Euronext)",
+        "url": "https://live.euronext.com/en/financial-news/stocks-fall-tech-nvidia-concerns-us-dollar-climbs",
+        "article_date": "2026-11-13"
+      }
+    },
+    {
+      "account": "@nvidia",
+      "post_url": "https://x.com/nvidia/status/2121319866712076769",
+      "time_jst": "2026-11-14T04:10:43+09:00",
+      "gist": "ロボット研究向けのオープンモデル『GR00T 2』を発表。人の実演から技能を学び、異なるロボットの体にも移せる。混乱の中でも製品発表は継続。",
+      "tickers": [
+        "NVDA"
+      ],
+      "news_article": null
+    }
+  ],
+  "move_causes": [
+    {
+      "name": "S&P 500",
+      "ticker": "SPX",
+      "session": "US 2026-11-13",
+      "move_pct": -0.42,
+      "close": 7560.87,
+      "reason": "エヌビディアの経営不安でハイテク株が売られ、テクノロジーは11業種で最弱。PPIは予想をやや下回ったが利上げ観測は変わらず。週間では2.5%高で、4週続落を止めた（10月上旬以来の週間上昇、AP）。",
+      "outlet": "Reuters (via StreetInsider)",
+      "url": "https://www.streetinsider.com/Market+Check/Wall+St+slides+as+Nvidia+overhang+weighs+on+tech/27338658.html",
+      "article_date": "2026-11-13",
+      "also_seen_in": [
+        {
+          "outlet": "AP",
+          "url": "https://apnews.com/article/stocks-markets-ai-us-oil-f8edd0eeb1494d4d2584715686c5e619"
+        }
+      ],
+      "note": "終値はロイター速報値（preliminary）。週間+2.5%はAP。"
+    },
+    {
+      "name": "ナスダック総合",
+      "ticker": "IXIC",
+      "session": "US 2026-11-13",
+      "move_pct": -0.91,
+      "close": 25135.96,
+      "reason": "フィラデルフィア半導体指数が下落し、AMDとブロードコムが最大の重荷。コアウィーブ、ネビウスなどネオクラウドも安い。週間では上昇。",
+      "outlet": "Reuters (via StreetInsider)",
+      "url": "https://www.streetinsider.com/Market+Check/Wall+St+slides+as+Nvidia+overhang+weighs+on+tech/27338658.html",
+      "article_date": "2026-11-13"
+    },
+    {
+      "name": "ダウ平均",
+      "ticker": "DJI",
+      "session": "US 2026-11-13",
+      "move_pct": 0.09,
+      "close": 52343.23,
+      "reason": "ハイテク安の中で小幅高（+46.14ドル）。マイクロソフトは世界的な障害の緩和で下げを消してプラスで引け。",
+      "outlet": "Reuters (via StreetInsider)",
+      "url": "https://www.streetinsider.com/Market+Check/Wall+St+slides+as+Nvidia+overhang+weighs+on+tech/27338658.html",
+      "article_date": "2026-11-13",
+      "note": "Yahoo Financeは52,347.55（+0.10%）。"
+    },
+    {
+      "name": "NVIDIA",
+      "ticker": "NVDA",
+      "session": "US 2026-11-13",
+      "move_pct": -2.01,
+      "close": 162.85,
+      "reason": "フアン氏辞任の余波が続き6週続落（2012年10月以来の長さ、ロイター）。時価総額は4兆ドルを割り込んだ（Yahoo）。FT報道では取締役会がアームのハースCEOに後任を打診。ベッセント長官の流出批判、ラトニック長官の議会証言も重荷。決算は11/17。",
+      "outlet": "Reuters（理由）／Yahoo Finance（終値）",
+      "url": "https://www.streetinsider.com/Market+Check/Wall+St+slides+as+Nvidia+overhang+weighs+on+tech/27338658.html",
+      "article_date": "2026-11-13",
+      "also_seen_in": [
+        {
+          "outlet": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/article/nvidia-stock-slips-as-investors-digest-ceo-exit-rest-of-chip-sector-falls-144818245.html"
+        }
+      ],
+      "note": "終値162.85ドル・-2.01%（前日166.19ドル）はYahoo Financeの表示。"
+    },
+    {
+      "name": "AMD",
+      "ticker": "AMD",
+      "session": "US 2026-11-13",
+      "move_pct": -8.75,
+      "close": 534.06,
+      "reason": "直前5日続伸（前日まで直近5日で+44.7%）の反動で、半導体の売りの中心に。ロイターは取引時間中-10.7%と報道。",
+      "outlet": "Reuters (via Investing.com)",
+      "url": "https://www.investing.com/news/stock-market-news/neoclouds-ai-stocks-slide-again-as-nvidia-turmoil-rattles-sector-5026205",
+      "article_date": "2026-11-13",
+      "note": "終値・-8.75%はInvesting.com掲載の価格表とexa.aiの価格データ。ロイター本文では終値未確認。"
+    },
+    {
+      "name": "Broadcom",
+      "ticker": "AVGO",
+      "session": "US 2026-11-13",
+      "move_pct": -5.9,
+      "close": null,
+      "reason": "前日まで5日続伸（直近5日+25%）からの反落。AMDとともにナスダックの最大の重荷（ロイター）。",
+      "outlet": "Reuters (via Investing.com)",
+      "url": "https://www.investing.com/news/stock-market-news/neoclouds-ai-stocks-slide-again-as-nvidia-turmoil-rattles-sector-5026205",
+      "article_date": "2026-11-13",
+      "note": "-5.9%は取引時間中（米東部12時ごろ）。終値は未確認（検索要約に347.01ドルの記載があるが一次確認できず）。"
+    },
+    {
+      "name": "CoreWeave／Nebius",
+      "ticker": "CRWV/NBIS",
+      "session": "US 2026-11-13",
+      "move_pct": null,
+      "close": null,
+      "reason": "エヌビディアが支えてきたAI向け融資（ベンダーファイナンス）が細るとの懸念で、ネオクラウドが続落。ロイターは取引時間中にコアウィーブ-8.8%、ネビウス-9%と報道。",
+      "outlet": "Reuters (via Investing.com)",
+      "url": "https://www.investing.com/news/stock-market-news/neoclouds-ai-stocks-slide-again-as-nvidia-turmoil-rattles-sector-5026205",
+      "article_date": "2026-11-13",
+      "note": "終値の騰落率は未確認（同ページの価格表はNBIS -9.92%、CRWV -6.13%だが時点不明）。"
+    },
+    {
+      "name": "Cisco",
+      "ticker": "CSCO",
+      "session": "US 2026-11-13",
+      "move_pct": null,
+      "close": null,
+      "reason": "AI関連の見通しを引き上げたが、AIネットワーク製品の比率上昇で粗利益率が低下し、株価は5%超下落。",
+      "outlet": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/cisco-stocks-fall-5-29-173456905.html",
+      "article_date": "2026-11-13",
+      "also_seen_in": [
+        {
+          "outlet": "Reuters (X)",
+          "url": "https://x.com/Reuters/status/2121118370758058217"
+        }
+      ],
+      "note": "主要5媒体での騰落率・終値は未確認。Investing.comの価格表では-6.24%（時点不明）。"
+    },
+    {
+      "name": "Applied Materials",
+      "ticker": "AMAT",
+      "session": "US 2026-11-13",
+      "move_pct": null,
+      "close": null,
+      "reason": "過去最高の四半期売上だったが、見通しが期待に届かず約6%下落。アナリスト10人が目標株価を引き下げ。",
+      "outlet": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/applied-materials-sinks-6-record-165209582.html",
+      "article_date": "2026-11-13",
+      "note": "主要5媒体では未確認。"
+    },
+    {
+      "name": "米10年債利回り",
+      "ticker": "US10Y",
+      "session": "US 2026-11-13",
+      "move_pct": null,
+      "close": 5.143,
+      "reason": "10月PPIは前月比+0.3%と予想（+0.4%）をやや下回ったが、前年比6.5%と2022年11月以来の伸び。10年債は一時5.174%と10月以来の高水準。2年債4.859%、30年債5.472%。12月9日の利上げ確率は100%（CME FedWatch、0.25%が89%）。",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/13/treasury-yields-fed-rates.html",
+      "article_date": "2026-11-13",
+      "note": "単位は%。5.143%は記事更新時点の値で、引け値かは未確認。"
+    },
+    {
+      "name": "ドル円",
+      "ticker": "USDJPY",
+      "session": "US 2026-11-13",
+      "move_pct": 0.03,
+      "close": 159.9,
+      "reason": "ドル指数は103.35で2025年4月以来の高値、4日続伸の勢い。FRBの利上げ観測でドル買い。円は160円に迫る。",
+      "outlet": "Reuters (via Euronext)",
+      "url": "https://live.euronext.com/en/financial-news/stocks-fall-tech-nvidia-concerns-us-dollar-climbs",
+      "article_date": "2026-11-13",
+      "note": "159.9円はロイター記事時点（NY午後）の値。NY終値かは未確認。move_pctはドル高方向。"
+    },
+    {
+      "name": "原油（WTI／ブレント）",
+      "ticker": "CL/BZ",
+      "session": "US 2026-11-13",
+      "move_pct": -0.2,
+      "close": 88.56,
+      "reason": "ほぼ横ばい。米国の対イラン再攻撃の見通しが薄れ、原油は2週連続の週間下落（CNBC）。ブレントは95.84ドル。",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/13/treasury-yields-fed-rates.html",
+      "article_date": "2026-11-13",
+      "note": "closeはWTI 12月限の記事時点の値。引け値は未確認。"
+    }
+  ],
+  "followups": [
+    {
+      "source_script": "memory/scripts/2026-11-13.md（『明日の配信では米PPIの結果を』と約束）",
+      "promise": "米10月PPI（日本時間11/13 22:30）。市場予想は前月比+0.4%、前回+1.3%。",
+      "status": "発表済み",
+      "as_of_jst": "2026-11-14T06:20:35+09:00",
+      "outcome": "前月比+0.3%で予想（+0.4%）をやや下回った。前回は+1.4%に上方修正。前年比+6.5%で2022年11月以来の大きさ（予想6.6%）。食品・エネルギー除くコアは+0.3%で予想どおり（CNBC）。食品・エネルギー・貿易サービス除くは+0.5%。それでも12月利上げ観測は100%のまま。次回（11月分）は12月15日。",
+      "sources": [
+        "https://www.cnbc.com/2026/11/13/ppi-inflation-report-october-2026.html",
+        "https://money.usnews.com/investing/news/articles/2026-11-13/us-producer-prices-rise-further-in-october",
+        "https://www.bls.gov/ppi/"
+      ]
+    },
+    {
+      "source_script": "memory/scripts/2026-11-13.md、grok_research/2026-11-13.json",
+      "promise": "エヌビディアの後任・決算（11/17）・議会の説明要求",
+      "status": "進展",
+      "as_of_jst": "2026-11-14T06:20:35+09:00",
+      "outcome": "後継計画は未発表。FT報道で取締役会がアームのハースCEOに打診（ロイター経由）。上院銀行委員会がフアン前CEOに12月3日、ラトニック商務長官に12月10日の証言を要請し、ラトニック氏は応じる意向。決算は11/17（米国時間）で予定どおり。前回メモの『18日の説明要求』との関係は未確認。",
+      "sources": [
+        "https://www.cnbc.com/2026/11/13/nvidia-scandal-lutnick-chip-sales.html",
+        "https://www.streetinsider.com/Market+Check/Wall+St+slides+as+Nvidia+overhang+weighs+on+tech/27338658.html"
+      ]
+    },
+    {
+      "source_script": "memory/scripts/2026-11-12.md",
+      "promise": "アンソロピックIPO（11/19ナスダック上場予定、仮条件70〜78ドル）",
+      "status": "予定どおり",
+      "as_of_jst": "2026-11-14T06:20:35+09:00",
+      "outcome": "11/18に値決め、11/19にティッカー『ANT』で取引開始。8.25億株、想定時価総額1.3兆〜1.45兆ドル。応募は約6倍とブルームバーグ報道（ロイター経由）。",
+      "sources": [
+        "https://finance.yahoo.com/technology/article/anthropic-sets-ipo-date-for-thursday-nov-19-173011206.html",
+        "https://www.cnbc.com/2026/11/10/anthropic-sets-price-range-of-70-to-78-in-upcoming-ipo.html",
+        "https://www.investing.com/news/stock-market-news/anthropics-ipo-is-about-six-times-oversubscribed-bloomberg-news-reports-5023345"
+      ]
+    }
+  ],
+  "limitations": "指数の終値はロイターの速報値（preliminary）。NVDA終値はYahoo Finance、AMD終値はInvesting.com／exa.aiの価格表で、主要5媒体の本文では確認していない。AVGO・CRWV・NBISは取引時間中の騰落率で終値は未確認。CSCO・AMATはYahoo Financeのみで主要5媒体では未確認。10年債・ドル円・原油は記事時点の値で引け値かは未確認。アンソロピックの6倍応募超過は見出しのみで本文未確認。@WhiteHouseが『違法な召喚状には屈しない』と投稿（https://x.com/WhiteHouse/status/2121346829279543398）したが、何の召喚状か確認できず不採用。@realDonaldTrumpの市場関連X投稿は収集範囲で見つからなかった。@elonmuskはGrok・Starship関連のみで市場材料なし。日経新聞の記事は今回参照していない。"
+}
