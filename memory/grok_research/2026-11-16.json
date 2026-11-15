@@ -1,0 +1,241 @@
+{
+  "generated": "2026-11-16T06:28:18+09:00",
+  "test_run": false,
+  "session_covered": {
+    "us": "2026-11-13（金・米東部時間）の終値＋同週（11/9〜11/13）の週間動向。週末（11/14〜11/15）のニュース",
+    "japan": "2026-11-16（月）週報回",
+    "x_window_utc": "2026-11-13T21:00:00Z〜2026-11-15T21:20:00Z",
+    "notes": "並走期間（〜11/17ごろ）。n8nはまだこのファイルを読まない。月曜は週報モードの想定。金曜の個別数値は2026-11-14.jsonと同じ（ロイター速報値）。週末はエヌビディアCEO問題とアンソロピックIPO、FRB高官の発言が中心。"
+  },
+  "x_statements": [
+    {
+      "account": "@Reuters",
+      "post_url": "https://x.com/Reuters/status/2121996803767783884",
+      "time_jst": "2026-11-16T01:00:37+09:00",
+      "gist": "ベッセント財務長官、エヌビディアは新CEOを『社外から探すべき』『劇的な刷新が必要』とFOXの番組で発言。取締役会と外部弁護士は輸出規制順守の企業文化について10日以内に説明すべきだとも述べた。",
+      "tickers": [
+        "NVDA"
+      ],
+      "news_article": {
+        "outlet": "Reuters (via Investing.com)",
+        "url": "https://www.investing.com/news/economy-news/bessent-says-nvidia-must-go-outside-the-company-to-find-new-ceo-5028004",
+        "note": "CNBC版: https://www.cnbc.com/2026/11/15/bessent-nvidia-ceo-lutnick-megaspeed.html （収益目的で違法な販売を押し進めたのでは、と企業文化を疑問視。ラトニック商務長官との対立も）"
+      }
+    },
+    {
+      "account": "@Reuters",
+      "post_url": "https://x.com/Reuters/status/2122053291668300059",
+      "time_jst": "2026-11-16T04:45:05+09:00",
+      "gist": "FT報道：辞任したジェンセン・ファン氏がCEO復帰を検討し、親しい人と話し合っている。",
+      "tickers": [
+        "NVDA"
+      ],
+      "news_article": {
+        "outlet": "Reuters (via Investing.com)",
+        "url": "https://www.investing.com/news/stock-market-news/jensen-huang-discusses-comeback-as-nvidia-ceo-with-allies-ft-reports-5028065",
+        "note": "ブルームバーグも同内容を投稿（https://x.com/business/status/2122048247225000173）。財務長官の『社外から』発言と真っ向から対立。"
+      }
+    },
+    {
+      "account": "@CNBC",
+      "post_url": "https://x.com/CNBC/status/2121660005782851823",
+      "time_jst": "2026-11-15T02:42:18+09:00",
+      "gist": "大株主のアルティメーター（ブラッド・ガースナー氏）とアトレイデス（ギャビン・ベイカー氏）が、エヌビディア取締役会に『急がず慎重な後任選び』を求め、ファン氏復帰の可能性も残すよう書簡。即時復帰は求めていない。",
+      "tickers": [
+        "NVDA"
+      ],
+      "news_article": {
+        "outlet": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/14/nvidia-investors-jensen-huang-return-board-letter.html",
+        "note": "両社の保有は6月末時点で合計約21.3億ドル。マスク氏も復帰嘆願に署名したとXで述べた（CNBC記事内）。"
+      }
+    },
+    {
+      "account": "@CNBC",
+      "post_url": "https://x.com/CNBC/status/2122043796707770547",
+      "time_jst": "2026-11-16T04:07:21+09:00",
+      "gist": "カンザスシティ連銀のシュミッド総裁『インフレは目標を不快なほど上回り、悪い方向に動いている。FRBにはやるべき仕事がある』。追加利上げを明言はせず。",
+      "tickers": [
+        "SPX",
+        "US10Y"
+      ],
+      "news_article": {
+        "outlet": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/15/fed-has-some-work-to-do-on-inflation-kansas-city-fed-chief-says.html",
+        "note": "政策金利は3.75〜4.00%（9月に利上げ、10月は据え置き）。金利先物は12月の0.25%利上げを完全に織り込み（CNBC）。シュミッド氏は今年の投票権なし。"
+      }
+    },
+    {
+      "account": "@business",
+      "post_url": "https://x.com/business/status/2122074924135174369",
+      "time_jst": "2026-11-16T06:11:02+09:00",
+      "gist": "アンソロピックはIPOで最大904億ドルの調達を目指し、実現すれば史上最大。ウォール街はAI投資が報われる証拠を求めている。",
+      "tickers": [
+        "ANT"
+      ],
+      "news_article": {
+        "outlet": "Bloomberg (via Bloomberg Law)",
+        "url": "https://news.bloomberglaw.com/artificial-intelligence/anthropic-targets-64-4-billion-ipo-nearing-spacexs-record",
+        "note": "評価額は約1.4兆ドルを目標（11/10ブルームバーグ）。仮条件70〜78ドル、11/18（水）値決め、11/19（木）ナスダックで『ANT』取引開始予定（CNBC: https://www.cnbc.com/2026/11/13/stock-market-next-week-outlook-for-nov-16-20-2026.html）。904億ドルは私募分を含む合計。"
+      }
+    },
+    {
+      "account": "@business",
+      "post_url": "https://x.com/business/status/2122033148162691560",
+      "time_jst": "2026-11-16T03:25:02+09:00",
+      "gist": "上院共和党がラトニック商務長官に、エヌビディア製AIチップの流出を防げなかった疑惑で議会証言を迫る。",
+      "tickers": [
+        "NVDA"
+      ],
+      "news_article": {
+        "outlet": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/15/bessent-nvidia-ceo-lutnick-megaspeed.html",
+        "note": "ブルームバーグ記事本文は未取得。CNBCはベッセント氏とラトニック氏の対立、両氏が今週トランプ大統領の訪中に同行予定（Semafor報道）と伝えた。"
+      }
+    },
+    {
+      "account": "@WhiteHouse",
+      "post_url": "https://x.com/WhiteHouse/status/2121378456579850673",
+      "time_jst": "2026-11-14T08:03:32+09:00",
+      "gist": "国土安全保障長官が、全米の航空路管制センターに影響する通信障害による全米空港のグラウンドストップ（離陸停止）について説明。その後、米東部時間20:15に空域を再開。",
+      "tickers": [
+        "DAL",
+        "UAL",
+        "AAL",
+        "LUV"
+      ],
+      "news_article": {
+        "outlet": "Reuters",
+        "url": "https://www.reuters.com/5f374b32b07b/world/us/faa-issues-national-ground-stop-due-extraordinary-circumstance-reasons-safety-2026-11-13/",
+        "note": "FAAのQ&Aでは停止は東部時間15:30ごろ〜20:15、欠航は約1万2462便（検索要約ベース、本文で未確認）。航空株への影響は月曜の取引で確認が必要。"
+      }
+    },
+    {
+      "account": "@USTreasury",
+      "post_url": "https://x.com/USTreasury/status/2122025010877608198",
+      "time_jst": "2026-11-16T02:52:42+09:00",
+      "gist": "ベッセント財務長官『経済のあらゆる部分で非常に強い加速が見られる』（減税法・通商・エネルギー政策の成果と主張）。",
+      "tickers": [],
+      "news_article": null
+    }
+  ],
+  "move_causes": [
+    {
+      "name": "S&P 500（週間）",
+      "ticker": "SPX",
+      "session": "US 2026-11-09〜11-13",
+      "move_pct_week": 2.5,
+      "close": 7560.87,
+      "reason": "金曜は0.4%安だったが週間では2.5%高で、10月上旬以来の週間上昇（AP）。8月以来の好調な週。エヌビディアから他のハイテク株（アップル、AMD、ブロードコムなど）への資金移動が起き、S&Pのテクノロジー業種は週間2%超高で5週続落を止めた（CNBC）。",
+      "outlet": "AP / CNBC",
+      "url": "https://apnews.com/article/stocks-markets-ai-us-oil-f8edd0eeb1494d4d2584715686c5e619",
+      "also_seen_in": [
+        {
+          "outlet": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/13/stock-market-next-week-outlook-for-nov-16-20-2026.html"
+        }
+      ],
+      "note": "終値は金曜のロイター速報値（2026-11-14.json）。"
+    },
+    {
+      "name": "ナスダック総合（金曜）",
+      "ticker": "IXIC",
+      "session": "US 2026-11-13",
+      "move_pct": -0.91,
+      "close": 25135.96,
+      "reason": "半導体株安が重荷。週間ではプラス（数値は主要5媒体で未確認）。",
+      "outlet": "Reuters (via StreetInsider)",
+      "url": "https://www.streetinsider.com/Market+Check/Wall+St+slides+as+Nvidia+overhang+weighs+on+tech/27338658.html"
+    },
+    {
+      "name": "ダウ平均（金曜）",
+      "ticker": "DJI",
+      "session": "US 2026-11-13",
+      "move_pct": 0.09,
+      "close": 52343.23,
+      "reason": "ディフェンシブ株への資金シフトで小幅高。週間ではプラス（数値は主要5媒体で未確認）。",
+      "outlet": "Reuters (via StreetInsider)",
+      "url": "https://www.streetinsider.com/Market+Check/Wall+St+slides+as+Nvidia+overhang+weighs+on+tech/27338658.html"
+    },
+    {
+      "name": "NVIDIA（週間）",
+      "ticker": "NVDA",
+      "session": "US 2026-11-09〜11-13",
+      "move_pct_week": -13,
+      "close": 162.85,
+      "reason": "ファン氏の不倫・スパイ疑惑での辞任で週間13%安。2025年4月以来の大きさで、6週続落は2012年以来の最長。続落局面で時価総額約1.7兆ドル（約30%）が失われ、アップルを下回った（CNBC）。決算は11/17（火）引け後、LSEG予想は売上高前年比91%増の1089億ドル。",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/13/nvidia-stock-jensen-affair-ai.html",
+      "note": "終値はロイター速報（金曜−2.01%）。"
+    },
+    {
+      "name": "AMD（金曜）",
+      "ticker": "AMD",
+      "session": "US 2026-11-13",
+      "move_pct": -8.75,
+      "close": 534.06,
+      "reason": "エヌビディア混乱がAI関連全体に波及、ネオクラウド（コアウィーブ、ネビウス）も安い。ただし週間ではアップル、ブロードコムとともに資金の受け皿になった（CNBC）。",
+      "outlet": "Reuters (via Investing.com)",
+      "url": "https://www.investing.com/news/stock-market-news/neoclouds-ai-stocks-slide-again-as-nvidia-turmoil-rattles-sector-5026205"
+    }
+  ],
+  "followups": [
+    {
+      "source_script": "memory/scripts/2026-11-14.md（『11月19日木曜の早朝4時にFOMC議事要旨』と予告）",
+      "promise": "10月FOMC議事要旨（日本時間11/19 4:00）",
+      "status": "未発表（予定どおりの見込み）",
+      "as_of_jst": "2026-11-16T06:28:18+09:00",
+      "outcome": "まだ発表前。週末にシュミッドKC連銀総裁が『インフレは悪い方向』と発言、ボストン連銀コリンズ総裁は『緩やかな利上げが最善』と発言（CNBC記事内）。金利先物は12月利上げを完全織り込み。",
+      "sources": [
+        "https://www.cnbc.com/2026/11/15/fed-has-some-work-to-do-on-inflation-kansas-city-fed-chief-says.html"
+      ]
+    },
+    {
+      "source_script": "grok_research/2026-11-14.json（来週の注目）",
+      "promise": "エヌビディア決算（11/17）と後任問題",
+      "status": "進展",
+      "as_of_jst": "2026-11-16T06:28:18+09:00",
+      "outcome": "決算は11/17（火）引け後で予定どおり（日本時間18日朝）。後任問題は週末に、財務長官が『社外から』を要求、大株主は慎重な選考とファン氏復帰の余地を要望、FTはファン氏自身が復帰を検討と報道、と分裂。CNBCはイアン・バック副社長を有力候補の一人と紹介。",
+      "sources": [
+        "https://www.investing.com/news/economy-news/bessent-says-nvidia-must-go-outside-the-company-to-find-new-ceo-5028004",
+        "https://www.investing.com/news/stock-market-news/jensen-huang-discusses-comeback-as-nvidia-ceo-with-allies-ft-reports-5028065",
+        "https://www.cnbc.com/2026/11/14/nvidia-investors-jensen-huang-return-board-letter.html",
+        "https://www.cnbc.com/2026/11/13/stock-market-next-week-outlook-for-nov-16-20-2026.html"
+      ]
+    },
+    {
+      "source_script": "grok_research/2026-11-14.json",
+      "promise": "アンソロピックIPO",
+      "status": "予定どおり",
+      "as_of_jst": "2026-11-16T06:28:18+09:00",
+      "outcome": "11/18（水）値決め、11/19（木）ナスダックで『ANT』取引開始予定。仮条件70〜78ドル。調達は最大904億ドルで史上最大の可能性（ブルームバーグ）。",
+      "sources": [
+        "https://www.cnbc.com/2026/11/13/stock-market-next-week-outlook-for-nov-16-20-2026.html",
+        "https://news.bloomberglaw.com/artificial-intelligence/anthropic-targets-64-4-billion-ipo-nearing-spacexs-record"
+      ]
+    }
+  ],
+  "week_ahead": [
+    {
+      "item": "エヌビディア3Q決算",
+      "when_jst": "11/18（水）朝（米11/17引け後）",
+      "source": "https://www.cnbc.com/2026/11/13/nvidia-stock-jensen-affair-ai.html"
+    },
+    {
+      "item": "ターゲット決算（水）、ウォルマート決算（木）、ホーム・デポ、ロウズ、TJXなど小売決算",
+      "when_jst": "今週",
+      "source": "https://finance.yahoo.com/markets/article/nvidias-first-post-jensen-earnings-and-anthropics-ipo-what-to-watch-this-week-110000732.html"
+    },
+    {
+      "item": "トランプ大統領・習近平主席・プーチン大統領の首脳会談（APEC、深圳）",
+      "when_jst": "11/19（木）予定",
+      "source": "https://www.reuters.com/5f374b32b07b/world/china/trump-hold-summit-with-xi-putin-shenzhen-thursday-ny-post-reports-2026-11-13/"
+    },
+    {
+      "item": "ウォーシュFRB議長のサンフランシスコ連銀会議での発言",
+      "when_jst": "米11/16（月）",
+      "source": "https://www.frbsf.org/news-and-media/events/2026/11/productivity-and-jobs-task-force-conference/"
+    }
+  ],
+  "limitations": "ナスダックとダウの週間騰落率は検索要約（AP・個人ブログ）のみで、主要5媒体の本文では確認できず数値は入れていない。金曜の終値はロイター速報値（11/14ファイルと同じ）。FAA停止の欠航便数は検索要約のみ。ウォーシュ議長の月曜発言は日程のみ確認、内容は未発表として扱った（一部サイトに発言済みとの記述があるが未確認）。トランプ氏・習氏・プーチン氏会談は11/19予定の報道（NYポスト経由ロイター等）で、確定度は要確認。@realDonaldTrumpの市場関連X投稿は収集範囲で見つからず。@elonmuskはスターシップ（ブースター回収）とスターリンク関連のみで市場材料なし。日経はX投稿の見出し（アンソロピック『220兆円』上場、AI株変調など）を見たのみで記事本文は未読。ブルームバーグ記事は見出し・要約のみの項目あり。"
+}
