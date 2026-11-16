@@ -1,0 +1,431 @@
+{
+  "generated": "2026-11-17T06:38:47+09:00",
+  "test_run": false,
+  "session_covered": {
+    "us": "2026-11-16（月・米東部時間）の通常取引",
+    "japan": "2026-11-17（火）朝の配信回",
+    "x_window_utc": "2026-11-16T09:00:00Z〜2026-11-16T21:35:00Z",
+    "notes": "並走期間（〜11/17ごろ）。主役はエヌビディア（取締役会がファン氏復帰を検討せずとの報道、商務省の遠隔アクセス規制）とウォーシュFRB議長のAI講演。3指数そろって3日続落（S&P・ナスダック）、ナスダックは10月6日の最高値から10%超下落で調整局面入り（ロイター）。"
+  },
+  "x_statements": [
+    {
+      "account": "@CNBC",
+      "post_url": "https://x.com/CNBC/status/2122385316292235328",
+      "time_jst": "2026-11-17T02:44:26+09:00",
+      "gist": "速報：エヌビディア取締役会はジェンセン・ファン氏のCEO復帰を検討していない（関係者）。取締役会は国家安全保障上の調査に集中。この報道で株価は日中安値を付けた。",
+      "tickers": [
+        "NVDA"
+      ],
+      "news_article": {
+        "outlet": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/16/nvidia-ceo-jensen-huang.html",
+        "note": "取締役会は法律事務所ワクテル・リプトンに調査を依頼。復帰嘆願の署名は18万件、マスク氏らも支持。ロイターも『3人の関係者』として同内容（https://x.com/Reuters/status/2122432027349663978 、記事 https://www.reuters.com/legal/transactional/silicon-valley-leaders-back-call-jensen-huangs-return-nvidia-2026-11-16/ 本文は未読）。"
+      }
+    },
+    {
+      "account": "@Reuters",
+      "post_url": "https://x.com/Reuters/status/2122371646484865200",
+      "time_jst": "2026-11-17T01:50:06+09:00",
+      "gist": "トランプ大統領、ファン氏のエヌビディアCEO復帰は『構わない』『彼は大きな教訓を得た』。国家安全保障は『危険にさらされていない』とし、ラトニック商務長官を交代させる考えはないと発言。習主席との会談で本件を取り上げる可能性も。",
+      "tickers": [
+        "NVDA"
+      ],
+      "news_article": {
+        "outlet": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/16/trump-lutnick-nvidia-national-security-jensen-huant.html",
+        "note": "ロイター記事 https://www.reuters.com/world/china/trump-says-he-would-not-mind-huang-being-reinstated-nvidia-ceo-2026-11-16/ は本文取得不可（見出し・要約のみ確認）。ブルームバーグも『トランプ氏、ラトニック氏に信任』と投稿（https://x.com/business/status/2122357785991971088）。数時間後に取締役会は復帰を検討せずと報じられ、大統領発言と食い違い。"
+      }
+    },
+    {
+      "account": "@federalreserve",
+      "post_url": "https://x.com/federalreserve/status/2122374409306742925",
+      "time_jst": "2026-11-17T02:01:05+09:00",
+      "gist": "ウォーシュFRB議長がサンフランシスコでAI（議長は『スーパーインテリジェンス』と呼ぶ）の講演。シナリオは①生産性向上で成長と完全雇用②自動化で失業率上昇③AIが『期待外れ』に終わり、投資リターン低下→株価下落→景気減速と失業増、の3つ。『予測ではなく例示』と強調。金融政策への具体的示唆はなし。",
+      "tickers": [
+        "SPX",
+        "IXIC",
+        "US10Y"
+      ],
+      "news_article": {
+        "outlet": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/16/fed-ai-task-force-kevin-warsh.html",
+        "note": "FRB公式原文: https://www.federalreserve.gov/newsevents/speech/warsh20261116a.htm 。ロイター投稿 https://x.com/Reuters/status/2122421950198817080 、ブルームバーグ投稿（FRBスタッフがAIの影響の想定シナリオ作成を開始）https://x.com/business/status/2122390504310452245 。"
+      }
+    },
+    {
+      "account": "@business",
+      "post_url": "https://x.com/business/status/2122406869457138123",
+      "time_jst": "2026-11-17T04:10:04+09:00",
+      "gist": "ブルームバーグ：ハイテク株の下げが続き、ナスダック100が急落。エヌビディア決算とアンソロピックIPOを控えAI関連への警戒が続く。",
+      "tickers": [
+        "NDX",
+        "NVDA"
+      ],
+      "news_article": {
+        "outlet": "Bloomberg",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-16/nasdaq-100-plunges-as-nvidia-earnings-anthropic-ipo-on-horizon",
+        "note": "本文は未読（見出し・要約のみ）。"
+      }
+    },
+    {
+      "account": "@WSJmarkets",
+      "post_url": "https://x.com/WSJmarkets/status/2122443095916609744",
+      "time_jst": "2026-11-17T06:34:01+09:00",
+      "gist": "WSJ：米国株、エヌビディアと中国懸念で下げ拡大。S&P500は3日続落で、エヌビディアCEO辞任以降で最大の下げ。",
+      "tickers": [
+        "SPX",
+        "NVDA"
+      ],
+      "news_article": {
+        "outlet": "WSJ",
+        "url": "https://www.wsj.com/finance/stocks/u-s-stocks-extend-slide-on-nvidia-china-fears-ea169587",
+        "note": "本文は未読（X投稿のリンクカード要約のみ）。"
+      }
+    },
+    {
+      "account": "@business",
+      "post_url": "https://x.com/business/status/2122389292274102608",
+      "time_jst": "2026-11-17T03:00:14+09:00",
+      "gist": "オープンAIのアルトマンCEO、ファン氏退任による不透明感があってもAI業界は『大丈夫』と発言。",
+      "tickers": [
+        "NVDA"
+      ],
+      "news_article": {
+        "outlet": "Bloomberg",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-16/altman-says-ai-industry-will-be-fine-after-huang-s-ouster",
+        "note": "本文は未読（見出し・要約のみ）。"
+      }
+    },
+    {
+      "account": "@WhiteHouse",
+      "post_url": "https://x.com/WhiteHouse/status/2122361729921208328",
+      "time_jst": "2026-11-17T01:10:42+09:00",
+      "gist": "トランプ大統領がアジア歴訪に出発。フィリピン（ASEAN首脳会議）の後、中国・深圳のAPEC首脳会議へ。",
+      "tickers": [],
+      "news_article": {
+        "outlet": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/16/trump-lutnick-nvidia-national-security-jensen-huant.html",
+        "note": "CNBCは習主席とAPECで会談予定、北朝鮮の金正恩氏と中国で会う可能性にも言及と報道。ベッセント、ラトニック、ルビオ各長官が同行。"
+      }
+    },
+    {
+      "account": "@CNBC",
+      "post_url": "https://x.com/CNBC/status/2122362930603622720",
+      "time_jst": "2026-11-17T01:15:28+09:00",
+      "gist": "ボーイングとロッキードの合弁（ULA）のロケットが飛行中に失敗し、アマゾンの通信衛星を喪失。日経も『対スペースXに暗雲』と報道。",
+      "tickers": [
+        "AMZN",
+        "BA",
+        "LMT",
+        "SPCX"
+      ],
+      "news_article": {
+        "outlet": "Reuters",
+        "url": "https://www.reuters.com/5f374b32b07b/business/aerospace-defense/us-rocket-fails-after-launch-payload-amazon-internet-satellites-destroyed-2026-11-15/",
+        "note": "ロイター本文は未読（検索結果の見出しのみ）。日経投稿 https://x.com/nikkei/status/2122429237202129231 。アマゾン株の下落（−3.34%）との因果は主要媒体で未確認。"
+      }
+    },
+    {
+      "account": "@business",
+      "post_url": "https://x.com/business/status/2122377940197425526",
+      "time_jst": "2026-11-17T02:15:07+09:00",
+      "gist": "テスラがサイバーキャブの一般注文受付を開始。一部のファンが完全自動運転車を個人で所有できる最初の機会に。",
+      "tickers": [
+        "TSLA"
+      ],
+      "news_article": {
+        "outlet": "Bloomberg（X投稿）",
+        "url": "https://x.com/business/status/2122377940197425526",
+        "note": "ブルームバーグ記事本文は未取得。価格（2万9990ドル＋月299ドル）や招待制の詳細はIBD（https://www.investors.com/news/tesla-cybercab-marquess-brownlee-elon-musk-robotaxi/）等の主要5媒体以外のみで確認、テスラ株の騰落率も主要5媒体で未確認。"
+      }
+    },
+    {
+      "account": "@elonmusk",
+      "post_url": "https://x.com/elonmusk/status/2122408454325416322",
+      "time_jst": "2026-11-17T04:16:22+09:00",
+      "gist": "マスク氏『宇宙からスターシップをキャッチ』。週末の試験飛行で上段機体の回収に成功（金曜はブースター回収失敗）。",
+      "tickers": [
+        "SPCX"
+      ],
+      "news_article": {
+        "outlet": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/16/stocks-moving-the-most-today-live-updates.html",
+        "note": "CNBCはスペースX株が上段回収成功で小幅高と記載（日中）。終値ベースの騰落は主要媒体で未確認。"
+      }
+    }
+  ],
+  "move_causes": [
+    {
+      "name": "S&P 500",
+      "ticker": "SPX",
+      "session": "US 2026-11-16",
+      "move_pct": -1.92,
+      "close": 7416.59,
+      "change_pts": -145.08,
+      "reason": "ファン氏辞任の余波でAI株への熱が冷め、売りが全面に広がった。3日続落。11業種中9業種が下落し、生活必需品が唯一の上昇業種として買われた（CNBC）。翌日のエヌビディア決算と週内のアンソロピックIPOを控え警戒感（ロイター）。",
+      "outlet": "Reuters (via StreetInsider)",
+      "url": "https://www.streetinsider.com/General+News/Wall+Street+slumps+on+AI+jitters+ahead+of+Nvidia+results%2C+Anthropic+IPO%C2%A0/27346984.html",
+      "also_seen_in": [
+        {
+          "outlet": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/15/stock-market-today-live-updates.html"
+        }
+      ]
+    },
+    {
+      "name": "ナスダック総合",
+      "ticker": "IXIC",
+      "session": "US 2026-11-16",
+      "move_pct": -2.49,
+      "close": 24509.76,
+      "change_pts": -626.51,
+      "reason": "フィラデルフィア半導体指数（SOX）が5.3%安で重荷。10月6日の終値最高値から10%超下落し、調整局面入りを確認（ロイター）。3日続落（CNBC）。",
+      "outlet": "Reuters (via StreetInsider)",
+      "url": "https://www.streetinsider.com/General+News/Wall+Street+slumps+on+AI+jitters+ahead+of+Nvidia+results%2C+Anthropic+IPO%C2%A0/27346984.html",
+      "also_seen_in": [
+        {
+          "outlet": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/15/stock-market-today-live-updates.html"
+        }
+      ]
+    },
+    {
+      "name": "ダウ平均",
+      "ticker": "DJI",
+      "session": "US 2026-11-16",
+      "move_pct": -1.41,
+      "close": 51608.17,
+      "change_pts": -739.38,
+      "reason": "売りが取引後半にかけて金融株などにも広がった。モルガン・スタンレー、ゴールドマン・サックス、JPモルガンが2%超安（CNBC）。",
+      "outlet": "Reuters (via StreetInsider)",
+      "url": "https://www.streetinsider.com/General+News/Wall+Street+slumps+on+AI+jitters+ahead+of+Nvidia+results%2C+Anthropic+IPO%C2%A0/27346984.html",
+      "also_seen_in": [
+        {
+          "outlet": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/15/stock-market-today-live-updates.html"
+        }
+      ]
+    },
+    {
+      "name": "NVIDIA",
+      "ticker": "NVDA",
+      "session": "US 2026-11-16",
+      "move_pct": -4.12,
+      "close": null,
+      "reason": "CNBCが『取締役会はファン氏の復帰を検討していない』と報じ下げが拡大、日中安値。商務省が中国企業による第三国データセンター経由の遠隔利用の抜け穴をふさぐ規則を発表、ベッセント財務長官の『社外からCEOを』発言も重荷（CNBC）。2025年7月1日以来の安値で引け（CNBC）。決算は11/17（火）引け後、アナリスト予想は売上高1091億ドル、EPS前年比90.4%増（ロイター）。",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/16/nvidia-stock-price-jensen-huang.html",
+      "also_seen_in": [
+        {
+          "outlet": "Reuters (via StreetInsider)",
+          "url": "https://www.streetinsider.com/General+News/Wall+Street+slumps+on+AI+jitters+ahead+of+Nvidia+results%2C+Anthropic+IPO%C2%A0/27346984.html"
+        },
+        {
+          "outlet": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/15/stock-market-today-live-updates.html"
+        }
+      ],
+      "note": "終値は主要5媒体の本文では未確認。前日終値162.85ドル（11/16ファイル、ロイター速報）×(1−4.12%)で約156.14ドル（韓国fnnewsも156.14ドルと記載）。台本で使う場合は要確認。"
+    },
+    {
+      "name": "インテル／マイクロン",
+      "ticker": "INTC/MU",
+      "session": "US 2026-11-16",
+      "move_pct": "いずれも−7%超",
+      "reason": "AI半導体全体への売りが波及（ロイター・CNBC）。正確な騰落率・終値は主要媒体本文で未確認。",
+      "outlet": "Reuters (via StreetInsider)",
+      "url": "https://www.streetinsider.com/General+News/Wall+Street+slumps+on+AI+jitters+ahead+of+Nvidia+results%2C+Anthropic+IPO%C2%A0/27346984.html",
+      "also_seen_in": [
+        {
+          "outlet": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/15/stock-market-today-live-updates.html"
+        }
+      ]
+    },
+    {
+      "name": "AMD",
+      "ticker": "AMD",
+      "session": "US 2026-11-16",
+      "move_pct": "約−5%",
+      "reason": "エヌビディア発のAI半導体売りに連れ安（CNBC『5%下落』）。",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/15/stock-market-today-live-updates.html",
+      "note": "正確な騰落率（−5.58%、終値504.28ドル）は韓国fnnewsのみで、主要5媒体では未確認。"
+    },
+    {
+      "name": "アルファベット／アマゾン／メタ",
+      "ticker": "GOOGL/AMZN/META",
+      "session": "US 2026-11-16",
+      "move_pct": "−2.4%〜−4.1%",
+      "reason": "ハイパースケーラーもAI関連売りで下落（ロイター）。個別の騰落率は主要5媒体の本文では未確認。",
+      "outlet": "Reuters (via StreetInsider)",
+      "url": "https://www.streetinsider.com/General+News/Wall+Street+slumps+on+AI+jitters+ahead+of+Nvidia+results%2C+Anthropic+IPO%C2%A0/27346984.html"
+    },
+    {
+      "name": "デル／スーパー・マイクロ・コンピューター",
+      "ticker": "DELL/SMCI",
+      "session": "US 2026-11-16",
+      "move_pct": "DELL −7.0%、SMCI −6.9%",
+      "reason": "AIサーバー関連として売られた（ロイター）。",
+      "outlet": "Reuters (via StreetInsider)",
+      "url": "https://www.streetinsider.com/General+News/Wall+Street+slumps+on+AI+jitters+ahead+of+Nvidia+results%2C+Anthropic+IPO%C2%A0/27346984.html"
+    },
+    {
+      "name": "コアウィーブ／ネビウス",
+      "ticker": "CRWV/NBIS",
+      "session": "US 2026-11-16",
+      "move_pct": "CRWV −6.1%、NBIS −7.6%",
+      "reason": "ネオクラウド銘柄が3日続落（CNBC）。ブルームバーグはファン氏退任でエヌビディアのネオクラウド支援に疑問と報道（https://www.bloomberg.com/news/articles/2026-11-16/huang-s-ouster-fuels-doubts-about-nvidia-s-support-for-neoclouds 本文未読）。",
+      "outlet": "Reuters (via StreetInsider)",
+      "url": "https://www.streetinsider.com/General+News/Wall+Street+slumps+on+AI+jitters+ahead+of+Nvidia+results%2C+Anthropic+IPO%C2%A0/27346984.html",
+      "also_seen_in": [
+        {
+          "outlet": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/16/stocks-moving-the-most-today-live-updates.html"
+        }
+      ]
+    },
+    {
+      "name": "タイソン・フーズ",
+      "ticker": "TSN",
+      "session": "US 2026-11-16",
+      "move_pct": "+9%超（日中）",
+      "reason": "7〜9月期のEPS0.61ドル・売上高145.9億ドルが予想（0.53ドル・141億ドル）を上回った（CNBC）。生活必需品ETF（XLP）は過去最高値、P&Gも約2%高（CNBC）。",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/16/stocks-moving-the-most-today-live-updates.html",
+      "note": "終値ベースの騰落率は未確認（日中の記載）。"
+    },
+    {
+      "name": "米10年債利回り",
+      "ticker": "US10Y",
+      "session": "US 2026-11-16",
+      "level": 5.131,
+      "reason": "株安とウォーシュ議長の『AIは期待外れの可能性も』発言で債券に小幅な買い。10年債は2bp超低下の5.131%（金曜は5.174%まで上昇）、2年債は4bp低下の4.834%（CNBC、記事時点の値）。12月の0.25%利上げ確率は95.7%（CMEフェドウォッチ、ロイター）。",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/16/treasury-yields-bonds-inflation.html",
+      "also_seen_in": [
+        {
+          "outlet": "Reuters (via StreetInsider)",
+          "url": "https://www.streetinsider.com/General+News/Wall+Street+slumps+on+AI+jitters+ahead+of+Nvidia+results%2C+Anthropic+IPO%C2%A0/27346984.html"
+        }
+      ]
+    },
+    {
+      "name": "ドル円・ドル指数・金",
+      "ticker": "USDJPY/DXY/XAU",
+      "session": "US 2026-11-16",
+      "reason": "ドル指数は0.1%高の103.50で2025年4月以来の高値。ドル円は0.2%安の159.38円（日本の7〜9月期GDPが年率0.1%減のマイナス成長）。介入が意識される水準に近い（ロイター）。金現物は0.7%安の1オンス3852.95ドルで、日中に2025年10月以来の安値3830ドルを付けた（CNBC）。",
+      "outlet": "Reuters (via Yahoo Finance)",
+      "url": "https://finance.yahoo.com/news/yen-steady-against-euro-dollar-010910695.html",
+      "also_seen_in": [
+        {
+          "outlet": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/16/gold-holds-steady-as-investors-await-warsh-remarks-for-rate-signals.html"
+        }
+      ],
+      "note": "ドル円・ドル指数は米東部15:49時点（ロイター記事時点）、金は15:38時点。NY終値ではない。"
+    }
+  ],
+  "followups": [
+    {
+      "source_script": "grok_research/2026-11-16.json（week_ahead）",
+      "promise": "ウォーシュFRB議長のサンフランシスコ連銀会議での発言（米11/16）",
+      "status": "実施済み",
+      "as_of_jst": "2026-11-17T06:38:47+09:00",
+      "outcome": "AIの経済への影響について3つのシナリオを提示。『AIが期待外れなら株価下落・景気減速・失業増』の可能性にも言及したが『予測ではない』と強調。12月利上げなど金融政策の直接的な示唆はなし。債券は小幅高（利回り低下）。",
+      "sources": [
+        "https://www.federalreserve.gov/newsevents/speech/warsh20261116a.htm",
+        "https://www.cnbc.com/2026/11/16/fed-ai-task-force-kevin-warsh.html",
+        "https://www.cnbc.com/2026/11/16/treasury-yields-bonds-inflation.html"
+      ]
+    },
+    {
+      "source_script": "memory/scripts/2026-11-16.md（『エヌビディアの決算は日本時間18日(水)早朝』）／grok_research/2026-11-16.json",
+      "promise": "エヌビディア3Q決算と後任問題",
+      "status": "決算は未発表（予定どおり米11/17引け後）。後任問題は進展",
+      "as_of_jst": "2026-11-17T06:38:47+09:00",
+      "outcome": "決算前日の株価は4.12%安。取締役会はファン氏復帰を検討せず調査に集中（CNBC・ロイター）、一方トランプ大統領は復帰容認と発言。暫定CEOはコレット・クレス財務責任者で、社内外から後任を探す（CNBC）。予想は売上高1091億ドル（ロイター）。",
+      "sources": [
+        "https://www.cnbc.com/2026/11/16/nvidia-ceo-jensen-huang.html",
+        "https://www.cnbc.com/2026/11/16/nvidia-stock-price-jensen-huang.html",
+        "https://www.cnbc.com/2026/11/16/trump-lutnick-nvidia-national-security-jensen-huant.html",
+        "https://www.streetinsider.com/General+News/Wall+Street+slumps+on+AI+jitters+ahead+of+Nvidia+results%2C+Anthropic+IPO%C2%A0/27346984.html"
+      ]
+    },
+    {
+      "source_script": "memory/scripts/2026-11-16.md（『日本時間17日(火)22時30分に米小売売上高、予想は前月比0.2%増』『ホームデポとディズニーは日本時間17日(火)夜』）",
+      "promise": "10月小売売上高、ホーム・デポ／ディズニー決算",
+      "status": "未発表（今夜の予定）",
+      "as_of_jst": "2026-11-17T06:38:47+09:00",
+      "outcome": "まだ発表前。CNBCは市場の関心がエヌビディアに集中する中でディズニー決算が見落とされている可能性を指摘（オプション取引の記事）。",
+      "sources": [
+        "https://www.cnbc.com/2026/11/16/disney-options-trade-before-earnings.html",
+        "https://www.investing.com/news/stock-market-news/earnings-to-watch-nvidia-walmart-home-depot-and-more-report-this-week-93CH-5030799"
+      ]
+    },
+    {
+      "source_script": "memory/scripts/2026-11-14.md / 2026-11-16.md（『日本時間19日(木)4時にFOMC議事要旨』）",
+      "promise": "10月FOMC議事要旨",
+      "status": "未発表（米11/18水曜公表予定）",
+      "as_of_jst": "2026-11-17T06:38:47+09:00",
+      "outcome": "ロイターは水曜公表予定と確認。12月の0.25%利上げ確率は95.7%（CMEフェドウォッチ）。",
+      "sources": [
+        "https://www.streetinsider.com/General+News/Wall+Street+slumps+on+AI+jitters+ahead+of+Nvidia+results%2C+Anthropic+IPO%C2%A0/27346984.html"
+      ]
+    },
+    {
+      "source_script": "grok_research/2026-11-16.json",
+      "promise": "アンソロピックIPO",
+      "status": "予定どおり（未上場）",
+      "as_of_jst": "2026-11-17T06:38:47+09:00",
+      "outcome": "評価額約1.4兆ドルを目指し、仮条件70〜78ドル（CNBC）。月曜はIPOを控えたAI関連への警戒が相場の重荷の一つと報じられた（ロイター・ブルームバーグ）。",
+      "sources": [
+        "https://www.cnbc.com/2026/11/15/stock-market-today-live-updates.html",
+        "https://www.streetinsider.com/General+News/Wall+Street+slumps+on+AI+jitters+ahead+of+Nvidia+results%2C+Anthropic+IPO%C2%A0/27346984.html"
+      ]
+    },
+    {
+      "source_script": "grok_research/2026-11-16.json（FAAの全米離陸停止）",
+      "promise": "航空株への影響",
+      "status": "確認",
+      "as_of_jst": "2026-11-17T06:38:47+09:00",
+      "outcome": "アメリカン、デルタ、ユナイテッドが1%超安（日中）。政府が原因をL3ハリスの定期保守作業と説明し、同社株は4%安（日中）。",
+      "sources": [
+        "https://www.cnbc.com/2026/11/16/stocks-moving-the-most-today-live-updates.html"
+      ]
+    }
+  ],
+  "week_ahead": [
+    {
+      "item": "10月小売売上高",
+      "when_jst": "11/17（火）22:30",
+      "source": "https://www.investing.com/news/stock-market-news/earnings-to-watch-nvidia-walmart-home-depot-and-more-report-this-week-93CH-5030799"
+    },
+    {
+      "item": "ホーム・デポ、ディズニー決算",
+      "when_jst": "11/17（火）夜",
+      "source": "https://www.cnbc.com/2026/11/16/disney-options-trade-before-earnings.html"
+    },
+    {
+      "item": "エヌビディア3Q決算",
+      "when_jst": "11/18（水）朝（米11/17引け後）",
+      "source": "https://www.cnbc.com/2026/11/16/nvidia-stock-price-jensen-huang.html"
+    },
+    {
+      "item": "FOMC議事要旨（10月27〜28日会合）",
+      "when_jst": "11/19（木）4:00",
+      "source": "https://www.cnbc.com/2026/11/16/gold-holds-steady-as-investors-await-warsh-remarks-for-rate-signals.html"
+    },
+    {
+      "item": "トランプ大統領・習主席の会談（APEC、深圳）",
+      "when_jst": "今週",
+      "source": "https://www.cnbc.com/2026/11/16/trump-lutnick-nvidia-national-security-jensen-huant.html"
+    },
+    {
+      "item": "アンソロピックIPO（値決め・上場）",
+      "when_jst": "今週後半",
+      "source": "https://www.cnbc.com/2026/11/15/stock-market-today-live-updates.html"
+    }
+  ],
+  "limitations": "個別株の終値は主要5媒体の本文で確認できたものがなく、NVDAの終値は前日終値と騰落率からの計算値（約156.14ドル）、AMD・アップル・マイクロソフト・テスラ等の正確な終値は韓国fnnews等の非主要媒体のみで未採用。タイソン、航空株、L3ハリス、スペースXの騰落は日中の値（CNBCライブ）。ドル円・ドル指数・金はNY終値でなく記事時点の値。ロイター、WSJ、ブルームバーグの一部記事は本文取得できず見出し・要約のみ（ロイター指数記事はStreetInsider転載で確認）。日経はX投稿の見出しのみ。@realDonaldTrumpの市場関連X投稿は検索範囲で見つからず（大統領発言は記者団への発言）。@elonmuskはスターシップ・Grok関連のみで、エヌビディア問題への新規発言は今回の範囲で確認できず。テスラのサイバーキャブ価格・テスラ株騰落率は主要5媒体で未確認。指示にあったSkill『x-api-mcp-guide』はボックス上で見つからず、X検索はconnectors/xのsearch_posts_allで実施。前日の台本（11/16）の『金曜はS&P500が2.35%上昇』は、11/16ファイル（金曜0.4%安・週間2.5%高）と食い違っている可能性あり、要確認。"
+}
