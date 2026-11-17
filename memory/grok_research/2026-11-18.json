@@ -1,0 +1,381 @@
+{
+  "generated": "2026-11-18T06:33:17+09:00",
+  "test_run": false,
+  "session_covered": {
+    "us": "2026-11-17（火・米東部時間）の通常取引と引け後のエヌビディア決算",
+    "japan": "2026-11-18（水）朝の配信回",
+    "x_window_utc": "2026-11-17T09:00:00Z〜2026-11-17T21:35:00Z",
+    "notes": "主役はエヌビディア決算（売上高・指針とも予想超え、初の暫定CEO体制での発表）。本日の取引では3指数そろって下落し、S&P500とナスダックは9月以来の4日続落（ロイター）。S&P500は7月下旬以来の安値（CNBC）。NSAのネットワーク障害報道で一時下げ幅拡大、FRB高官のタカ派発言も重し。"
+  },
+  "x_statements": [
+    {
+      "account": "@CNBC",
+      "post_url": "https://x.com/CNBC/status/2122804089155166680",
+      "time_jst": "2026-11-18T06:28:29+09:00",
+      "gist": "エヌビディアが3Q決算で利益・売上高ともに予想を上回り、強気の見通しを示した（ファン氏退任後初の決算）。",
+      "tickers": [
+        "NVDA"
+      ],
+      "news_article": {
+        "outlet": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/17/nvidia-nvda-earnings-report-q3-2027.html",
+        "note": "調整後EPS2.68ドル（予想2.48）、売上高1158.4億ドル（予想1091.0億）、データセンター1076億ドル。今期売上高見通し約1300億ドル（予想1251億）。LSEG集計。会社発表 https://www.globenewswire.com/news-release/2026/11/17/3405200/0/en/nvidia-announces-financial-results-for-third-quarter-fiscal-2027.html"
+      }
+    },
+    {
+      "account": "@CNBC",
+      "post_url": "https://x.com/CNBC/status/2122726671618814451",
+      "time_jst": "2026-11-18T01:20:51+09:00",
+      "gist": "ファン前CEOが辞任後初の声明で、取締役会が望むならCEO復帰に前向きと表明。調査には協力すると反省の姿勢。",
+      "tickers": [
+        "NVDA"
+      ],
+      "news_article": {
+        "outlet": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/16/stock-market-today-live-updates.html",
+        "note": "CNBCによれば、この発言で株価は一時上昇したが続かず、終値は0.5%安。ロイターも報道（https://x.com/Reuters/status/2122789453148102895）。"
+      }
+    },
+    {
+      "account": "@business",
+      "post_url": "https://x.com/business/status/2122756630378951155",
+      "time_jst": "2026-11-18T03:19:54+09:00",
+      "gist": "ファン氏が12月1日に議会へ非公開で説明することに同意（中国スパイ疑惑の女性との関係と同社のセキュリティ体制について）。",
+      "tickers": [
+        "NVDA"
+      ],
+      "news_article": {
+        "outlet": "CNBC",
+        "url": "https://x.com/CNBC/status/2122728156415009197",
+        "note": "CNBCのX投稿（訂正版）：下院委員会に12月1日、エヌビディアの弁護士は12月2日に証言予定。記事本文は未読。"
+      }
+    },
+    {
+      "account": "@Reuters",
+      "post_url": "https://x.com/Reuters/status/2122661027925950691",
+      "time_jst": "2026-11-17T21:00:00+09:00",
+      "gist": "エヌビディアが国家安全保障・輸出規制・通商リスクを監督する取締役会委員会を新設。",
+      "tickers": [
+        "NVDA"
+      ],
+      "news_article": {
+        "outlet": "Reuters",
+        "url": "https://x.com/Reuters/status/2122661027925950691",
+        "note": "ロイター記事本文は未読（X投稿の文面のみ）。"
+      }
+    },
+    {
+      "account": "@Reuters",
+      "post_url": "https://x.com/Reuters/status/2122797169170162071",
+      "time_jst": "2026-11-18T06:00:59+09:00",
+      "gist": "米国家安全保障局（NSA）の機密通信ネットワークで障害。NSAは『定期保守中の一時的な性能低下』で重要機能は稼働と説明。",
+      "tickers": [
+        "SPX",
+        "DJI"
+      ],
+      "news_article": {
+        "outlet": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/16/stock-market-today-live-updates.html",
+        "note": "CNN報道後に主要指数が日中安値へ。サイバー攻撃の証拠はないとCNNの情報源。ホワイトハウスもDNIクレイトン長官の『サイバー攻撃ではない』発言をリポスト（https://x.com/WhiteHouse/status/2122802654254641313）。"
+      }
+    },
+    {
+      "account": "@nikkei",
+      "post_url": "https://x.com/nikkei/status/2122802603599749319",
+      "time_jst": "2026-11-18T06:22:35+09:00",
+      "gist": "米アンソロピック、IPO価格を80ドル超に引き上げ検討。投資家需要が強い。",
+      "tickers": [
+        "ANT"
+      ],
+      "news_article": {
+        "outlet": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/17/anthropic-ipo-price.html",
+        "note": "仮条件70〜78ドルを上回る公算（関係者）。ナスダックにティッカーANTで米11/19取引開始予定。ロイターは最大1.4兆ドル規模の調達を目指すと報道。"
+      }
+    },
+    {
+      "account": "@business",
+      "post_url": "https://x.com/business/status/2122763000603894182",
+      "time_jst": "2026-11-18T03:45:13+09:00",
+      "gist": "米10年債利回りが5%超の状態として約20年ぶりの長さに近づく。投資家はさらなる利上げに備える。",
+      "tickers": [
+        "US10Y"
+      ],
+      "news_article": {
+        "outlet": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/17/alberto-musalem-fed-interest-rates.html",
+        "note": "セントルイス連銀ムサレム総裁は来春までに最大4回の利上げが必要となる可能性を示唆。"
+      }
+    },
+    {
+      "account": "@nikkei",
+      "post_url": "https://x.com/nikkei/status/2122790524390093167",
+      "time_jst": "2026-11-18T05:34:35+09:00",
+      "gist": "エヌビディア半導体に複数の『シンガポールルート』浮上、中国への密輸疑惑。",
+      "tickers": [
+        "NVDA"
+      ],
+      "news_article": {
+        "outlet": "日本経済新聞",
+        "url": "https://x.com/nikkei/status/2122790524390093167",
+        "note": "記事本文は未読（見出しのみ）。"
+      }
+    },
+    {
+      "account": "@HomeDepot",
+      "post_url": "https://x.com/HomeDepot/status/2122707095112048664",
+      "time_jst": "2026-11-18T00:03:04+09:00",
+      "gist": "ホーム・デポ公式が3Q決算と通期見通しの更新を発表。",
+      "tickers": [
+        "HD"
+      ],
+      "news_article": {
+        "outlet": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/17/home-depot-hd-q3-earnings-2026.html",
+        "note": "利益・売上高とも予想超え。CFOのリチャード・マクフェイル氏が来週CEOに就任。"
+      }
+    },
+    {
+      "account": "@elonmusk",
+      "post_url": "https://x.com/elonmusk/status/2122733232894468308",
+      "time_jst": "2026-11-18T01:46:55+09:00",
+      "gist": "『テスラによる大規模な先進ソリッドステート変圧器』と投稿（市場への直接言及なし）。",
+      "tickers": [
+        "TSLA"
+      ],
+      "news_article": {
+        "outlet": "なし",
+        "url": "",
+        "note": "主要報道での裏付けは未確認。使うなら軽く触れる程度。"
+      }
+    }
+  ],
+  "move_causes": [
+    {
+      "name": "ダウ平均",
+      "ticker": "DJI",
+      "session": "US 2026-11-17",
+      "move_pct": -1.64,
+      "close": 50759.42,
+      "change_pts": -848.75,
+      "reason": "半導体株がエヌビディア決算前に売られ、NSAのネットワーク障害報道で一時1000ドル超安（CNBC）。S&P500は全業種が下落、ソフトウエア・航空・銀行が軟調。JPモルガンはCFO交代発表で下落（ロイター）。",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/16/stock-market-today-live-updates.html",
+      "also_seen_in": [
+        {
+          "outlet": "Reuters (via MarketScreener)",
+          "url": "https://au.marketscreener.com/news/wall-street-ends-lower-ahead-of-nvidia-earnings-anthropic-debut-ce785edcdc8df226",
+          "note": "速報値は-1.67%、50,748.46"
+        }
+      ]
+    },
+    {
+      "name": "S&P 500",
+      "ticker": "SPX",
+      "session": "US 2026-11-17",
+      "move_pct": -1.03,
+      "close": 7340.53,
+      "reason": "7月下旬以来の安値（CNBC）。9月以来の4日続落（ロイター）。FRB高官のタカ派発言で12月の0.25%利上げ確率は95.4%（CME FedWatch、ロイター）。",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/16/stock-market-today-live-updates.html",
+      "also_seen_in": [
+        {
+          "outlet": "Reuters (via MarketScreener)",
+          "url": "https://au.marketscreener.com/news/wall-street-ends-lower-ahead-of-nvidia-earnings-anthropic-debut-ce785edcdc8df226",
+          "note": "速報値は-1.02%、7,341.23"
+        }
+      ]
+    },
+    {
+      "name": "ナスダック総合",
+      "ticker": "IXIC",
+      "session": "US 2026-11-17",
+      "move_pct": -0.74,
+      "close": 24328.38,
+      "reason": "日中は約2.1%安まで売られ4月以来の安値を付けたが下げ幅縮小（CNBC）。4日続落（ロイター）。",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/16/stock-market-today-live-updates.html",
+      "also_seen_in": [
+        {
+          "outlet": "Reuters (via MarketScreener)",
+          "url": "https://au.marketscreener.com/news/wall-street-ends-lower-ahead-of-nvidia-earnings-anthropic-debut-ce785edcdc8df226",
+          "note": "速報値は-0.74%、24,329.34"
+        }
+      ]
+    },
+    {
+      "name": "エヌビディア",
+      "ticker": "NVDA",
+      "session": "US 2026-11-17",
+      "move_pct": -0.5,
+      "close": null,
+      "reason": "決算前の様子見で小幅安。ファン氏の復帰意欲表明で一時上昇。今月は24%安、2025年7月以来の安値圏（CNBC）。引け後の決算は予想超え（時間外の値動きは主要5媒体で未確認）。",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/17/nvidia-nvda-earnings-report-q3-2027.html"
+    },
+    {
+      "name": "マイクロソフト",
+      "ticker": "MSFT",
+      "session": "US 2026-11-17",
+      "move_pct": -2,
+      "close": null,
+      "reason": "ソフトウエア株が全面安（ロイター）。同日、コーディング・サイバーセキュリティ向けAIモデルを発表（ロイター）。先週のメール障害についてCEOが陳謝（日経）。",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/16/stock-market-today-live-updates.html",
+      "also_seen_in": [
+        {
+          "outlet": "Reuters",
+          "url": "https://x.com/Reuters/status/2122761787401437301"
+        }
+      ]
+    },
+    {
+      "name": "インテル",
+      "ticker": "INTC",
+      "session": "US 2026-11-17",
+      "move_pct": -0.5,
+      "close": null,
+      "reason": "エヌビディアが保有株を25%削減（13F）したことが判明して下落（ロイター）。終値ベースの下落率はCNBCの-0.5%。",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/16/stock-market-today-live-updates.html",
+      "also_seen_in": [
+        {
+          "outlet": "Reuters (via MarketScreener)",
+          "url": "https://au.marketscreener.com/news/wall-street-ends-lower-ahead-of-nvidia-earnings-anthropic-debut-ce785edcdc8df226"
+        }
+      ]
+    },
+    {
+      "name": "マイクロン／AMD",
+      "ticker": "MU, AMD",
+      "session": "US 2026-11-17",
+      "move_pct": null,
+      "close": null,
+      "reason": "マイクロン0.9%安、AMD0.2%安。半導体株は日中安値から戻した（CNBC）。フィラデルフィア半導体指数の年初来上昇率は6月の最大106%から約34%に縮小（ロイター）。",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/16/stock-market-today-live-updates.html"
+    },
+    {
+      "name": "VIX",
+      "ticker": "VIX",
+      "session": "US 2026-11-17",
+      "move_pct": null,
+      "close": null,
+      "reason": "日中最大21%上昇し27.73（11月6日以来の高水準）、4日続伸ペース（CNBC。終値は未確認）。",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/16/stock-market-today-live-updates.html"
+    },
+    {
+      "name": "米10年債利回り",
+      "ticker": "US10Y",
+      "session": "US 2026-11-17",
+      "move_pct": null,
+      "close": 5.102,
+      "reason": "小売売上高などを消化し小幅低下（ダウ・ジョーンズ／CNBC）。",
+      "outlet": "Dow Jones (via Morningstar)",
+      "url": "https://www.morningstar.com/news/dow-jones/202611177480/10-year-treasury-yield-falls-to-5102-data-talk",
+      "also_seen_in": [
+        {
+          "outlet": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/17/treasury-yields-bonds-inflation.html"
+        }
+      ]
+    },
+    {
+      "name": "ドル円",
+      "ticker": "USDJPY",
+      "session": "US 2026-11-17",
+      "move_pct": -0.1,
+      "close": 159.3,
+      "reason": "まちまちの米指標でドルはやや軟調も、2025年4月以来の高値圏。160円は介入警戒水準（ロイター）。値は記事時点でNY終値ではない。",
+      "outlet": "Reuters (via Investing.com)",
+      "url": "https://www.investing.com/news/economy-news/us-dollar-hits-19month-peak-on-fed-hike-bets-aussie-dips-5031443"
+    }
+  ],
+  "followups": [
+    {
+      "source_script": "memory/scripts/2026-11-17.md（『今夜22時30分に10月の米小売売上高』）",
+      "promise": "米10月小売売上高",
+      "status": "発表済み",
+      "as_of_jst": "2026-11-18T06:33:17+09:00",
+      "outcome": "前月比+0.2%（9月+0.8%は改定なし）、前年比+6.8%、7482億ドル。自動車ディーラーが1.6%減。ロイターは『生活費高でも基調は底堅い』。",
+      "sources": [
+        "https://www.census.gov/retail/sales.html",
+        "https://www.investing.com/news/economy-news/us-retail-sales-increase-moderately-in-october-5033051"
+      ]
+    },
+    {
+      "source_script": "memory/scripts/2026-11-16.md／2026-11-17.md（エヌビディア決算は日本時間18日早朝）",
+      "promise": "エヌビディア3Q決算",
+      "status": "発表済み（米11/17引け後）",
+      "as_of_jst": "2026-11-18T06:33:17+09:00",
+      "outcome": "売上高1158億ドル（前年比+103%、予想1091億）、調整後EPS2.68ドル（予想2.48）、データセンター1076億ドル（+110%）。4Q売上高見通し1300億ドル±3%（予想1251億）。Vera Rubin NVL72出荷開始。クレス暫定CEOが初の説明会。自社株買い枠1500億ドル追加はCoinDesk報道のみで主要5媒体では未確認。",
+      "sources": [
+        "https://www.cnbc.com/2026/11/17/nvidia-nvda-earnings-report-q3-2027.html",
+        "https://www.globenewswire.com/news-release/2026/11/17/3405200/0/en/nvidia-announces-financial-results-for-third-quarter-fiscal-2027.html"
+      ]
+    },
+    {
+      "source_script": "memory/scripts/2026-11-17.md（『明日の配信では、ホームデポとディズニーの決算結果』）",
+      "promise": "ホーム・デポ3Q決算",
+      "status": "発表済み",
+      "as_of_jst": "2026-11-18T06:33:17+09:00",
+      "outcome": "売上高434億ドル（+4.9%）、既存店+2.2%、調整後EPS3.86ドル（予想3.84、Investing.com）。通期売上高見通しを約4.5%増に更新。CFOマクフェイル氏が11/23付でCEO就任、デッカー氏は会長に。株価の騰落は主要5媒体で未確認。",
+      "sources": [
+        "https://www.cnbc.com/2026/11/17/home-depot-hd-q3-earnings-2026.html",
+        "https://corporate.homedepot.com/news/earnings/home-depot-announces-third-quarter-2026-earnings"
+      ]
+    },
+    {
+      "source_script": "memory/scripts/2026-11-17.md（同上）",
+      "promise": "ディズニー4Q決算",
+      "status": "発表済み",
+      "as_of_jst": "2026-11-18T06:33:17+09:00",
+      "outcome": "売上高・EPSとも予想超え（パーク・配信・ESPN/NFLが好調）。2029年度までに30億ドルのコスト削減目標、CFOは『さらなる人員削減を見込む』。27年度は2桁の調整後EPS成長見通し（CNBC・ロイター）。EPS1.77ドル・売上高259.5億ドル・終値はほぼ横ばい（-0.06%）はYahoo等の非主要媒体のみで確認。",
+      "sources": [
+        "https://www.cnbc.com/2026/11/17/disney-dis-earnings-q-2026.html",
+        "https://www.investing.com/news/stock-market-news/disney-beats-earnings-forecasts-plans-to-increase-content-spending-5032413"
+      ]
+    },
+    {
+      "source_script": "memory/scripts/2026-11-17.md（『日本時間19日（木）4時にFOMC議事要旨』）",
+      "promise": "FOMC議事要旨（10月会合）",
+      "status": "未発表（米11/18、日本時間11/19 4:00）",
+      "as_of_jst": "2026-11-18T06:33:17+09:00",
+      "outcome": "前日にムサレム総裁が最大4回の利上げ示唆、NY連銀ウィリアムズ総裁も引き締め継続支持だが『劇的な行動は今ではない』。12月利上げ確率95.4%（ロイター）。",
+      "sources": [
+        "https://www.cnbc.com/2026/11/17/alberto-musalem-fed-interest-rates.html",
+        "https://au.marketscreener.com/news/wall-street-ends-lower-ahead-of-nvidia-earnings-anthropic-debut-ce785edcdc8df226"
+      ]
+    },
+    {
+      "source_script": "grok_research/2026-11-17.json（week_ahead）",
+      "promise": "アンソロピックIPO",
+      "status": "値決め前",
+      "as_of_jst": "2026-11-18T06:33:17+09:00",
+      "outcome": "仮条件70〜78ドルを上回る価格の公算（CNBC）、80ドル超への引き上げ検討（日経）。米11/19にナスダック上場予定（ティッカーANT）。",
+      "sources": [
+        "https://www.cnbc.com/2026/11/17/anthropic-ipo-price.html",
+        "https://x.com/nikkei/status/2122802603599749319"
+      ]
+    }
+  ],
+  "week_ahead": [
+    {
+      "item": "FOMC議事要旨（10月会合）",
+      "when_jst": "11/19（木）4:00",
+      "source": "https://au.marketscreener.com/news/wall-street-ends-lower-ahead-of-nvidia-earnings-anthropic-debut-ce785edcdc8df226"
+    },
+    {
+      "item": "アンソロピックIPO値決め→ナスダック上場（ANT）",
+      "when_jst": "値決め米11/18、取引開始米11/19",
+      "source": "https://www.cnbc.com/2026/11/17/anthropic-ipo-price.html"
+    },
+    {
+      "item": "ファン氏の議会非公開説明",
+      "when_jst": "米12/1",
+      "source": "https://x.com/business/status/2122756630378951155"
+    }
+  ],
+  "limitations": "NVDAの時間外の値動き（CoinDeskは+2.4%）と自社株買い枠1500億ドル追加は主要5媒体の本文で未確認。個別株の終値は主要5媒体で確認できず騰落率のみ（CNBC）。インテルの騰落率は媒体・時点で差あり（CNBC終値ベース-0.5%を採用）。ホーム・デポとディズニーの終値・騰落率は主要5媒体で未確認。VIXは日中値のみ。ドル円は記事時点の値。ロイター記事はMarketScreener/Investing.com転載で確認、ブルームバーグ・WSJ本文は未取得。日経はX投稿の見出しのみ。@realDonaldTrump・@federalreserveの市場関連の新規投稿は検索範囲で見つからず。ロイターは『アンソロピックIPOは水曜』、CNBCは『取引開始11/19』と表現が異なる（値決め水曜・取引木曜と解釈）。テスラ株の騰落は未確認。"
+}
