@@ -1,0 +1,429 @@
+{
+  "generated": "2026-11-19T06:34:22+09:00",
+  "test_run": false,
+  "session_covered": {
+    "us": "2026-11-18（水・米東部時間）の通常取引と引け後のアンソロピックIPO値決め",
+    "japan": "2026-11-19（木）朝の配信回",
+    "x_window_utc": "2026-11-18T09:00:00Z〜2026-11-18T21:35:00Z",
+    "notes": "主要3指数はまちまち。ダウは561ドル安（-1.11%）、S&P500は-0.23%で5日続落（6月以来の長さ）、ナスダックは+0.42%（CNBC）。エヌビディアは好決算でも寄り付き後に失速し-2.9%で5日続落。ユナイテッドヘルスが-10%でダウを押し下げ（CMSのメディケア監査強化案）。FOMC議事要旨は『ほぼ全員が追加利上げが適切』とタカ派。引け後、アンソロピックがIPO価格を83ドルに決定（仮条件70〜78ドルを上回る、CNBC・ブルームバーグ）。米11/19にナスダック上場（ANT）。"
+  },
+  "x_statements": [
+    {
+      "account": "@CNBC",
+      "post_url": "https://x.com/CNBC/status/2123165198852956403",
+      "time_jst": "2026-11-19T06:23:24+09:00",
+      "gist": "速報：アンソロピックがIPO価格を1株83ドルに決定、想定レンジを上回る（関係者）。",
+      "tickers": [
+        "ANT",
+        "AMZN",
+        "GOOGL"
+      ],
+      "news_article": {
+        "outlet": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html",
+        "note": "仮条件は70〜78ドル。米11/19（木）にナスダックでティッカー『ANT』として取引開始予定。グーグル、マイクロソフト、エヌビディア、AMDなどが計260億ドルをIPOで出資することに合意。1〜9月売上高332.4億ドル（前年同期比約1200%増）、10月末の年換算売上高約810億ドル。ブルームバーグも83ドルと報道し、売出規模も拡大とした（https://news.bloomberglaw.com/tech-and-telecom-law/anthropic-is-said-to-price-ipo-at-83-per-share）。"
+      }
+    },
+    {
+      "account": "@federalreserve",
+      "post_url": "https://x.com/federalreserve/status/2123129448644190523",
+      "time_jst": "2026-11-19T04:01:21+09:00",
+      "gist": "FRBが10月27〜28日のFOMC議事要旨を公表。",
+      "tickers": [
+        "SPX",
+        "US10Y",
+        "USDJPY"
+      ],
+      "news_article": {
+        "outlet": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/18/fed-minutes-october-2026.html",
+        "note": "『ほぼすべての参加者が追加利上げがおそらく適切と判断』。『一部』は10月会合での0.25%利上げを支持、『2人ほど』は12月にそれ以上の利上げの可能性に言及。AIが物価上振れリスクと金融安定リスクの両面で主要議題に。10月は10対2で3.75〜4.00%に据え置き（クック理事、ハマック総裁が利上げを主張して反対）。"
+      }
+    },
+    {
+      "account": "@WhiteHouse",
+      "post_url": "https://x.com/WhiteHouse/status/2123103123262615791",
+      "time_jst": "2026-11-19T02:16:44+09:00",
+      "gist": "国家情報長官（DNI）クレイトン氏が議会で、最近の技術障害について『組織的なサイバー攻撃や国家による活動の証拠はない』と証言（NSA障害報道の続報）。",
+      "tickers": [
+        "SPX"
+      ],
+      "news_article": {
+        "outlet": "Bloomberg（X投稿）",
+        "url": "https://x.com/business/status/2123160965986263246",
+        "note": "ブルームバーグは、政権高官がイランによるサイバー攻撃は今年の戦争開始以降続いているとしつつ、最近の技術障害や航空機の地上停止とは無関係と強調したと報道。ホワイトハウス公式記事: https://www.whitehouse.gov/releases/2026/11/no-indication-of-a-cyberattack-dni-clayton-and-secretary-rubio-on-recent-tech-outages/ 。ロイター/CNBC本文での確認はできていない。"
+      }
+    },
+    {
+      "account": "@CNBC",
+      "post_url": "https://x.com/CNBC/status/2123132535425179759",
+      "time_jst": "2026-11-19T04:13:36+09:00",
+      "gist": "エヌビディアのクレス暫定CEOが、ファン氏辞任後初の全社集会で社員に『前に進もう』と呼びかけ。",
+      "tickers": [
+        "NVDA"
+      ],
+      "news_article": {
+        "outlet": "Reuters（Euronext転載）",
+        "url": "https://live.euronext.com/en/financial-news/nvidia-retreats-strong-outlook-fails-dispel-uncertainty",
+        "note": "ハーベイ・ジョーンズ会長はファン氏の復帰を否定。後任CEO探しはハイドリック＆ストラグルズが社内外から。HSBCは『恒久的なCEOが決まるまで株価は上がりにくい』。WSJはSECがエヌビディアを調査していると報道（ロイター本文で言及）。"
+      }
+    },
+    {
+      "account": "@business",
+      "post_url": "https://x.com/business/status/2123125390449250765",
+      "time_jst": "2026-11-19T03:45:13+09:00",
+      "gist": "トランプ大統領とプーチン大統領が深圳で会談へ。対面は1年以上ぶり、ウクライナ戦争終結へ向けた取り組み。",
+      "tickers": [
+        "SPX",
+        "USO"
+      ],
+      "news_article": {
+        "outlet": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/17/stock-market-today-live-updates.html",
+        "note": "トランプ氏はAPEC出席のため深圳に到着。19日（木）に習近平国家主席・プーチン大統領と初の3者会談の予定。市場は米中通商や先端AI半導体規制の進展を注視（CNBCライブ）。ロイターも19日（木）開催と報道（https://www.reuters.com/5f374b32b07b/world/china/trump-hold-summit-with-xi-putin-shenzhen-thursday-ny-post-reports-2026-11-13/）。"
+      }
+    },
+    {
+      "account": "@Reuters",
+      "post_url": "https://x.com/Reuters/status/2123101463958233411",
+      "time_jst": "2026-11-19T02:10:08+09:00",
+      "gist": "中国が米規制にもかかわらずAI兵器向けにエヌビディアの先端半導体を求めていると報道。",
+      "tickers": [
+        "NVDA"
+      ],
+      "news_article": {
+        "outlet": "Reuters",
+        "url": "https://x.com/Reuters/status/2123101463958233411",
+        "note": "ロイター記事本文は未読（X投稿の文面のみ）。関連：ロイターによるとエヌビディアは今期見通しで中国向けHopper出荷をゼロと想定（https://live.euronext.com/en/financial-news/nvidia-retreats-strong-outlook-fails-dispel-uncertainty）。"
+      }
+    },
+    {
+      "account": "@Reuters",
+      "post_url": "https://x.com/Reuters/status/2123166955720827102",
+      "time_jst": "2026-11-19T06:30:23+09:00",
+      "gist": "アンソロピック株のオプション取引が来週月曜にも始まる可能性、強い需要が見込まれる。",
+      "tickers": [
+        "ANT"
+      ],
+      "news_article": {
+        "outlet": "Reuters",
+        "url": "https://x.com/Reuters/status/2123166955720827102",
+        "note": "ロイター記事本文は未読（X投稿の文面のみ）。"
+      }
+    },
+    {
+      "account": "@nikkei",
+      "post_url": "https://x.com/nikkei/status/2123109124791525551",
+      "time_jst": "2026-11-19T02:40:35+09:00",
+      "gist": "ネオクラウド株、エヌビディアが『支援継続』でも売られる。資金繰り懸念やまず。",
+      "tickers": [
+        "CRWV",
+        "NVDA"
+      ],
+      "news_article": {
+        "outlet": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/18/stocks-moving-the-most-today-live-updates.html",
+        "note": "コアウィーブとアイレンは朝高の後マイナス圏へ（CNBC、日中時点でコアウィーブ-3%）。日経記事本文は未読。"
+      }
+    }
+  ],
+  "move_causes": [
+    {
+      "name": "ダウ平均",
+      "ticker": "DJI",
+      "session": "US 2026-11-18",
+      "move_pct": -1.11,
+      "close": 50198.17,
+      "change_pts": -561.25,
+      "reason": "ユナイテッドヘルス（-10%）などヘルスケア株、シェブロン（約-4%）、キャタピラー（2%超安）が重し。FOMC議事要旨のタカ派内容で下げ幅拡大（CNBC・ロイター）。",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/17/stock-market-today-live-updates.html",
+      "also_seen_in": [
+        {
+          "outlet": "Reuters（Economic Times転載）",
+          "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/dow-slumps-over-500-pts-as-fed-minutes-revive-rate-hike-fears/articleshow/135971558.cms",
+          "note": "速報値は-1.12%、50,193.03"
+        }
+      ]
+    },
+    {
+      "name": "S&P 500",
+      "ticker": "SPX",
+      "session": "US 2026-11-18",
+      "move_pct": -0.23,
+      "close": 7323.63,
+      "reason": "5日続落で6月以来の長い下落（CNBC）。小幅高から議事要旨公表後にマイナスへ転じた（ロイター）。エネルギーが約3%安で最悪の業種（原油安）。",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/17/stock-market-today-live-updates.html",
+      "also_seen_in": [
+        {
+          "outlet": "Reuters（Economic Times転載）",
+          "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/dow-slumps-over-500-pts-as-fed-minutes-revive-rate-hike-fears/articleshow/135971558.cms",
+          "note": "速報値は-0.24%、7,322.53"
+        }
+      ]
+    },
+    {
+      "name": "ナスダック総合",
+      "ticker": "IXIC",
+      "session": "US 2026-11-18",
+      "move_pct": 0.42,
+      "close": 24429.88,
+      "reason": "アンソロピックIPOを控え関連銘柄（アマゾン約+2%、アルファベット約+1%、ブロードコム約+3%）が上昇（CNBC）。AMDも上昇（ロイター）。",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/17/stock-market-today-live-updates.html",
+      "also_seen_in": [
+        {
+          "outlet": "Reuters（Economic Times転載）",
+          "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/dow-slumps-over-500-pts-as-fed-minutes-revive-rate-hike-fears/articleshow/135971558.cms",
+          "note": "速報値は+0.39%、24,429.89"
+        }
+      ]
+    },
+    {
+      "name": "フィラデルフィア半導体株指数（SOX）",
+      "ticker": "SOX",
+      "session": "US 2026-11-18",
+      "move_pct": null,
+      "close": null,
+      "reason": "『小幅安』で引け（ロイター）。インテルとマイクロンは下落、AMDは上昇。正確な騰落率・終値は未確認。",
+      "outlet": "Reuters（Economic Times転載）",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/dow-slumps-over-500-pts-as-fed-minutes-revive-rate-hike-fears/articleshow/135971558.cms"
+    },
+    {
+      "name": "米10年債利回り",
+      "ticker": "US10Y",
+      "session": "US 2026-11-18",
+      "move_pct": null,
+      "close": 5.064,
+      "change_bp": -4,
+      "reason": "ウォラー理事の『12月は0.5%利上げが必要かもしれない』発言や議事要旨にもかかわらず長期金利は低下（約4bp低下の5.064%、30年債は5.408%）。2年債は4.80%に上昇（CNBC）。原油安でインフレ懸念がやや後退。",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/18/treasury-yields-bonds-fed.html"
+    },
+    {
+      "name": "ドル円",
+      "ticker": "USDJPY",
+      "session": "US 2026-11-18",
+      "move_pct": null,
+      "close": 159.395,
+      "reason": "ほぼ横ばいの159.395円（記事時点）。植田日銀総裁が追加利上げの必要性を改めて示す一方、ドル指数は0.3%高の103.87と2025年4月以来の高値（ロイター）。",
+      "outlet": "Reuters（Euronext転載）",
+      "url": "https://live.euronext.com/en/financial-news/dollar-firmer-hawkish-waller-backs-aggressive-fed-action"
+    },
+    {
+      "name": "エヌビディア",
+      "ticker": "NVDA",
+      "session": "US 2026-11-18",
+      "move_pct": -2.9,
+      "close": null,
+      "reason": "決算は予想超え（売上高1158.4億ドル）で来年度売上高成長見通しを約75%に引き上げ、朝方は約4%高。しかし取締役会がファン氏の復帰を否定、WSJがSEC調査を報道し、5日続落（CNBC）。ロイターは10月6日の最高値から36%下落と報道。アナリストの平均目標株価は265.70ドル→251.74ドルに低下（LSEG）。",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/17/stock-market-today-live-updates.html",
+      "also_seen_in": [
+        {
+          "outlet": "Reuters（Euronext転載）",
+          "url": "https://live.euronext.com/en/financial-news/nvidia-retreats-strong-outlook-fails-dispel-uncertainty",
+          "note": "日中時点で-2.8%、152ドル"
+        }
+      ]
+    },
+    {
+      "name": "ユナイテッドヘルス",
+      "ticker": "UNH",
+      "session": "US 2026-11-18",
+      "move_pct": -10.0,
+      "close": null,
+      "reason": "CMS（米メディケア・メディケイド・サービスセンター）が提案した不正対策ルール『CRUSH』で、メディケア・アドバンテージの監査強化と過払い回収への懸念。ヒューマナなど保険株も軒並み安。ダウ下落の主因（CNBC、Yahoo Finance）。",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/17/stock-market-today-live-updates.html",
+      "also_seen_in": [
+        {
+          "outlet": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/healthcare/article/unitedhealth-and-other-insurance-stocks-drag-down-the-dow-after-cms-proposes-new-anti-fraud-rule-173851810.html",
+          "note": "CMSは10年で約900億ドルの節減と試算。意見募集は2027年1月19日まで。ヒューマナはロイター表（引け前）で-12.62%"
+        }
+      ]
+    },
+    {
+      "name": "TJX",
+      "ticker": "TJX",
+      "session": "US 2026-11-18",
+      "move_pct": null,
+      "close": null,
+      "reason": "3Q売上高159.5億ドルが予想（158.4億ドル）を上回り、通期の既存店売上高見通しを+4%（従来3〜4%）、調整後EPSを5.17〜5.20ドルに引き上げ。朝方10%高で6年ぶりの大幅高ペース（ロイター）。引け前のロイター表では+8.35%（確定値は未確認）。",
+      "outlet": "Reuters（Investing.com転載）",
+      "url": "https://www.investing.com/news/stock-market-news/offprice-retailer-tjx-beats-quarterly-sales-estimates-5035816",
+      "also_seen_in": [
+        {
+          "outlet": "Reuters（Economic Times転載）",
+          "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/dow-slumps-over-500-pts-as-fed-minutes-revive-rate-hike-fears/articleshow/135971558.cms",
+          "note": "S&P500上昇率上位（日本時間2:25時点 +8.35%）"
+        }
+      ]
+    },
+    {
+      "name": "ターゲット",
+      "ticker": "TGT",
+      "session": "US 2026-11-18",
+      "move_pct": null,
+      "close": null,
+      "reason": "3Q売上高が7.1%増と5年超ぶりの高い伸び、既存店売上高+5.6%（予想+3.8%）。通期EPS見通しを10.65〜11.40ドルに引き上げ。CNBCは日中約6%高、ロイターは『上昇』と報道。終値ベースの騰落率は主要5媒体で未確認。",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/17/stock-market-today-live-updates.html",
+      "also_seen_in": [
+        {
+          "outlet": "Reuters（Investing.com転載）",
+          "url": "https://www.investing.com/news/stock-market-news/after-another-strong-quarter-target-lifts-annual-sales-growth-target-to-6-5035548"
+        }
+      ]
+    },
+    {
+      "name": "ロウズ",
+      "ticker": "LOW",
+      "session": "US 2026-11-18",
+      "move_pct": null,
+      "close": null,
+      "reason": "3Q調整後EPS3.10ドル（予想2.88ドル、関税還付34セント含む）、売上高227.6億ドル（予想224.1億ドル）。通期売上高見通しを約925億ドルに引き上げたが、通期EPS12.25ドルは据え置きで市場予想をわずかに下回り、燃料費高も重し。寄り前に3%超安（CNBC）。終値は未確認。",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/18/lowes-low-q3-2026-earnings.html",
+      "also_seen_in": [
+        {
+          "outlet": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/18/stocks-moving-the-most-today-live-updates.html"
+        }
+      ]
+    },
+    {
+      "name": "パロアルトネットワークス",
+      "ticker": "PANW",
+      "session": "US 2026-11-18",
+      "move_pct": null,
+      "close": null,
+      "reason": "CISAが『Java4Shell』と呼ばれるJavaの重大脆弱性に警告し、サイバーセキュリティ株が上昇（CNBC、日中約6%高）。引け前のロイター表でS&P500上昇率2位の+9.33%。同日引け後に決算発表（会社発表 https://www.prnewswire.com/news-releases/palo-alto-networks-reports-fiscal-first-quarter-2027-financial-results-302944393.html ）。決算の詳細と時間外の反応は主要5媒体で未確認。",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/18/stocks-moving-the-most-today-live-updates.html",
+      "also_seen_in": [
+        {
+          "outlet": "Reuters（Economic Times転載）",
+          "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/dow-slumps-over-500-pts-as-fed-minutes-revive-rate-hike-fears/articleshow/135971558.cms"
+        }
+      ]
+    },
+    {
+      "name": "エクソンモービル／シェブロン（エネルギー）",
+      "ticker": "XOM,CVX",
+      "session": "US 2026-11-18",
+      "move_pct": null,
+      "close": null,
+      "reason": "WTI原油先物が4%超安の82.19ドル、ブレントは2%超安の90.83ドル。S&P500エネルギー業種は約3%安で最悪、エクソン・シェブロンともに3%超安（CNBC）。",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/17/stock-market-today-live-updates.html"
+    },
+    {
+      "name": "金",
+      "ticker": "GC",
+      "session": "US 2026-11-18",
+      "move_pct": -2.34,
+      "close": 3761.84,
+      "reason": "金先物は1年ぶり安値。実質金利の上昇が重し（CNBC、記事時点の値）。",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/17/stock-market-today-live-updates.html"
+    }
+  ],
+  "followups": [
+    {
+      "source_script": "memory/scripts/2026-11-18.md（『日本時間11月19日（木）午前4時に、10月28日のFOMC議事要旨が公開』）",
+      "promise": "FOMC議事要旨（10月会合）",
+      "status": "公表済み",
+      "as_of_jst": "2026-11-19T06:34:22+09:00",
+      "outcome": "『ほぼすべての参加者が追加利上げがおそらく適切』。一部は10月に0.25%利上げを支持、2人ほどは12月に0.25%超の利上げの可能性に言及。AI需要を『物価の大きなリスク要因』、AI関連債務を金融安定上のリスクとして議論。台本の『タカ派的な議論の広がりが確認されれば』の通りの内容。12月0.25%利上げ確率は約95%（CME FedWatch、CNBC）。同日ウォラー理事は12月に0.5%利上げが必要かもしれないと発言。",
+      "sources": [
+        "https://www.cnbc.com/2026/11/18/fed-minutes-october-2026.html",
+        "https://www.cnbc.com/2026/11/18/treasury-yields-bonds-fed.html",
+        "https://x.com/federalreserve/status/2123129448644190523"
+      ]
+    },
+    {
+      "source_script": "memory/scripts/2026-11-18.md（『日本時間11月19日（木）夜にはウォルマートの第3四半期決算』）",
+      "promise": "ウォルマート3Q決算",
+      "status": "未発表（米11/19朝、日本時間19日夜）",
+      "as_of_jst": "2026-11-19T06:34:22+09:00",
+      "outcome": "収集時点では発表前。ロイターは『木曜に予定』と記載。TJX・ターゲットの好調で小売への期待は高い。",
+      "sources": [
+        "https://economictimes.indiatimes.com/markets/us-stocks/news/dow-slumps-over-500-pts-as-fed-minutes-revive-rate-hike-fears/articleshow/135971558.cms"
+      ]
+    },
+    {
+      "source_script": "grok_research/2026-11-18.json（week_ahead）",
+      "promise": "アンソロピックIPO値決め→ナスダック上場（ANT）",
+      "status": "値決め済み、上場は米11/19",
+      "as_of_jst": "2026-11-19T06:34:22+09:00",
+      "outcome": "IPO価格は83ドル（仮条件70〜78ドルを上回る）、売出規模も拡大（ブルームバーグ）。米11/19（日本時間19日夜）にナスダック上場予定。初値は未定。",
+      "sources": [
+        "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html",
+        "https://news.bloomberglaw.com/tech-and-telecom-law/anthropic-is-said-to-price-ipo-at-83-per-share"
+      ]
+    },
+    {
+      "source_script": "memory/scripts/2026-11-18.md（エヌビディア4日続落）／grok_research/2026-11-18.json",
+      "promise": "エヌビディア決算後の株価反応",
+      "status": "結果判明",
+      "as_of_jst": "2026-11-19T06:34:22+09:00",
+      "outcome": "決算翌日は朝方約4%高から失速し-2.9%、5日続落（CNBC）。取締役会はファン氏の復帰を否定。",
+      "sources": [
+        "https://www.cnbc.com/2026/11/17/stock-market-today-live-updates.html",
+        "https://live.euronext.com/en/financial-news/nvidia-retreats-strong-outlook-fails-dispel-uncertainty"
+      ]
+    },
+    {
+      "source_script": "grok_research/2026-11-18.json（x_statements：NSA障害）",
+      "promise": "NSA障害報道の続報",
+      "status": "続報あり",
+      "as_of_jst": "2026-11-19T06:34:22+09:00",
+      "outcome": "クレイトン国家情報長官が下院で『組織的サイバー攻撃や国家による活動の証拠はない』と証言（ホワイトハウス公式X）。",
+      "sources": [
+        "https://x.com/WhiteHouse/status/2123103123262615791",
+        "https://www.whitehouse.gov/releases/2026/11/no-indication-of-a-cyberattack-dni-clayton-and-secretary-rubio-on-recent-tech-outages/"
+      ]
+    },
+    {
+      "source_script": "memory/scripts/2026-11-18.md（日本への影響：17日日経平均802円安）",
+      "promise": "日本株の続き",
+      "status": "参考",
+      "as_of_jst": "2026-11-19T06:34:22+09:00",
+      "outcome": "11/18の日経平均は0.28%高の59,024.28円、TOPIXは0.42%安の3,824。エヌビディア決算でアドバンテスト+4.02%、レーザーテック+4.35%、ソフトバンクG+3.29%。10月の日本の輸出は前年比20.5%増（予想20%）、半導体製造装置が49.7%増（CNBC）。",
+      "sources": [
+        "https://www.cnbc.com/2026/11/17/stock-market-today-live-updates.html"
+      ]
+    }
+  ],
+  "week_ahead": [
+    {
+      "item": "米中ロ3首脳会談（深圳、約1時間の予定）",
+      "when_jst": "11/19（木）",
+      "source": "https://www.reuters.com/5f374b32b07b/world/china/trump-hold-summit-with-xi-putin-shenzhen-thursday-ny-post-reports-2026-11-13/"
+    },
+    {
+      "item": "アンソロピック（ANT）ナスダック上場",
+      "when_jst": "11/19（木）夜の米取引時間",
+      "source": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html"
+    },
+    {
+      "item": "ウォルマート3Q決算",
+      "when_jst": "11/19（木）夜",
+      "source": "https://economictimes.indiatimes.com/markets/us-stocks/news/dow-slumps-over-500-pts-as-fed-minutes-revive-rate-hike-fears/articleshow/135971558.cms"
+    },
+    {
+      "item": "ロス・ストアーズ決算",
+      "when_jst": "米11/19（木）",
+      "source": "https://www.investing.com/news/stock-market-news/offprice-retailer-tjx-beats-quarterly-sales-estimates-5035816"
+    },
+    {
+      "item": "FOMC（12月会合）",
+      "when_jst": "米12/8〜9",
+      "source": "https://www.cnbc.com/2026/11/18/treasury-yields-bonds-fed.html"
+    }
+  ],
+  "limitations": "個別株の終値（ドル）は主要5媒体の本文でほぼ確認できず（NVDA・UNHは騰落率のみ）。TJX・ヒューマナ・PANWの騰落率は引け前（日本時間2:25時点）のロイター記事内の表の値で確定値ではない。ターゲット・ロウズの終値ベースの騰落率は未確認（ターゲットはCNBCで日中約6%高）。SOXは『小幅安』のみで数値未確認。ドル円は記事時点の値。ロイター記事はEconomic Times／Euronext／Investing.com転載で確認し、ブルームバーグ・WSJ本文は未取得（ブルームバーグはBloomberg Law版で価格83ドルのみ確認）。日経はX投稿の見出しのみ。パロアルトの決算内容と時間外の値動きは主要媒体で未確認。アンソロピックの調達総額・最終の売出株数は未確認（『規模拡大』のみ）。@realDonaldTrumpの市場関連の新規投稿は検索範囲で見つからず。米中ロ首脳会談は収集時点で未開催。VIXの終値は未確認。2026-11-18台本のttsPlainにハングル文字（ファン氏の『複数の婚外関係』の部分）が混入していたので要確認。"
+}
