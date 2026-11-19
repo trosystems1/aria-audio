@@ -1,0 +1,314 @@
+{
+  "generated": "2026-11-20T06:45:00+09:00",
+  "test_run": false,
+  "session_covered": {
+    "us": "2026-11-19（木・米東部時間）の通常取引（アンソロピック上場初日）と引け後決算（ロス・ストアーズ）",
+    "japan": "2026-11-20（金）朝の配信回",
+    "x_window_utc": "2026-11-18T21:35:00Z〜2026-11-19T21:35:00Z",
+    "notes": "主要3指数そろって大幅安。ダウは1101.11ドル安（-2.19%）の49,097.06で6月以来の5万ドル割れ、S&P500は-2.02%の7,175.83、ナスダックは-2.25%の23,879.20（CNBC）。アンソロピック（ANT）は公開価格83ドルに対し111.50ドルで初値（+34%）、終値97.17ドル（+17%）。上場直後に指数がその日の安値へ急落し『材料出尽くしの売り』に。AMDは空売り筋ハンターブルックの報告で-7.72%。VIXは一時29近く（3月以来の高水準、CNBC）。"
+  },
+  "x_statements": [
+    {
+      "account": "@AnthropicAI",
+      "post_url": "https://x.com/AnthropicAI/status/2123461658890686863",
+      "time_jst": "2026-11-20T02:01:26+09:00",
+      "gist": "アモデイCEOが上場に際してのコメントを公表。『私たちの時代で最も強力な技術は人類の利益のために作られるべきだと考えて創業した』と述べた。",
+      "tickers": [
+        "ANT",
+        "AMZN",
+        "GOOGL"
+      ],
+      "news_article": {
+        "outlet": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/19/anthropic-ipo-ant-live-updates.html",
+        "note": "初値111.50ドル（公開価格83ドル比+34%）、終値97.17ドル（+17%）。史上最大のIPO（調達額約810億ドル、ロイター）。"
+      }
+    },
+    {
+      "account": "@LisaSu（AMD CEO）",
+      "post_url": "https://x.com/LisaSu/status/2123493893128003821",
+      "time_jst": "2026-11-20T04:09:31+09:00",
+      "gist": "AMDのリサ・スーCEOがアンソロピック上場を祝福し『パートナーであることを誇りに思う』と投稿。同日AMD株は空売り報告で急落。",
+      "tickers": [
+        "AMD",
+        "ANT"
+      ],
+      "news_article": {
+        "outlet": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html",
+        "note": "AMDは-7.72%の489.19ドル。ハンターブルックが空売りを開示し、ブラックリスト入りした中国サーバー企業へのファームウェア提供などを指摘。AMDは『事業慣行を誤って伝えている』と反論。"
+      }
+    },
+    {
+      "account": "@WhiteHouse",
+      "post_url": "https://x.com/WhiteHouse/status/2123420037373460620",
+      "time_jst": "2026-11-19T23:16:02+09:00",
+      "gist": "トランプ大統領、習近平国家主席、プーチン大統領が中国で初の米中ロ3首脳会談。",
+      "tickers": [
+        "SPX",
+        "USDJPY"
+      ],
+      "news_article": {
+        "outlet": "Reuters",
+        "url": "https://www.reuters.com/3fec1b0a85a0/world/china/trumps-historic-meeting-with-xi-putin-headlines-asia-trip-2026-11-18/",
+        "note": "3首脳が『平和宣言』を発表。国連改革、エネルギー供給の安定、核リスク低減の対話などを盛り込んだが、軍備管理交渉やウクライナには触れず。ホワイトハウス公式: https://www.whitehouse.gov/briefings-statements/2026/11/u-s-russia-china-heads-of-state-declaration-toward-peace/"
+      }
+    },
+    {
+      "account": "@WhiteHouse",
+      "post_url": "https://x.com/WhiteHouse/status/2123438604353458199",
+      "time_jst": "2026-11-20T00:29:49+09:00",
+      "gist": "トランプ大統領が中国を出発。『米企業のために170億ドルを確保』とアジア歴訪の成果を強調。",
+      "tickers": [
+        "SPX"
+      ],
+      "news_article": {
+        "outlet": "Reuters（Investing.com転載）",
+        "url": "https://www.investing.com/news/world-news/day-3-of-trumps-asia-tour-big-summits-bigger-spectacle-and-unfinished-deals-5038366",
+        "note": "ロイターは『大きな首脳会談と演出、ただし未完の取引も』と総括。170億ドルの数字はホワイトハウス発表で、報道での独自確認はできていない。"
+      }
+    },
+    {
+      "account": "@WhiteHouse",
+      "post_url": "https://x.com/WhiteHouse/status/2123464732246254075",
+      "time_jst": "2026-11-20T02:13:38+09:00",
+      "gist": "トランプ大統領が米東部時間11/20（金）正午にホワイトハウスで記者会見を行うと告知（日本時間11/21（土）午前2時）。",
+      "tickers": [
+        "SPX",
+        "USDJPY"
+      ],
+      "news_article": {
+        "outlet": "なし（公式告知のみ）",
+        "url": "https://x.com/WhiteHouse/status/2123464732246254075",
+        "note": "今夜のイベントとして使える。報道機関での裏付けは未確認。"
+      }
+    },
+    {
+      "account": "@Reuters",
+      "post_url": "https://x.com/Reuters/status/2123487782995714521",
+      "time_jst": "2026-11-20T03:45:14+09:00",
+      "gist": "JPモルガンが、FRBは次の3会合（12月、1月、3月）で連続利上げすると予想。",
+      "tickers": [
+        "US10Y",
+        "USDJPY",
+        "SPX"
+      ],
+      "news_article": {
+        "outlet": "Reuters（Investing.com転載）",
+        "url": "https://www.investing.com/news/economy-news/jp-morgan-sees-fed-rate-hikes-at-next-three-meetings-as-inflation-persists-5039090",
+        "note": "各回0.25%の利上げを想定。ロイターによると市場は12月の0.25%利上げをほぼ確実視し、0.5%利上げの確率は約6%（LSEG）。"
+      }
+    },
+    {
+      "account": "@business（Bloomberg）",
+      "post_url": "https://x.com/business/status/2123465121024335958",
+      "time_jst": "2026-11-20T02:15:11+09:00",
+      "gist": "ウォルマートでは米国での技術障害を受けてプロパン、水、キャンプ用品のまとめ買いが見られた。",
+      "tickers": [
+        "WMT"
+      ],
+      "news_article": {
+        "outlet": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/19/walmart-wmt-q3-2026-earnings.html",
+        "note": "決算は予想をわずかに上回り、通期見通しを引き上げ。ネット通販は世界で+17%、米国+23%。ファーナーCEOは軽油高でも低価格を維持する方針。"
+      }
+    },
+    {
+      "account": "@elonmusk",
+      "post_url": "https://x.com/elonmusk/status/2123475464043786417",
+      "time_jst": "2026-11-20T02:56:17+09:00",
+      "gist": "『Grok Botだけで会社をまるごと作れる』と投稿（xAIの宣伝。市場材料としての重要度は低い）。",
+      "tickers": [
+        "TSLA"
+      ],
+      "news_article": {
+        "outlet": "なし",
+        "url": "https://x.com/elonmusk/status/2123475464043786417",
+        "note": "報道機関の記事は見つけられていない。台本で使うなら軽い話題にとどめる。"
+      }
+    }
+  ],
+  "move_causes": [
+    {
+      "name": "ダウ平均",
+      "close": 49097.06,
+      "change_pct": -2.19,
+      "change_points": -1101.11,
+      "reason": "アンソロピック上場直後に指数が安値へ急落。6月以来の5万ドル割れ。前日のタカ派なFOMC議事要旨も重荷（ロイター）。",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/18/stock-market-today-live-updates.html"
+    },
+    {
+      "name": "S&P500",
+      "close": 7175.83,
+      "change_pct": -2.02,
+      "reason": "200日移動平均を一段と下回り、7300の節目割れで売りが加速（Interactive Brokersのソスニック氏、CNBC）。ロイターによると5日続落。全セクター下落、ヘルスケアと生活必需品が下げを主導。",
+      "outlet": "CNBC / Reuters",
+      "url": "https://www.cnbc.com/2026/11/18/stock-market-today-live-updates.html",
+      "url2": "https://www.investing.com/news/stock-market-news/nasdaq-futures-jump-as-anthropics-record-ipo-pricing-fuels-hopes-for-strong-debut-5038156"
+    },
+    {
+      "name": "ナスダック総合",
+      "close": 23879.2,
+      "change_pct": -2.25,
+      "reason": "朝方は最大2%高だったが、アンソロピックの取引開始後にAI関連の利益確定売りで反転。",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/18/stock-market-today-live-updates.html"
+    },
+    {
+      "name": "VIX",
+      "close": null,
+      "change_pct": null,
+      "reason": "取引時間中に29近くまで上昇（3月以来の高水準）。終値は未確認（直近28台、CNBC）。",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/18/stock-market-today-live-updates.html"
+    },
+    {
+      "name": "アンソロピック（ANT）",
+      "close": 97.17,
+      "change_pct_vs_ipo": 17.1,
+      "reason": "公開価格83ドル（仮条件70〜78ドルを上回る）、初値111.50ドル（+34%）。一時は時価総額2兆ドル超。終値は初値から約13%下げた。",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/19/anthropic-ipo-ant-live-updates.html"
+    },
+    {
+      "name": "AMD",
+      "close": 489.19,
+      "change_pct": -7.72,
+      "reason": "ハンターブルックが空売りを開示し、中国関連の輸出規制リスクを指摘。ブルームバーグは、顧客への資金支援や裏付けを増やしていると同社が警告したとも報道。",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html"
+    },
+    {
+      "name": "エヌビディア（NVDA）",
+      "close": null,
+      "change_pct": null,
+      "reason": "ロイターによると取引時間中に-1.2%（5日続落の後）。CNBCによると11月は28%安（ファン氏辞任後）。終値は承認済みの報道機関で確認できていない。",
+      "outlet": "Reuters / CNBC",
+      "url": "https://www.investing.com/news/stock-market-news/nasdaq-futures-jump-as-anthropics-record-ipo-pricing-fuels-hopes-for-strong-debut-5038156"
+    },
+    {
+      "name": "アマゾン／アルファベット",
+      "close": null,
+      "change_pct": null,
+      "reason": "出資先アンソロピックの上場で朝方は上昇（寄り前にAMZN+2.4%、GOOGL+4.1%）したが失速。米東部時間13時31分時点でAMZN-2.7%、GOOGL-0.6%（ロイター）。終値は未確認。",
+      "outlet": "Reuters / CNBC",
+      "url": "https://www.investing.com/news/stock-market-news/nasdaq-futures-jump-as-anthropics-record-ipo-pricing-fuels-hopes-for-strong-debut-5038156"
+    },
+    {
+      "name": "ウォルマート（WMT）",
+      "close": null,
+      "change_pct": null,
+      "reason": "8-10月期の調整後1株利益0.65ドルで予想（0.64ドル）を上回り、通期売上高見通しを+4.9〜5.2%に引き上げ（従来+4〜5%）。株価の終値は承認済みの報道機関で確認できていない。",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/19/walmart-wmt-q3-2026-earnings.html"
+    },
+    {
+      "name": "パロアルトネットワークス（PANW）",
+      "close": null,
+      "change_pct": 5.6,
+      "reason": "2027年の売上高見通しを引き上げ。CrowdStrike、Okta、Zscalerも3〜5%高（ロイター、取引時間中）。",
+      "outlet": "Reuters",
+      "url": "https://www.investing.com/news/stock-market-news/nasdaq-futures-jump-as-anthropics-record-ipo-pricing-fuels-hopes-for-strong-debut-5038156"
+    },
+    {
+      "name": "ウィリアムズ・ソノマ（WSM）",
+      "close": null,
+      "change_pct": -13,
+      "reason": "8-10月期の既存店売上高が+5.1%で予想（+5.6%）に届かず（CNBC、取引時間中）。",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/19/stocks-moving-the-most-today-live-updates.html"
+    },
+    {
+      "name": "米10年債利回り",
+      "close": 5.046,
+      "change_bp": -2,
+      "reason": "景気指標を見極める展開（CNBC、取引時間中の値）。",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/19/us-treasury-yields-investors-us-economy.html"
+    },
+    {
+      "name": "米経済指標",
+      "reason": "新規失業保険申請件数20.3万件（予想19.7万件）。フィラデルフィア連銀景況指数6.3（予想18、5月以来の低水準）。ただし価格受取指数は2022年6月以来の高水準。",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/18/stock-market-today-live-updates.html"
+    },
+    {
+      "name": "金先物",
+      "reason": "12月限が一時3694.5ドルと2025年9月以来の安値。週間で-4.4%（CNBC、取引時間中）。",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/18/stock-market-today-live-updates.html"
+    }
+  ],
+  "followups": [
+    {
+      "source_script": "memory/scripts/2026-11-19.md（『日本時間11月19日（木）の夜にウォルマートの第3四半期決算』）",
+      "promise": "ウォルマート第3四半期決算",
+      "status": "発表済み",
+      "as_of_jst": "2026-11-20T06:45:00+09:00",
+      "outcome": "売上高1888億ドル（+5.2%）、調整後1株利益0.65ドル（予想0.64ドル）。ネット通販は世界で+17%、米国+23%、米国の広告事業+37%。通期見通しを引き上げ：売上高+4.9〜5.2%、調整後1株利益2.84〜2.89ドル。CEOは軽油高でも低価格を維持する方針。",
+      "sources": [
+        "https://www.cnbc.com/2026/11/19/walmart-wmt-q3-2026-earnings.html",
+        "https://www.sec.gov/Archives/edgar/data/104169/000010416926000168/earningsreleasefy27q3.htm"
+      ]
+    },
+    {
+      "source_script": "memory/scripts/2026-11-19.md（アンソロピックがナスダックに上場、公開価格83ドル）",
+      "promise": "アンソロピック上場初日の値動き",
+      "status": "上場済み",
+      "as_of_jst": "2026-11-20T06:45:00+09:00",
+      "outcome": "初値111.50ドル（+34%）、終値97.17ドル（+17%）。上場を機に相場全体は大幅安。",
+      "sources": [
+        "https://www.cnbc.com/2026/11/19/anthropic-ipo-ant-live-updates.html",
+        "https://www.cnbc.com/2026/11/18/stock-market-today-live-updates.html"
+      ]
+    },
+    {
+      "source_script": "grok_research/2026-11-19.json の week_ahead（米中ロ3首脳会談）",
+      "promise": "米中ロ3首脳会談（深圳）",
+      "status": "開催済み",
+      "as_of_jst": "2026-11-20T06:45:00+09:00",
+      "outcome": "『平和宣言』を発表（国連改革、エネルギー供給の安定、核リスク低減の対話）。軍備管理交渉やウクライナへの言及はなし。",
+      "sources": [
+        "https://www.reuters.com/3fec1b0a85a0/world/china/trumps-historic-meeting-with-xi-putin-headlines-asia-trip-2026-11-18/",
+        "https://x.com/WhiteHouse/status/2123420037373460620"
+      ]
+    },
+    {
+      "source_script": "grok_research/2026-11-19.json の week_ahead（ロス・ストアーズ決算）",
+      "promise": "ロス・ストアーズ決算",
+      "status": "発表済み（引け後）",
+      "as_of_jst": "2026-11-20T06:45:00+09:00",
+      "outcome": "会社発表では第3四半期は好調。ただし第4四半期の1株利益見通し（2.16〜2.25ドル）が市場予想を下回り、時間外で約9%安との報道。出典はInvesting.comで、承認済みの報道機関では未確認のため参考扱い。",
+      "sources": [
+        "https://www.prnewswire.com/news-releases/ross-stores-reports-strong-third-quarter-sales-and-earnings-results-302946112.html",
+        "https://za.investing.com/news/earnings/ross-stores-tumbles-on-weak-fourth-quarter-earnings-outlook-4587170"
+      ]
+    }
+  ],
+  "week_ahead": [
+    {
+      "item": "トランプ大統領の記者会見（アジア歴訪後）",
+      "when_jst": "11/21（土）午前2時（米東部時間11/20 正午）",
+      "source": "https://x.com/WhiteHouse/status/2123464732246254075"
+    },
+    {
+      "item": "ジェンスン・ファン前エヌビディアCEOの上院銀行委員会での証言（クリスマス前の公聴会を調整中。12/3は未確定）",
+      "when_jst": "未定（12月）",
+      "source": "https://thehill.com/homenews/senate/6227038-jensen-huang-senate-testify/"
+    },
+    {
+      "item": "FOMC（12月会合）。JPモルガンは12月・1月・3月の連続利上げを予想",
+      "when_jst": "米12/8〜9",
+      "source": "https://www.investing.com/news/economy-news/jp-morgan-sees-fed-rate-hikes-at-next-three-meetings-as-inflation-persists-5039090"
+    }
+  ],
+  "limitations": [
+    "NVDA、WMT、AMZN、GOOGLの終値と騰落率は承認済みの報道機関（ロイター、ブルームバーグ、WSJ、CNBC、日経）で確認できなかった（exa.aiの株価ページはNVDA -3.30%の145.98ドル、WMT -1.04%の126.04ドルを示すが、出典として使っていない）。AMZN -2.7%、GOOGL -0.6%は米東部時間13時31分時点のロイターの値。",
+    "ロイターの引け値（Boursorama仏語版：S&P500 7,175.24、ナスダック 23,885.88、ダウ 49,095.46）はCNBCの値とわずかにずれる。本ファイルではCNBCの値を採用。",
+    "VIXの終値、ドル円の引け値は確認できなかった（ドル円は米11/19中に159.6円前後で、4日続落が止まったとの報道。Yahoo Finance転載で未確認）。",
+    "@realDonaldTrumpのX投稿は対象時間内に見つからなかった（Truth Socialは対象外）。",
+    "ロス・ストアーズの時間外の値動きはInvesting.comの報道のみで、承認済みの報道機関では未確認。",
+    "PANW +5.6%、WSM -13%は取引時間中の値で、終値ではない。"
+  ]
+}
