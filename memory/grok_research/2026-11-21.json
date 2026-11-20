@@ -1,0 +1,328 @@
+{
+  "generated": "2026-11-21T06:37:26+09:00",
+  "test_run": false,
+  "session_covered": {
+    "us": "2026-11-20（金・米東部時間）の通常取引（アンソロピック上場2日目＝初の終日取引）",
+    "japan": "2026-11-21（土）朝の配信回（週間まとめ回）",
+    "x_window_utc": "2026-11-19T21:35:00Z〜2026-11-20T21:30:00Z",
+    "notes": "主要3指数そろって急落。ナスダックは-5.28%の22,617.73で年初来マイナス（-2.7%）に転落、S&P500は-3.7%の6,910.39、ダウは949.73ドル安（-1.93%）の48,147.33。S&P500とダウは最高値から10%下落の『調整局面』入り。ナスダック100は-5.6%で取引時間中に高値から20%安の弱気相場水準（CNBC）。週間ではダウ-8%（2020年3月以来最悪）、ナスダック約-10%、S&P500 -8.6%（2025年4月以来最悪）。エヌビディアはSECが会計処理を調査中とのロイター報道で約-14%、AMD -13%超、マイクロン約-14%、アンソロピック-8.5%。VIXは取引時間中32.27（CNBC）。"
+  },
+  "x_statements": [
+    {
+      "account": "@WhiteHouse",
+      "post_url": "https://x.com/WhiteHouse/status/2123822070005928339",
+      "time_jst": "2026-11-21T01:53:34+09:00",
+      "gist": "トランプ大統領がアジア歴訪後の記者会見を中継。会見で『米企業が海外にデータセンターを建てることは許さない』『巨額の税（tremendous tax）を課す』と発言。中国での建設にも懸念を示した。",
+      "tickers": [
+        "MSFT",
+        "AMZN",
+        "GOOGL",
+        "META",
+        "ORCL"
+      ],
+      "news_article": {
+        "outlet": "CNBC / Reuters（Investing.com転載）",
+        "url": "https://www.cnbc.com/2026/11/20/trump-data-centers-ai-companies-tax.html",
+        "url2": "https://www.investing.com/news/world-news/trump-says-us-to-penalize-firms-building-data-centers-abroad-5042390",
+        "note": "ロイターによると、税の仕組みや法的根拠、実施方法の詳細は示さなかった。"
+      }
+    },
+    {
+      "account": "@CNBC",
+      "post_url": "https://x.com/CNBC/status/2123841297744036351",
+      "time_jst": "2026-11-21T03:09:59+09:00",
+      "gist": "トランプ大統領、海外でデータセンターを建てる米企業に『巨額の税』を警告（CNBC速報）。",
+      "tickers": [
+        "MSFT",
+        "AMZN",
+        "GOOGL",
+        "META"
+      ],
+      "news_article": {
+        "outlet": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/20/trump-data-centers-ai-companies-tax.html"
+      }
+    },
+    {
+      "account": "@business（Bloomberg）",
+      "post_url": "https://x.com/business/status/2123858957319966823",
+      "time_jst": "2026-11-21T04:20:09+09:00",
+      "gist": "トランプ大統領が、エヌビディアを去ったジェンスン・フアン氏は『大きな謝罪』をしてCEOに戻るべきだと発言。ただし復帰の可能性は極めて低いとブルームバーグ。",
+      "tickers": [
+        "NVDA"
+      ],
+      "news_article": {
+        "outlet": "Bloomberg（Bloomberg Law）",
+        "url": "https://news.bloomberglaw.com/artificial-intelligence/trump-says-huang-should-return-to-nvidia-after-big-apology-1",
+        "note": "エヌビディア取締役会は辞任を受理し、復帰させる考えはないとしている（11/17 Politico、AP報道）。"
+      }
+    },
+    {
+      "account": "@business（Bloomberg）",
+      "post_url": "https://x.com/business/status/2123871539732865138",
+      "time_jst": "2026-11-21T05:10:09+09:00",
+      "gist": "米SECがエヌビディアの会計処理を調査しているとロイターが報道、とブルームバーグも速報。",
+      "tickers": [
+        "NVDA"
+      ],
+      "news_article": {
+        "outlet": "Reuters（独自）",
+        "url": "https://www.reuters.com/5f374b32b07b/world/us-secs-nvidia-probe-is-examining-potential-accounting-issues-sources-say-2026-11-20/",
+        "note": "関係者2人の話。SEC執行部門のスタッフが会計上の問題の可能性を精査。SECはコメントを控え、エヌビディアはすぐには回答せず。調査は不正の証拠ではない。"
+      }
+    },
+    {
+      "account": "@nikkei",
+      "post_url": "https://x.com/nikkei/status/2123880917932400833",
+      "time_jst": "2026-11-21T05:47:25+09:00",
+      "gist": "日経『NVIDIA、株価一時13%急落 米SECが会計処理を調査とロイター報道』。",
+      "tickers": [
+        "NVDA"
+      ],
+      "news_article": {
+        "outlet": "日経（X投稿のみ確認）",
+        "url": "https://x.com/nikkei/status/2123880917932400833"
+      }
+    },
+    {
+      "account": "@Reuters",
+      "post_url": "https://x.com/Reuters/status/2123835057722826763",
+      "time_jst": "2026-11-21T02:45:11+09:00",
+      "gist": "アンソロピックのIPO調達額が935億ドルに拡大。引受会社がグリーンシュー（追加売り出し）を全部行使。",
+      "tickers": [
+        "ANT"
+      ],
+      "news_article": {
+        "outlet": "Reuters（Investing.com転載）/ CNBC",
+        "url": "https://www.investing.com/news/economy-news/anthropic-ipo-haul-rises-to-935-billion-after-underwriters-exercise-greenshoe-5041607",
+        "url2": "https://www.cnbc.com/2026/11/20/anthropic-ipo-greenshoe.html",
+        "note": "会社発表: https://www.anthropic.com/news/ipo-close"
+      }
+    },
+    {
+      "account": "@USTreasury（ベッセント財務長官）",
+      "post_url": "https://x.com/USTreasury/status/2123852951043129698",
+      "time_jst": "2026-11-21T03:56:17+09:00",
+      "gist": "ベッセント財務長官が『トランプ口座』への寄付を呼びかけ。CNBCのインタビューでは、アンソロピックを『アメリカでしか起きない物語』と称え、共同創業者の1人が数週間内にトランプ口座へ大口寄付をすると述べた。",
+      "tickers": [
+        "ANT"
+      ],
+      "news_article": {
+        "outlet": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/20/anthropic-stock-ai-amd-nvidia.html",
+        "note": "CNBCの情報源によると寄付するのはトム・ブラウン氏（最高計算責任者）。"
+      }
+    },
+    {
+      "account": "@federalreserve",
+      "post_url": "https://x.com/federalreserve/status/2123827867868086464",
+      "time_jst": "2026-11-21T02:16:37+09:00",
+      "gist": "クックFRB理事がチリ中銀で講演。『利上げを待つほど後手に回るリスクがある』とタカ派発言。10月の据え置きに反対した2人のうちの1人。",
+      "tickers": [
+        "SPX",
+        "USDJPY"
+      ],
+      "news_article": {
+        "outlet": "CNBC / WSJ",
+        "url": "https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html",
+        "url2": "https://x.com/WSJ/status/2123849539169751078",
+        "note": "市場は12月8〜9日のFOMCで0.25%利上げを強く織り込む（CNBC）。"
+      }
+    },
+    {
+      "account": "@WSJ",
+      "post_url": "https://x.com/WSJ/status/2123838285248164000",
+      "time_jst": "2026-11-21T02:58:00+09:00",
+      "gist": "WSJ独自：コットン上院議員が、ラトニック商務長官はエヌビディアのAIチップが中国へ密輸されているとの警告を繰り返し無視したと発言。",
+      "tickers": [
+        "NVDA"
+      ],
+      "news_article": {
+        "outlet": "WSJ（X投稿で確認、本文は未読）",
+        "url": "https://x.com/WSJ/status/2123838285248164000"
+      }
+    },
+    {
+      "account": "@USTreasury",
+      "post_url": "https://x.com/USTreasury/status/2123885407938998420",
+      "time_jst": "2026-11-21T06:05:15+09:00",
+      "gist": "財務省がイランの石油販売を仲介する『石油受託者』に新たな制裁（Operation Economic Outcast）。",
+      "tickers": [
+        "CL=F"
+      ],
+      "news_article": {
+        "outlet": "なし（公式発表のみ）",
+        "url": "https://x.com/USTreasury/status/2123885407938998420",
+        "note": "報道機関での裏付けは未確認。"
+      }
+    },
+    {
+      "account": "@WSJ",
+      "post_url": "https://x.com/WSJ/status/2123887378859196660",
+      "time_jst": "2026-11-21T06:13:05+09:00",
+      "gist": "WSJ『AIトレードの車輪が外れた週』。ナスダックの時価総額は4兆ドル超減少、史上最大のIPOでも止められず。",
+      "tickers": [
+        "IXIC",
+        "NVDA",
+        "ANT"
+      ],
+      "news_article": {
+        "outlet": "WSJ（X投稿）/ Bloomberg",
+        "url": "https://x.com/WSJ/status/2123887378859196660",
+        "url2": "https://x.com/business/status/2123888332748755340",
+        "note": "ブルームバーグ：ナスダック100は金曜1日で2.1兆ドルの時価総額が消失、エヌビディアは週間-23%。"
+      }
+    }
+  ],
+  "move_causes": [
+    {
+      "name": "ナスダック総合",
+      "close": 22617.73,
+      "change_pct": -5.28,
+      "reason": "アンソロピック上場で『AI相場の材料出尽くし』の利益確定売り。エヌビディアへのSEC会計調査報道で半導体売りが加速し、年初来マイナス（-2.7%）に転落。週間で約-10%（6年超ぶりの大きさ）。",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html"
+    },
+    {
+      "name": "S&P500",
+      "close": 6910.39,
+      "change_pct": -3.7,
+      "reason": "最高値から10%下落の調整局面入り。7日続落（木曜で6日続落、CNBCのBTIG引用）。週間-8.6%は2025年4月の関税ショック以来最悪。生活必需品とヘルスケアだけが上昇（ロイター）。",
+      "outlet": "CNBC / Reuters",
+      "url": "https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html",
+      "url2": "https://www.reuters.com/5f374b32b07b/world/china/global-markets-global-markets-2026-11-20/"
+    },
+    {
+      "name": "ダウ平均",
+      "close": 48147.33,
+      "change_pct": -1.93,
+      "change_points": -949.73,
+      "reason": "調整局面入り。週間-8%は2020年3月以来最悪。ウォルマート、コストコ、J&J、P&Gなどディフェンシブは約1%高で下げを和らげた。",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html"
+    },
+    {
+      "name": "エヌビディア（NVDA）",
+      "change_pct": -14,
+      "change_note": "CNBCは『約14%安』、ロイターは報道後『約13%安』（LSEG）",
+      "reason": "SECが会計処理を調査中とのロイター独自報道。2008年の金融危機以来の長い週間連続安。前日にはカリフォルニア州司法長官が中国へのチップ流出を巡り召喚状。週間-23%（ブルームバーグ）。",
+      "outlet": "CNBC / Reuters",
+      "url": "https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html",
+      "url2": "https://www.reuters.com/5f374b32b07b/world/us-secs-nvidia-probe-is-examining-potential-accounting-issues-sources-say-2026-11-20/"
+    },
+    {
+      "name": "AMD",
+      "change_pct": -13,
+      "change_note": "『13%超安』（CNBC）",
+      "reason": "AI半導体の全面安。前日の空売り報告（ハンターブルック）に続く下落。",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/20/anthropic-stock-ai-amd-nvidia.html"
+    },
+    {
+      "name": "マイクロン（MU）",
+      "change_pct": -14,
+      "change_note": "『約14%安』（CNBC）",
+      "reason": "半導体の連れ安。半導体株指数（SOX）は6%近く下落（ロイター、取引時間中）。",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html"
+    },
+    {
+      "name": "アンソロピック（ANT）",
+      "change_pct": -8.5,
+      "reason": "上場初日の+17%（終値97.17ドル）の多くを吐き出した。取引時間中は最大-12.5%（ロイター）。シーポートが『中立』で調査開始し『信じがたいほどの信頼の跳躍を求めている』と慎重姿勢、ウィリアム・ブレアは『アウトパフォーム』。調達額はグリーンシュー行使で935億ドルに。",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/20/anthropic-stock-ai-amd-nvidia.html"
+    },
+    {
+      "name": "インテュイット（INTU）",
+      "change_pct": -8,
+      "change_note": "寄り前で約8%安（CNBC、終値は未確認）",
+      "reason": "クレジット・カルマの減速を理由に2027年度の売上見通しを下方修正。",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html"
+    },
+    {
+      "name": "ロス・ストアーズ（ROST）",
+      "change_pct": -5,
+      "change_note": "寄り前で5%安（CNBC、終値は未確認）",
+      "reason": "会社見通しが失望を誘った。",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html"
+    },
+    {
+      "name": "米国債・為替・商品（参考）",
+      "reason": "安全資産に資金が逃避し、米10年債利回りは約10bp低下の4.948%（1か月で最大の低下）。ドル円は0.62%安の158.7円。金は-2.02%の3,548.53ドルで2025年9月以来の安値。いずれもロイターの取引時間中の値で終値ではない。ビットコインは2026年7月以来の6万ドル割れ（CNBC）。",
+      "outlet": "Reuters / CNBC",
+      "url": "https://www.reuters.com/5f374b32b07b/world/china/global-markets-global-markets-2026-11-20/",
+      "url2": "https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html"
+    },
+    {
+      "name": "ミシガン大学消費者信頼感（11月確報）",
+      "reason": "51.5で予想通り（前月比+7.3%）。1年先の予想インフレ率は3.7%と1ポイント低下し3月以来の低さ、5年先は3.3%。",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html"
+    }
+  ],
+  "followups": [
+    {
+      "source_script": "memory/grok_research/2026-11-20.json の week_ahead（台本 memory/scripts/2026-11-20.md では未言及）",
+      "promise": "トランプ大統領の記者会見（日本時間11/21 午前2時）",
+      "status": "実施済み",
+      "as_of_jst": "2026-11-21T06:37:26+09:00",
+      "outcome": "海外でデータセンターを建てる米企業に『巨額の税』を課すと表明（詳細なし）。フアン氏は謝罪してエヌビディアに戻るべきだとも発言。",
+      "sources": [
+        "https://www.cnbc.com/2026/11/20/trump-data-centers-ai-companies-tax.html",
+        "https://news.bloomberglaw.com/artificial-intelligence/trump-says-huang-should-return-to-nvidia-after-big-apology-1"
+      ]
+    },
+    {
+      "source_script": "memory/scripts/2026-11-20.md（『次回のFOMCは米国時間12月8日から9日で、結果の発表は日本時間12月10日木曜日の午前4時』）",
+      "promise": "12月FOMCの利上げ票の行方",
+      "status": "未到来",
+      "as_of_jst": "2026-11-21T06:37:26+09:00",
+      "outcome": "まだ先。11/20にクック理事が『待つほど後手に回る』とタカ派発言。市場は12月の0.25%利上げを強く織り込む（CNBC）。",
+      "sources": [
+        "https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html"
+      ]
+    },
+    {
+      "source_script": "memory/scripts/2026-11-20.md（『明日の配信では、週間の米国株の値動きをまとめてお伝えします』）",
+      "promise": "週間まとめ",
+      "status": "材料あり",
+      "as_of_jst": "2026-11-21T06:37:26+09:00",
+      "outcome": "週間でダウ-8%（2020年3月以来最悪）、ナスダック約-10%、S&P500 -8.6%（2025年4月以来最悪）（CNBC）。ナスダックの時価総額は週で4兆ドル超減少（WSJ）。エヌビディア週間-23%（ブルームバーグ）。",
+      "sources": [
+        "https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html",
+        "https://x.com/WSJ/status/2123887378859196660",
+        "https://x.com/business/status/2123888332748755340"
+      ]
+    }
+  ],
+  "week_ahead": [
+    {
+      "item": "感謝祭ウィーク（11/26（木）米市場休場、11/27は短縮取引が通例）",
+      "when_jst": "11/27（金）未明は休場",
+      "source": "https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html",
+      "note": "CNBCは感謝祭は来週と記載。休場・短縮の詳細は出典で未確認。"
+    },
+    {
+      "item": "FOMC（12月会合）。市場は0.25%利上げを強く織り込む",
+      "when_jst": "12/10（木）午前4時 結果発表",
+      "source": "https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html"
+    },
+    {
+      "item": "エヌビディアを巡る調査（SEC会計調査、カリフォルニア州司法長官の召喚状）の続報",
+      "when_jst": "未定",
+      "source": "https://www.reuters.com/5f374b32b07b/world/us-secs-nvidia-probe-is-examining-potential-accounting-issues-sources-say-2026-11-20/"
+    }
+  ],
+  "limitations": [
+    "エヌビディア、AMD、マイクロン、アンソロピックの終値（ドル）は承認済みの報道機関で確認できなかった。騰落率はCNBCの『約14%』『13%超』『約14%』『8.5%』の表現のみ。exa.aiの株価ページ（NVDA 125.53ドル -14.01%、AMD 424.39ドル -13.25%、MU 594.51ドル -13.89%）は出典として使っていない。",
+    "ロイターの指数の値（ダウ+0.08%など）は取引時間中のもので、終値はCNBCの値を採用。ANSA（伊）の終値（ダウ-2.03%の48,102.46、S&P -3.81%、ナスダック-5.37%）はCNBCとずれる。",
+    "VIX、米10年債利回り、ドル円、原油の終値は確認できなかった（ロイターの取引時間中の値のみ）。",
+    "@realDonaldTrump のX投稿は対象時間内に見つからなかった（Truth Socialは対象外）。トランプ氏の発言は記者会見（@WhiteHouse中継）から。",
+    "インテュイットとロス・ストアーズは寄り前の値で、終値は未確認。",
+    "WSJのラトニック長官に関する記事と日経のエヌビディア記事は本文を読めておらず、X投稿の文面で確認。",
+    "感謝祭の休場日程は出典で確認していない（通例として記載）。"
+  ]
+}
