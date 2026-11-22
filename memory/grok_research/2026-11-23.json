@@ -1,0 +1,353 @@
+{
+  "generated": "2026-11-23T06:35:59+09:00",
+  "test_run": false,
+  "session_covered": {
+    "us": "2026-11-20（金・米東部時間）の終値＋同週（11/16〜11/20）の週間動向。週末（11/21〜11/22）のニュース",
+    "japan": "2026-11-23（月）週報回",
+    "x_window_utc": "2026-11-20T21:00:00Z〜2026-11-22T21:35:00Z",
+    "notes": "月曜は週報モード。金曜の個別数値は2026-11-21.jsonと同じ（CNBC中心）。週末は『底はどこか』の議論（ロイター分析、ブルームバーグ、ゴールドマン）、エヌビディアのフアン前CEOの議会証言（12/1）、台湾の空売り規制、中国の信用取引緩和、イラン原油制裁が中心。今週は感謝祭で短縮週（木休場、金13時ET短縮取引）、水曜のPCEが最大の山場。米株先物は日本時間23日8時ごろ取引開始のため、この時点では未確認。"
+  },
+  "x_statements": [
+    {
+      "account": "@business",
+      "post_url": "https://x.com/business/status/2124554863950303635",
+      "time_jst": "2026-11-23T02:25:26+09:00",
+      "gist": "エヌビディアのジェンスン・フアン前CEOが12月1日、下院外交委員会など3委員会で非公開の証言をする。マコール前外交委員長は（中国への技術流出の可能性について）知りたいと述べた。",
+      "tickers": [
+        "NVDA"
+      ],
+      "news_article": {
+        "outlet": "Bloomberg（X投稿）／下院対中特別委員会の発表",
+        "url": "https://x.com/business/status/2124554863950303635",
+        "url2": "https://chinaselectcommittee.house.gov/media/press-releases/jensen-huang-and-nvidia-agree-to-appear-before-congress",
+        "note": "11/17に下院外交委・対中特別委・情報委の3委員長が、フアン氏とエヌビディアのテテル法務責任者が自発的に応じると発表（委員会のプレスリリース）。"
+      }
+    },
+    {
+      "account": "@business",
+      "post_url": "https://x.com/business/status/2124582476408324311",
+      "time_jst": "2026-11-23T04:15:09+09:00",
+      "gist": "ゴールドマン・サックスのトレーダーは米国株に『買い場』が来つつあるとみる一方、本格反発に必要な『投げ売り（キャピチュレーション）』はまだ起きていないと警告。ヘッジファンドは持ち高を大きく減らしたが、投信・個人などはまだ持ち高が高い。",
+      "tickers": [
+        "SPX",
+        "NDX"
+      ],
+      "news_article": {
+        "outlet": "Bloomberg（スペイン語版 Bloomberg Línea）",
+        "url": "https://www.bloomberglinea.com/mercados/analistas-de-goldman-ven-oportunidad-de-entrada-en-acciones-estadounidenses-pero-advierten-sobre-los-riesgos/",
+        "note": "リスクとして利上げ観測の継続を挙げる。英語原文は未読。"
+      }
+    },
+    {
+      "account": "@business",
+      "post_url": "https://x.com/business/status/2124254066662416406",
+      "time_jst": "2026-11-22T06:30:10+09:00",
+      "gist": "『アンソロピック主導の総崩れ』のあと、ウォール街は何がAI株を再び押し上げるのか探している（ブルームバーグ）。ナスダック100は週間-10%で2020年3月以来の最悪。アンソロピックは金曜終値で公開価格から6ドル未満の上にとどまった。",
+      "tickers": [
+        "ANT",
+        "NVDA",
+        "NDX"
+      ],
+      "news_article": {
+        "outlet": "Bloomberg（Yahoo Finance転載）",
+        "url": "https://finance.yahoo.com/technology/ai/articles/wall-street-asks-save-ai-130000489.html",
+        "note": "ブルームバーグ・エコノミクスのアンナ・ウォン氏は『アンソロピック上場がAIトレードの終わりを示すかもしれない』と指摘（最先端AIの価格決定力の弱まり）。中間選挙での民主党勝利でデータセンター建設が鈍るリスクにも言及。"
+      }
+    },
+    {
+      "account": "@Reuters",
+      "post_url": "https://x.com/Reuters/status/2124460422916956296",
+      "time_jst": "2026-11-22T20:10:10+09:00",
+      "gist": "【独自】アンソロピックはスペースXと同様に異例のIPO手続きを取り、一部の銀行家の不満を招いた。",
+      "tickers": [
+        "ANT"
+      ],
+      "news_article": {
+        "outlet": "Reuters（Investing.com転載）",
+        "url": "https://www.investing.com/news/stock-market-news/exclusivelike-spacex-anthropic-ran-an-unusual-ipo-process-chafing-some-bankers-5043898",
+        "note": "検索結果の要約では、引受チームを幹部4人に制限、主要メンバーに6か月間オープンAIなど競合との仕事を禁止、資料の閲覧追跡と透かし、といった内容。本文の細部は未精読。"
+      }
+    },
+    {
+      "account": "@business",
+      "post_url": "https://x.com/business/status/2124053991315177774",
+      "time_jst": "2026-11-21T17:15:09+09:00",
+      "gist": "台湾の金融監督管理委員会が、株価の下支えのため空売り規制を強化（ブルームバーグ）。",
+      "tickers": [
+        "TSM",
+        "2330.TW"
+      ],
+      "news_article": {
+        "outlet": "Bloomberg（X投稿）／台湾金融監督管理委員会の発表",
+        "url": "https://x.com/business/status/2124053991315177774",
+        "url2": "https://www.fsc.gov.tw/ch/home.jsp/home.jsp?dataserno=202611210001&dtable=News&id=96&mcustomize=news_view.jsp&parentpath=0%2C2",
+        "note": "金管会の発表（11/21）では、11/23から前日終値を下回る価格での空売りを全面禁止、信用売りの最低保証金率を130%→150%に引き上げなど5項目。"
+      }
+    },
+    {
+      "account": "@Reuters",
+      "post_url": "https://x.com/Reuters/status/2124493149636583673",
+      "time_jst": "2026-11-22T22:20:12+09:00",
+      "gist": "中国の取引所が信用取引の要件を緩和し、株式市場を下支え。",
+      "tickers": [
+        "FXI",
+        "BABA"
+      ],
+      "news_article": {
+        "outlet": "Reuters（X投稿）",
+        "url": "https://x.com/Reuters/status/2124493149636583673",
+        "note": "記事本文は未読。"
+      }
+    },
+    {
+      "account": "@USTreasury",
+      "post_url": "https://x.com/USTreasury/status/2123885407938998420",
+      "time_jst": "2026-11-21T06:05:15+09:00",
+      "gist": "米財務省が『経済的追放作戦（Operation Economic Outcast）』の一環で、イランの原油販売代金を集める『石油受託者』を制裁。",
+      "tickers": [
+        "原油（WTI）",
+        "XOM",
+        "CVX"
+      ],
+      "news_article": {
+        "outlet": "Reuters（Investing.com転載）",
+        "url": "https://www.investing.com/news/economy-news/us-treasury-sanctions-iranian-trustees-collecting-oil-revenues-5042737",
+        "url2": "https://home.treasury.gov/news/press-releases/sb0697",
+        "note": "ロイターによると、制裁と米海軍の封鎖を逃れて違法な原油販売の代金を集めたとされる4人が対象。"
+      }
+    },
+    {
+      "account": "@SecScottBessent",
+      "post_url": "https://x.com/SecScottBessent/status/2123885854716252526",
+      "time_jst": "2026-11-21T06:07:02+09:00",
+      "gist": "ベッセント財務長官『イラン政権は海上の原油在庫を使い果たした』。国民がパンと燃料の不足に直面しても自分たちの利益を優先していると批判。",
+      "tickers": [
+        "原油（WTI）"
+      ],
+      "news_article": {
+        "outlet": "Reuters（Investing.com転載）",
+        "url": "https://www.investing.com/news/economy-news/us-treasury-sanctions-iranian-trustees-collecting-oil-revenues-5042737"
+      }
+    },
+    {
+      "account": "@nikkei",
+      "post_url": "https://x.com/nikkei/status/2124595631498862660",
+      "time_jst": "2026-11-23T05:07:26+09:00",
+      "gist": "日経『アンソロピックのClaude、日本の導入企業10倍に IPO資金でアジア開拓』。",
+      "tickers": [
+        "ANT"
+      ],
+      "news_article": {
+        "outlet": "日経（X投稿のみ確認）",
+        "url": "https://x.com/nikkei/status/2124595631498862660"
+      }
+    },
+    {
+      "account": "@elonmusk",
+      "post_url": "https://x.com/elonmusk/status/2124585347929767967",
+      "time_jst": "2026-11-23T04:26:34+09:00",
+      "gist": "マスク氏、テスラの車載AIチップ『AI4.5』の性能向上は比較的小さく、主にメモリーをLPDDR5Xに上げる必要があったためと説明（ユーザーへの返信）。",
+      "tickers": [
+        "TSLA",
+        "MU"
+      ],
+      "news_article": {
+        "outlet": "裏付け報道なし",
+        "url": "https://x.com/elonmusk/status/2124585347929767967",
+        "note": "指定の報道機関では裏付けを確認できず。使う場合は『マスク氏がXで』と明示。"
+      }
+    }
+  ],
+  "move_causes": [
+    {
+      "name": "週間まとめ（ロイター分析）",
+      "reason": "S&P500は10/6の最高値から11.6%下落し、2025年3月以来の調整局面入り。金曜まで7日続落で、2020年のコロナ初期以来の長い連続安。週間の下げは1年超ぶりの大きさ。ナスダック総合は年初来-2.7%。テクノロジー株は最高値から約24.7%下落（11/20時点のロイター記事）。背景はデータセンター投資の持続性への疑問と、FRBの利上げ開始への不安。",
+      "outlet": "Reuters（Investing.com転載）",
+      "url": "https://www.investing.com/news/stock-market-news/analysiscorrection-or-deeper-reckoning-investors-seek-signs-us-stock-selling-will-abate-5043939",
+      "url2": "https://www.investing.com/news/stock-market-news/black-friday-brings-consumer-spending-into-focus-for-airocked-market-5041258"
+    },
+    {
+      "name": "ナスダック100（週間）",
+      "change_pct": -10,
+      "change_note": "週間で約-10%（ブルームバーグ）",
+      "reason": "2020年3月以来の最悪の週。金曜引け時点で高値から20%下落の弱気相場入り目前。",
+      "outlet": "Bloomberg（Yahoo Finance転載）",
+      "url": "https://finance.yahoo.com/technology/ai/articles/wall-street-asks-save-ai-130000489.html"
+    },
+    {
+      "name": "ナスダック総合",
+      "close": 22617.73,
+      "change_pct": -5.28,
+      "reason": "アンソロピック上場で『AI相場の材料出尽くし』の利益確定売り。エヌビディアへのSEC会計調査報道で半導体売りが加速し、年初来マイナス（-2.7%）に転落。週間で約-10%（6年超ぶりの大きさ）。",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html",
+      "note_1123": "金曜（11/20）の値。2026-11-21.jsonから再掲。"
+    },
+    {
+      "name": "S&P500",
+      "close": 6910.39,
+      "change_pct": -3.7,
+      "reason": "最高値から10%下落の調整局面入り。7日続落（木曜で6日続落、CNBCのBTIG引用）。週間-8.6%は2025年4月の関税ショック以来最悪。生活必需品とヘルスケアだけが上昇（ロイター）。",
+      "outlet": "CNBC / Reuters",
+      "url": "https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html",
+      "url2": "https://www.reuters.com/5f374b32b07b/world/china/global-markets-global-markets-2026-11-20/",
+      "note_1123": "金曜（11/20）の値。2026-11-21.jsonから再掲。"
+    },
+    {
+      "name": "ダウ平均",
+      "close": 48147.33,
+      "change_pct": -1.93,
+      "change_points": -949.73,
+      "reason": "調整局面入り。週間-8%は2020年3月以来最悪。ウォルマート、コストコ、J&J、P&Gなどディフェンシブは約1%高で下げを和らげた。",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html",
+      "note_1123": "金曜（11/20）の値。2026-11-21.jsonから再掲。"
+    },
+    {
+      "name": "エヌビディア（NVDA）",
+      "change_pct": -14,
+      "change_note": "CNBCは『約14%安』、ロイターは報道後『約13%安』（LSEG）",
+      "reason": "SECが会計処理を調査中とのロイター独自報道。2008年の金融危機以来の長い週間連続安。前日にはカリフォルニア州司法長官が中国へのチップ流出を巡り召喚状。週間-23%（ブルームバーグ）。",
+      "outlet": "CNBC / Reuters",
+      "url": "https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html",
+      "url2": "https://www.reuters.com/5f374b32b07b/world/us-secs-nvidia-probe-is-examining-potential-accounting-issues-sources-say-2026-11-20/",
+      "note_1123": "金曜（11/20）の値。2026-11-21.jsonから再掲。"
+    },
+    {
+      "name": "AMD",
+      "change_pct": -13,
+      "change_note": "『13%超安』（CNBC）",
+      "reason": "AI半導体の全面安。前日の空売り報告（ハンターブルック）に続く下落。",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/20/anthropic-stock-ai-amd-nvidia.html",
+      "note_1123": "金曜（11/20）の値。2026-11-21.jsonから再掲。"
+    },
+    {
+      "name": "マイクロン（MU）",
+      "change_pct": -14,
+      "change_note": "『約14%安』（CNBC）",
+      "reason": "半導体の連れ安。半導体株指数（SOX）は6%近く下落（ロイター、取引時間中）。",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html",
+      "note_1123": "金曜（11/20）の値。2026-11-21.jsonから再掲。"
+    },
+    {
+      "name": "アンソロピック（ANT）",
+      "change_pct": -9,
+      "change_note": "金曜の下落率は媒体で差あり：ロイター-9%、CNBC週間展望記事-10%、CNBC当日記事-8.5%（2026-11-21.json）",
+      "reason": "上場初日+17%（終値97.17ドル）のあと反落。ブルームバーグによると金曜終値は公開価格83ドルから6ドル未満の上（具体的な終値はこのファイルでは未確認）。",
+      "outlet": "Reuters / CNBC / Bloomberg",
+      "url": "https://www.investing.com/news/stock-market-news/black-friday-brings-consumer-spending-into-focus-for-airocked-market-5041258",
+      "url2": "https://www.cnbc.com/2026/11/20/stock-market-next-week-outlook-for-nov-23-27-2026.html",
+      "url3": "https://finance.yahoo.com/technology/ai/articles/wall-street-asks-save-ai-130000489.html"
+    },
+    {
+      "name": "テクニカル・季節性（CNBC週間展望）",
+      "reason": "S&P500のRSIが金曜に30を割り込み『売られすぎ』。11月と12月は平均でS&P500の最も良い月と3番目に良い月（ストック・トレーダーズ・アルマナック）。年初来ではS&P500が+4%、均等加重指数は+10%超。VIXは30台で3月以来の水準。ゴールドマンは2027年末のS&P500目標8,700（+17%）。",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/20/stock-market-next-week-outlook-for-nov-23-27-2026.html"
+    }
+  ],
+  "followups": [
+    {
+      "source_script": "memory/scripts/2026-11-21.md（『月曜の週報では、週間の相場全体の振り返りをお伝えします』）",
+      "promise": "月曜週報で週間の振り返り",
+      "status": "材料あり",
+      "as_of_jst": "2026-11-23T06:35:59+09:00",
+      "outcome": "move_causes の週間まとめ（ロイター分析、ブルームバーグ）を参照。",
+      "sources": [
+        "https://www.investing.com/news/stock-market-news/analysiscorrection-or-deeper-reckoning-investors-seek-signs-us-stock-selling-will-abate-5043939"
+      ]
+    },
+    {
+      "source_script": "memory/scripts/2026-11-21.md（『日本時間12月10日（木）午前4時に12月FOMCの結果』『まず見る数字は利上げ票数』）",
+      "promise": "12月FOMC（12/9 ET、日本時間12/10 4:00）",
+      "status": "未到来",
+      "as_of_jst": "2026-11-23T06:35:59+09:00",
+      "outcome": "会合日はCNBCも12/9と確認。その前の材料として今週水曜（日本時間11/25 22:30）の10月PCEが最大の山場。CNBCは『予想より弱いインフレなら0.5%利上げ懸念を和らげ、反発のきっかけになり得る』と指摘。",
+      "sources": [
+        "https://www.cnbc.com/2026/11/20/stock-market-next-week-outlook-for-nov-23-27-2026.html"
+      ]
+    },
+    {
+      "source_script": "grok_research/2026-11-21.json",
+      "promise": "エヌビディアへのSEC会計調査（ロイター独自）",
+      "status": "週末の続報なし",
+      "as_of_jst": "2026-11-23T06:35:59+09:00",
+      "outcome": "週末に新しい公式発表は見当たらず。ロイターは調査の開始時期や具体的な焦点を特定できていないとし、調査は不正の証拠ではないとしている。CEO後任探しはヘイドリック&ストラグルズが担当、取締役会はフアン氏の復帰を否定（ロイター配信）。",
+      "sources": [
+        "https://www.reuters.com/3fec1b0a85a0/world/us-secs-nvidia-probe-is-examining-potential-accounting-issues-sources-say-2026-11-20/",
+        "https://www.streetinsider.com/Reuters/Nvidia+chair+dismisses+idea+of+rehiring+Huang+and+vows+fast+search/27364029.html"
+      ]
+    },
+    {
+      "source_script": "grok_research/2026-11-21.json",
+      "promise": "トランプ大統領の『海外データセンターに巨額の税』発言",
+      "status": "詳細未発表",
+      "as_of_jst": "2026-11-23T06:35:59+09:00",
+      "outcome": "週末も制度の詳細は示されず。マイクロソフトのブラッド・スミス社長はCBS『フェイス・ザ・ネーション』（11/22）で、最先端AIの学習を米国で行う考えには一理あるとしつつ、多くのデータセンターは顧客の近くにある必要があり米国で置き換えられないと述べた（CBSは指定外の媒体のため参考扱い）。",
+      "sources": [
+        "https://www.cbsnews.com/news/transcript-brad-smith-microsoft-on-face-the-nation-with-margaret-brennan-nov-22-2026/",
+        "https://www.cnbc.com/2026/11/20/trump-data-centers-ai-companies-tax.html"
+      ]
+    },
+    {
+      "source_script": "grok_research/2026-11-21.json",
+      "promise": "フアン前CEOの議会証言",
+      "status": "予定どおり",
+      "as_of_jst": "2026-11-23T06:35:59+09:00",
+      "outcome": "12/1に3委員会で非公開の聴取（ブルームバーグ、委員会発表）。",
+      "sources": [
+        "https://x.com/business/status/2124554863950303635",
+        "https://chinaselectcommittee.house.gov/media/press-releases/jensen-huang-and-nvidia-agree-to-appear-before-congress"
+      ]
+    }
+  ],
+  "week_ahead": {
+    "source": "CNBC（米東部時間の予定を日本時間に換算）／Reuters",
+    "url": "https://www.cnbc.com/2026/11/20/stock-market-next-week-outlook-for-nov-23-27-2026.html",
+    "items": [
+      {
+        "date_jst": "11/23（月）23:45",
+        "event": "11月S&PグローバルPMI速報（製造業・サービス業）"
+      },
+      {
+        "date_jst": "11/24（火）朝（米11/23引け後など）",
+        "event": "決算：ヒューレット・パッカード・エンタープライズ、アジレント、ジェイコブス"
+      },
+      {
+        "date_jst": "11/25（水）0:00",
+        "event": "11月コンファレンスボード消費者信頼感指数"
+      },
+      {
+        "date_jst": "11/24（火・米）〜11/25（水）朝（日本時間）",
+        "event": "決算：デル、HP、ワークデイ、オートデスク、ベストバイ、アナログ・デバイセズ、ダラーツリー、JMスマッカー、レイモンド・ジェームズ"
+      },
+      {
+        "date_jst": "11/25（水）22:30",
+        "event": "10月PCE（コアPCEデフレーター）、個人所得・消費、7-9月期GDP改定値、10月耐久財受注、新規失業保険申請件数"
+      },
+      {
+        "date_jst": "11/25（水・米）",
+        "event": "決算：ディア"
+      },
+      {
+        "date_jst": "11/26（木・米）",
+        "event": "感謝祭でNY市場休場"
+      },
+      {
+        "date_jst": "11/28（土）3:00",
+        "event": "NY市場は金曜13時（米東部）で短縮取引終了。ブラックフライデー（ロイター：個人消費に注目。NRFは5日間で1億8,270万人が買い物予定と予測）"
+      }
+    ],
+    "risks_named_by_cnbc": "12/9のFOMC、来月のフアン氏の議会聴取、政府閉鎖の可能性、イランとの戦争の再燃"
+  },
+  "limitations": [
+    "トランプ大統領の週末のX投稿（@realDonaldTrump）は検索で見つからなかった。Truth Socialは確認していない。",
+    "米株先物は日本時間23日8時ごろの取引開始のため、このファイル作成時点（6時台）の値はない。",
+    "アンソロピックの金曜の下落率は媒体で-8.5%〜-10%と差がある。金曜の終値（ドル）は確認できていない。",
+    "エヌビディア・AMD・マイクロンなど個別株の金曜終値（ドル）、VIXとドル円の終値は、指定の報道機関で確認できていない（2026-11-21.jsonと同じ）。",
+    "ゴールドマンの記事は英語原文ではなくブルームバーグのスペイン語版で確認。ロイターの中国信用取引緩和は見出しのみ、日経のClaude記事はX投稿のみで本文未読。",
+    "マスク氏のAI4.5発言は報道の裏付けなし。ブラッド・スミス氏の発言はCBS（指定外の媒体）で確認。"
+  ]
+}
