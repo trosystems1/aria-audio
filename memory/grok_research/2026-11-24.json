@@ -1,0 +1,359 @@
+{
+  "generated": "2026-11-24T06:34:59+09:00",
+  "test_run": false,
+  "session_covered": {
+    "us": "2026-11-23（月・米東部時間）の終値。引け後決算（HPE、アジレント）",
+    "japan": "2026-11-24（火）配信回",
+    "x_window_utc": "2026-11-22T21:00:00Z〜2026-11-23T21:35:00Z",
+    "notes": "エヌビディア取締役会がフアン氏をCEOに復帰させ（11/12辞任から11日ぶり）、ナスダック+6.5%、S&P500+4.7%と2025年4月以来の大幅高。トランプ氏がCNBCで『取締役会を説得した』と発言。前週末の調整局面入りから一転。今週は感謝祭の短縮週（木休場、金13時ET短縮）。"
+  },
+  "x_statements": [
+    {
+      "account": "@nvidianewsroom（@nvidiaもRT）",
+      "post_url": "https://x.com/nvidianewsroom/status/2124865060397019480",
+      "time_jst": "2026-11-23T22:58:03+09:00",
+      "gist": "エヌビディア取締役会が、ジェンスン・フアン氏を社長・CEO・取締役に復帰させると発表。会社発表では、本人との協議と米政府高官の意見を経て、安全保障上のリスクはないと判断したとしている（全会一致・即日）。",
+      "tickers": [
+        "NVDA"
+      ],
+      "news_article": {
+        "outlet": "NVIDIA Newsroom（会社発表）／Reuters（Investing.com転載）",
+        "url": "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director",
+        "url2": "https://www.investing.com/news/stock-market-news/nvidia-reinstates-jensen-huang-as-ceo-5045809"
+      }
+    },
+    {
+      "account": "@elonmusk",
+      "post_url": "https://x.com/elonmusk/status/2124942828274925651",
+      "time_jst": "2026-11-24T04:07:04+09:00",
+      "gist": "マスク氏『エヌビディアで知っている人はみなジェンスンの復帰を望んでいたし、それが表れている』。",
+      "tickers": [
+        "NVDA"
+      ],
+      "news_article": null,
+      "note": "報道での裏付けは未確認（本人投稿のみ）。"
+    },
+    {
+      "account": "@CNBC",
+      "post_url": "https://x.com/CNBC/status/2124974118420259322",
+      "time_jst": "2026-11-24T06:11:24+09:00",
+      "gist": "フアン氏は復帰後に社員の歓迎を受け、『より良いCEOになる』と約束。日経も本社で社員が『おかえりなさい』と歓迎と報道（@nikkei 2124978650755760162）。",
+      "tickers": [
+        "NVDA"
+      ],
+      "news_article": {
+        "outlet": "CNBC（X投稿）／日経（X投稿）",
+        "url": "https://x.com/CNBC/status/2124974118420259322",
+        "url2": "https://x.com/nikkei/status/2124978650755760162"
+      },
+      "note": "記事本文は未読。"
+    },
+    {
+      "account": "@nikkei",
+      "post_url": "https://x.com/nikkei/status/2124964054452056367",
+      "time_jst": "2026-11-24T05:31:25+09:00",
+      "gist": "トランプ大統領『私が話をまとめた』『私が彼らを説得した』とフアン氏復帰への介入を認めた。CNBCのインタビューでは『彼は何も悪いことはしていない』『市場の混乱もたぶん影響した』とも発言。",
+      "tickers": [
+        "NVDA"
+      ],
+      "news_article": {
+        "outlet": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/22/stock-market-today-live-updates.html"
+      },
+      "note": "トランプ氏本人の@realDonaldTrumpのX投稿は収集範囲で見つからず、発言はCNBC電話インタビュー。"
+    },
+    {
+      "account": "@business",
+      "post_url": "https://x.com/business/status/2124971372149367167",
+      "time_jst": "2026-11-24T06:00:29+09:00",
+      "gist": "ブルームバーグ：米政府は、フアン氏辞任のきっかけとなった問題に関わったとして、シンガポールのメガスピード・インターナショナルにAI半導体の購入を禁じる方針（関係者）。",
+      "tickers": [
+        "NVDA"
+      ],
+      "news_article": {
+        "outlet": "Bloomberg（X投稿）",
+        "url": "https://x.com/business/status/2124971372149367167"
+      },
+      "note": "記事本文は未読。"
+    },
+    {
+      "account": "@business",
+      "post_url": "https://x.com/business/status/2124917173030133829",
+      "time_jst": "2026-11-24T02:25:07+09:00",
+      "gist": "トランプ大統領、中国がボーイング機をさらに250機購入すると予想（インタビュー）。ボーイング株は4%超高。",
+      "tickers": [
+        "BA"
+      ],
+      "news_article": {
+        "outlet": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/23/stocks-moving-the-most-today-live-updates.html"
+      }
+    },
+    {
+      "account": "@Reuters",
+      "post_url": "https://x.com/Reuters/status/2124923484857942059",
+      "time_jst": "2026-11-24T02:50:12+09:00",
+      "gist": "モルガン・スタンレーが先週の売りを受け、4月以来もっとも強気の株式見通しに。ウェルズ・ファーゴも米大型株を最上位の評価に引き上げ（@business 2124961228267061296）。",
+      "tickers": [
+        "SPY"
+      ],
+      "news_article": {
+        "outlet": "Reuters（X投稿）／Bloomberg（X投稿）",
+        "url": "https://x.com/Reuters/status/2124923484857942059",
+        "url2": "https://x.com/business/status/2124961228267061296"
+      }
+    },
+    {
+      "account": "@Reuters",
+      "post_url": "https://x.com/Reuters/status/2124976329804136796",
+      "time_jst": "2026-11-24T06:20:11+09:00",
+      "gist": "アームのレネ・ハースCEOが2033年まで続投へ（エヌビディアのトップ人事の観測が出る中で）。",
+      "tickers": [
+        "ARM",
+        "NVDA"
+      ],
+      "news_article": {
+        "outlet": "Reuters（X投稿）",
+        "url": "https://x.com/Reuters/status/2124976329804136796"
+      },
+      "note": "記事本文は未読。"
+    }
+  ],
+  "move_causes": [
+    {
+      "name": "S&P 500",
+      "ticker": "SPX",
+      "session": "US 2026-11-23",
+      "move_pct": 4.73,
+      "close": 7237.17,
+      "reason": "エヌビディアのフアン氏CEO復帰でAI関連に買い戻し。2025年4月以来の大幅高。前週末は調整局面入りしていた。エネルギーだけがマイナス。",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/22/stock-market-today-live-updates.html",
+      "also_seen_in": [
+        {
+          "outlet": "Reuters（Investing.com転載）",
+          "url": "https://www.investing.com/news/stock-market-news/wall-street-futures-rebound-after-rough-week-for-ailinked-shares-5044594",
+          "note": "速報値 +4.75%・7,238.84"
+        }
+      ]
+    },
+    {
+      "name": "ナスダック総合",
+      "ticker": "IXIC",
+      "session": "US 2026-11-23",
+      "move_pct": 6.51,
+      "close": 24089.56,
+      "reason": "2025年4月以来の大幅高。ナスダック100は1日で時価総額2兆ドル超増加（ロイター）。前週末はナスダック100が高値から約20%安の弱気相場目前だった。",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/22/stock-market-today-live-updates.html",
+      "also_seen_in": [
+        {
+          "outlet": "Reuters（Investing.com転載）",
+          "url": "https://www.investing.com/news/stock-market-news/wall-street-futures-rebound-after-rough-week-for-ailinked-shares-5044594",
+          "note": "速報値 +6.47%・24,080.94"
+        }
+      ]
+    },
+    {
+      "name": "ダウ平均",
+      "ticker": "DJI",
+      "session": "US 2026-11-23",
+      "move_pct": 3.01,
+      "close": 49595.31,
+      "change_points": 1447.98,
+      "reason": "ハイテク主導の全面高。",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/22/stock-market-today-live-updates.html"
+    },
+    {
+      "name": "NVIDIA",
+      "ticker": "NVDA",
+      "session": "US 2026-11-23",
+      "move_pct": 31,
+      "close": null,
+      "reason": "取締役会がフアン氏を社長・CEO・取締役に即日復帰（11/12辞任）。一時+36.6%（ロイター）。メリウス・バーンスタイン・ストーンXが買い推奨に格上げ（目標株価220・200・270ドル）。辞任前の1か月で約40%下落していた。",
+      "outlet": "CNBC／Reuters",
+      "url": "https://www.cnbc.com/2026/11/22/stock-market-today-live-updates.html",
+      "url2": "https://www.investing.com/news/stock-market-news/wall-street-futures-rebound-after-rough-week-for-ailinked-shares-5044594",
+      "note": "+31%はCNBC。終値はInvesting.comの価格表で165.05ドル（+31.48%）、主要媒体の本文では未確認。"
+    },
+    {
+      "name": "Micron",
+      "ticker": "MU",
+      "session": "US 2026-11-23",
+      "move_pct": 19,
+      "close": null,
+      "reason": "AI関連の連れ高。メモリーETF（DRAM）は上場来最高の上昇ペース、SKハイニックスも約20%高。",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/22/stock-market-today-live-updates.html",
+      "note": "Investing.com価格表では707.70ドル（+19.04%）。"
+    },
+    {
+      "name": "CoreWeave",
+      "ticker": "CRWV",
+      "session": "US 2026-11-23",
+      "move_pct": 22,
+      "close": null,
+      "reason": "エヌビディアがネオクラウド向けに約360億ドルの簿外の支援契約を持ち、フアン氏辞任で資金面の不安が出ていた。ネビウス+29%、IREN+27%（CNBC記事時点）。",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/23/stocks-moving-the-most-today-live-updates.html"
+    },
+    {
+      "name": "Oracle",
+      "ticker": "ORCL",
+      "session": "US 2026-11-23",
+      "move_pct": 12,
+      "close": null,
+      "reason": "AIクラウド関連として買い戻し（直近1か月で-10%）。",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/23/stocks-moving-the-most-today-live-updates.html",
+      "note": "Investing.com価格表では113.68ドル（+12.34%）。"
+    },
+    {
+      "name": "Dell",
+      "ticker": "DELL",
+      "session": "US 2026-11-23",
+      "move_pct": 22,
+      "close": null,
+      "reason": "AIサーバー関連として急伸。決算は今週（米11/24予定）。",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/23/stocks-moving-the-most-today-live-updates.html",
+      "note": "CNBC記事時点で約+22%。Investing.com価格表では334.91ドル（+20.46%）。"
+    },
+    {
+      "name": "Alphabet／Meta／Microsoft／AMD",
+      "ticker": "GOOGL/META/MSFT/AMD",
+      "session": "US 2026-11-23",
+      "move_pct": null,
+      "close": null,
+      "reason": "アルファベットとメタが各6%高、マイクロソフト1%超高、AMDは約7%高。",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/22/stock-market-today-live-updates.html"
+    },
+    {
+      "name": "Anthropic",
+      "ticker": "ANT",
+      "session": "US 2026-11-23",
+      "move_pct": -3,
+      "close": null,
+      "reason": "AI株が全面高の中で数少ない下落銘柄。IPO（11/19）後の強気な売上成長見通しを実行できるか、という慎重論（ウェルス・アライアンスのディトン氏）。",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/22/stock-market-today-live-updates.html",
+      "note": "-3%は午後の取引時点。exa.aiの価格表では87.64ドル（-1.43%）で、終値の騰落率は媒体で未確認。"
+    },
+    {
+      "name": "Boeing",
+      "ticker": "BA",
+      "session": "US 2026-11-23",
+      "move_pct": 4,
+      "close": null,
+      "reason": "トランプ氏がCNBCで、中国がさらに250機を購入すると予想。5月の米中首脳会談では200機で合意済み。",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/23/stocks-moving-the-most-today-live-updates.html"
+    },
+    {
+      "name": "金・銀・銅／金鉱株",
+      "ticker": "GC/NEM",
+      "session": "US 2026-11-23",
+      "move_pct": 4,
+      "close": null,
+      "reason": "金先物約+4%、銀約+5%、銅約+3%。ニューモントなど金鉱株が7%超高、フリーポートは約8%高。",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/23/stocks-moving-the-most-today-live-updates.html",
+      "note": "move_pctは金先物。"
+    },
+    {
+      "name": "Hewlett Packard Enterprise（引け後決算）",
+      "ticker": "HPE",
+      "session": "US 2026-11-23 引け後",
+      "move_pct": -2.4,
+      "close": null,
+      "reason": "8-10月期の調整後EPS1.43ドル・売上高145億ドルで、2027年度見通し（EPS5.05〜5.35ドル、売上594億〜631億ドル）も市場予想超え。それでも時間外で2.4%安。通常取引ではサーバー値上げへの期待で約17%高だった。",
+      "outlet": "会社発表（Business Wire）／Seeking Alpha",
+      "url": "https://www.businesswire.com/news/home/20261123129850/en/HPE-reports-fiscal-2026-fourth-quarter-results",
+      "url2": "https://seekingalpha.com/news/4675761-hpe-falls-even-as-q4-results-guidance-top-estimates-by-wide-margin",
+      "note": "指定5媒体では未確認。通常取引の+17%はInvezz（指定外）。"
+    },
+    {
+      "name": "Agilent（引け後決算）",
+      "ticker": "A",
+      "session": "US 2026-11-23 引け後",
+      "move_pct": 7,
+      "close": null,
+      "reason": "今期見通し（調整後EPS1.54〜1.57ドル）がFactSet予想1.50ドルを上回り、時間外で7%高。",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/23/stocks-moving-the-most-today-live-updates.html",
+      "note": "CNBC記事の売上見通し（80億〜81.5億ドル）と予想（19.2億ドル）は桁が合わず、誤記の可能性があるため台本では使わないこと。"
+    },
+    {
+      "name": "ドル円・ドル指数",
+      "ticker": "USDJPY/DXY",
+      "session": "US 2026-11-23",
+      "move_pct": 0.37,
+      "close": 159.14,
+      "reason": "FRBのタカ派化観測とAI株の反発でドル高。ドル指数+0.62%の104.45、ユーロは19か月超ぶりのドル高水準。FF金利先物は12月FOMCでの0.25%利上げを完全に織り込み（金曜は89%）。",
+      "outlet": "CNBC（ロイター配信記事）",
+      "url": "https://www.cnbc.com/2026/11/23/dollar-edges-off-19-month-high-after-market-rout-yen-softens.html",
+      "note": "159.14円は記事時点の値で、NY終値かは未確認。"
+    },
+    {
+      "name": "S&Pグローバル 米PMI速報（11月）",
+      "ticker": "PMI",
+      "session": "US 2026-11-23",
+      "move_pct": null,
+      "close": 54.6,
+      "reason": "総合54.6（10月55.9）、サービス業54.7（56.1）、製造業54.5（54.9）。いずれも数か月ぶりの低さだが拡大は続く。高価格が受注を抑え、価格上昇率もやや鈍化。",
+      "outlet": "S&P Global（発表元）",
+      "url": "https://www.pmi.spglobal.com/Public/Home/PressRelease/18abd879261e464fbcc1bc22d4ea64eb",
+      "also_seen_in": [
+        {
+          "outlet": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/22/stock-market-today-live-updates.html"
+        }
+      ]
+    }
+  ],
+  "followups": [
+    {
+      "source_script": "memory/scripts/2026-11-23.md（『明日の速報では、フラッシュPMIの結果をお伝えします』）",
+      "promise": "11月フラッシュPMIの結果（台本の予想：製造業54.5・サービス業55.6、前回56・57.9）",
+      "status": "発表済み",
+      "as_of_jst": "2026-11-24T06:34:59+09:00",
+      "outcome": "製造業54.5（予想どおり）、サービス業54.7（予想55.6を下回る）、総合54.6。ただし発表元の前回値は製造業54.9・サービス業56.1で、台本の前回値（56・57.9）と違う。台本の予想値の出典は未確認。",
+      "sources": [
+        "https://www.pmi.spglobal.com/Public/Home/PressRelease/18abd879261e464fbcc1bc22d4ea64eb",
+        "https://www.cnbc.com/2026/11/22/stock-market-today-live-updates.html"
+      ]
+    },
+    {
+      "source_script": "memory/scripts/2026-11-23.md",
+      "promise": "コアPCE・GDPの発表時刻を『日本時間木曜22時30分』と予告",
+      "status": "要確認",
+      "as_of_jst": "2026-11-24T06:34:59+09:00",
+      "outcome": "CNBCの週間予定（2026-11-23.jsonのweek_ahead）では、PCE・GDP改定値などは米11/25（水）8:30＝日本時間11/25（水）22:30。木曜は感謝祭で休場のため、台本の『木曜』は誤りの可能性が高い。また台本は『GDP速報値』だが、CNBCの予定では7-9月期の『改定値』。",
+      "sources": [
+        "https://www.cnbc.com/2026/11/20/stock-market-next-week-outlook-for-nov-23-27-2026.html"
+      ]
+    },
+    {
+      "source_script": "memory/scripts/2026-11-23.md",
+      "promise": "AI株の売りが『材料出尽くし』か、さらなる下落の入り口か／ディフェンシブ株への資金移動が続くか",
+      "status": "初日は反転",
+      "as_of_jst": "2026-11-24T06:34:59+09:00",
+      "outcome": "フアン氏復帰で月曜はAI・半導体が急反発し、エネルギーだけが下落。BTIGは7,250〜7,350への短期反発のあと再び下がると予想、モルガン・スタンレーやウェルズ・ファーゴは強気に転換と、見方は分かれている。",
+      "sources": [
+        "https://www.cnbc.com/2026/11/22/stock-market-today-live-updates.html",
+        "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo-market-rally.html"
+      ]
+    }
+  ],
+  "limitations": [
+    "@realDonaldTrumpのX投稿は収集範囲で見つからなかった（トランプ氏の発言はCNBCの電話インタビュー）。Truth Socialは確認していない。",
+    "個別株の終値（ドル）は主要5媒体の本文で確認できていない。NVDA・MU・ORCL・DELLの終値はInvesting.comの価格表の値で、CNBCの騰落率には取引時間中のものもある。",
+    "テスラは約13%高（FSD v15の配信開始とハイテク株の反発）という報道がMarketWatch・IBDなど指定外の媒体にあるが、主要5媒体では確認できていないためmove_causesには入れていない。",
+    "VIXと米10年債利回りの終値は主要5媒体で確認できていない（指定外の媒体では10年債は約4.94%）。",
+    "HPEの決算は会社発表とSeeking Alphaで確認したもので、主要5媒体での確認はしていない。",
+    "日中・ブルームバーグ・ロイターのX投稿は見出しだけで、記事本文は読んでいない。WSJの記事は見ていない。",
+    "米株先物（日本時間24日朝）は確認していない。"
+  ]
+}
