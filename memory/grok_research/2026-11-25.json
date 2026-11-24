@@ -1,0 +1,319 @@
+{
+  "generated": "2026-11-25T06:32:50+09:00",
+  "test_run": false,
+  "session_covered": {
+    "us": "2026-11-24（火・米東部時間）の終値。引け後決算（デル、ワークデイ、オートデスクなど）",
+    "japan": "2026-11-25（水）配信回",
+    "x_window_utc": "2026-11-23T21:30:00Z〜2026-11-24T21:25:00Z",
+    "notes": "前日のフアン氏CEO復帰ラリーが反落。ナスダック-1.48%、S&P500-0.50%（9日で8回目の下落）、ダウは+0.85%で5万ドル台。半導体・ネオクラウドが大幅安、アンソロピックが公開価格83ドルを割り込む。新関税（日本を含む16カ国・地域）の報道も重荷。今夜（日本時間22:30）PCE・GDP改定値。感謝祭で木曜休場。"
+  },
+  "x_statements": [
+    {
+      "account": "@Reuters",
+      "post_url": "https://x.com/Reuters/status/2125326206539091997",
+      "time_jst": "2026-11-25T05:30:28+09:00",
+      "gist": "トランプ政権が16の主要貿易相手の『過剰生産能力』調査（301条）の結果を近く公表し、幅広い品目に新たな関税を課す見通し（関係者3人）。対象には日本、中国、EU、韓国、台湾などが含まれると報道。",
+      "tickers": [
+        "SPY",
+        "EWJ"
+      ],
+      "news_article": {
+        "outlet": "Reuters（Investing.com転載）",
+        "url": "https://www.investing.com/news/commodities-news/trump-administration-set-to-unveil-new-tariffs-after-probeon-excess-factory-capacity-sources-say-5048724",
+        "note": "対象国リストは検索要約経由で、記事本文での全件確認はしていない。WSJも同趣旨を報道（CNBCライブ記事）。"
+      }
+    },
+    {
+      "account": "@Reuters",
+      "post_url": "https://x.com/Reuters/status/2125300957336453337",
+      "time_jst": "2026-11-25T03:50:09+09:00",
+      "gist": "アンソロピック株が公開価格83ドルを割り込み、時価総額で2000億ドル近くを失う勢い。記録的なナスダック上場からわずか数日での反転。",
+      "tickers": [
+        "ANT"
+      ],
+      "news_article": {
+        "outlet": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/24/anthropic-stock-ipo-price.html",
+        "note": "CNBC：終値で6.5%安、公開価格割れ。初値は111.50ドル。"
+      }
+    },
+    {
+      "account": "@Reuters",
+      "post_url": "https://x.com/Reuters/status/2125328642741805408",
+      "time_jst": "2026-11-25T05:40:09+09:00",
+      "gist": "エヌビディアのフアンCEOが（社内会議で）行動規範に違反したと認めた（関係者）。",
+      "tickers": [
+        "NVDA"
+      ],
+      "news_article": {
+        "outlet": "Reuters",
+        "url": "https://x.com/Reuters/status/2125328642741805408",
+        "note": "記事本文は未取得。MarketWatch（ダウ・ジョーンズ）は全社会議で心理療法を受けていると話したと報道。"
+      }
+    },
+    {
+      "account": "@CNBC",
+      "post_url": "https://x.com/CNBC/status/2125311496032808969",
+      "time_jst": "2026-11-25T04:32:01+09:00",
+      "gist": "フアン氏が社員に『エヌビディアに後継者計画は必要ない』と発言。",
+      "tickers": [
+        "NVDA"
+      ],
+      "news_article": {
+        "outlet": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/24/nvidia-stock-jensen-huang-return.html"
+      }
+    },
+    {
+      "account": "@Reuters / @business",
+      "post_url": "https://x.com/Reuters/status/2125322311171485911",
+      "time_jst": "2026-11-25T05:15:00+09:00",
+      "gist": "ブランシュ米司法長官がエヌビディアを『良き企業市民』と表現し、刑事捜査の対象ならそういう発言はしないと示唆。",
+      "tickers": [
+        "NVDA"
+      ],
+      "news_article": {
+        "outlet": "Bloomberg（@business 2125318618871148925）",
+        "url": "https://x.com/business/status/2125318618871148925",
+        "note": "記事本文は未取得。"
+      }
+    },
+    {
+      "account": "@CNBC",
+      "post_url": "https://x.com/CNBC/status/2125306679961006467",
+      "time_jst": "2026-11-25T04:12:53+09:00",
+      "gist": "トランプ氏はフアン氏の復帰を望み手柄を主張したが、ワシントンで称賛しているのは同氏だけ（政治的な孤立）。日経も『トランプ氏とファン氏、モラルなき特権政治』と報道（@nikkei 2125321231465345192）。",
+      "tickers": [
+        "NVDA"
+      ],
+      "news_article": {
+        "outlet": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/24/nvidia-stock-jensen-huang-return.html",
+        "note": "トランプ氏『I made the deal』はCNBCの11/23インタビュー。"
+      }
+    },
+    {
+      "account": "@business",
+      "post_url": "https://x.com/business/status/2125288396352262552",
+      "time_jst": "2026-11-25T03:00:14+09:00",
+      "gist": "11月の米消費者信頼感がほぼ2年ぶりの高水準に急上昇（雇用・景気の見通し改善、中間選挙後）。",
+      "tickers": [
+        "XLY"
+      ],
+      "news_article": {
+        "outlet": "Reuters",
+        "url": "https://www.streetinsider.com/Market+Check/Nasdaq%2C+S%26P+500+fall+as+Nvidia-driven+AI+rally+unwinds/27390048.html",
+        "note": "指数の数値は未確認。"
+      }
+    },
+    {
+      "account": "@nikkei",
+      "post_url": "https://x.com/nikkei/status/2125325774508974200",
+      "time_jst": "2026-11-25T05:28:45+09:00",
+      "gist": "米アバクロンビー&フィッチ、8〜10月期11%増収。ブランド刷新が奏功し株価は2年ぶり高値。",
+      "tickers": [
+        "ANF"
+      ],
+      "news_article": {
+        "outlet": "Reuters",
+        "url": "https://www.streetinsider.com/Market+Check/Nasdaq%2C+S%26P+500+fall+as+Nvidia-driven+AI+rally+unwinds/27390048.html",
+        "note": "ロイター：利益見通しを引き上げ。"
+      }
+    },
+    {
+      "account": "@SecScottBessent",
+      "post_url": "https://x.com/SecScottBessent/status/2125301861242855737",
+      "time_jst": "2026-11-25T03:53:44+09:00",
+      "gist": "ベッセント財務長官、『トランプ口座』への家族・友人からの拠出が10億ドルを突破したと投稿。",
+      "tickers": [],
+      "news_article": null,
+      "note": "報道での裏付けは未確認。市場材料としては弱い。"
+    }
+  ],
+  "move_causes": [
+    {
+      "name": "S&P 500",
+      "ticker": "SPX",
+      "session": "US 2026-11-24",
+      "move_pct": -0.5,
+      "close": 7201.09,
+      "reason": "前日のエヌビディア主導の急反発の反動で、ハイテク・半導体が下落。新関税の報道とPCE発表前の様子見も重荷。9日で8回目の下落（AP）。",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/23/stock-market-today-live-updates.html",
+      "also_seen_in": [
+        {
+          "outlet": "Reuters（StreetInsider転載）",
+          "url": "https://www.streetinsider.com/Market+Check/Nasdaq%2C+S%26P+500+fall+as+Nvidia-driven+AI+rally+unwinds/27390048.html",
+          "note": "速報値 -0.48%・7,202.45"
+        }
+      ]
+    },
+    {
+      "name": "ナスダック総合",
+      "ticker": "IXIC",
+      "session": "US 2026-11-24",
+      "move_pct": -1.48,
+      "close": 23733.54,
+      "reason": "前日+6.5%の後、半導体・AI関連が売られた。アンソロピックの公開価格割れも重荷。",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/23/stock-market-today-live-updates.html"
+    },
+    {
+      "name": "ダウ平均",
+      "ticker": "DJI",
+      "session": "US 2026-11-24",
+      "move_pct": 0.85,
+      "close": 50018.7,
+      "reason": "アムジェン、ナイキ、セールスフォースなどが支え、5万ドル台を維持。旧来型の業種へのローテーション（ロイター）。",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/23/stock-market-today-live-updates.html"
+    },
+    {
+      "name": "エヌビディア",
+      "ticker": "NVDA",
+      "session": "US 2026-11-24",
+      "move_pct": -5.86,
+      "close": 155.38,
+      "reason": "前日+31%（23年ぶりの上昇率）の反動。復帰をめぐる政治・ガバナンスのリスクを意識。",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/24/nvidia-stock-jensen-huang-return.html",
+      "also_seen_in": [
+        {
+          "outlet": "MarketWatch（ダウ・ジョーンズ）",
+          "url": "https://www.marketwatch.com/story/u-s-stocks-mixed-as-huang-relief-rally-fades-57a108e0",
+          "note": "終値155.38ドル（-5.9%）"
+        }
+      ]
+    },
+    {
+      "name": "アンソロピック",
+      "ticker": "ANT",
+      "session": "US 2026-11-24",
+      "move_pct": -6.5,
+      "close": null,
+      "reason": "公開価格83ドルを割り込んだ。11/19の初値111.50ドルから下げ続けている。アナリストは強気を維持（カナコード、ウェドブッシュ）。",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/24/anthropic-stock-ipo-price.html",
+      "note": "終値は未確認（83ドル未満）。"
+    },
+    {
+      "name": "マイクロン",
+      "ticker": "MU",
+      "session": "US 2026-11-24",
+      "move_pct": -10.97,
+      "close": null,
+      "reason": "前日急騰した半導体株が反落。",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/24/nvidia-stock-jensen-huang-return.html"
+    },
+    {
+      "name": "AMD",
+      "ticker": "AMD",
+      "session": "US 2026-11-24",
+      "move_pct": -8.86,
+      "close": null,
+      "reason": "同上。マーベル-9.10%、アーム-8.55%、ブロードコム約-4%。",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/24/nvidia-stock-jensen-huang-return.html"
+    },
+    {
+      "name": "コアウィーブ",
+      "ticker": "CRWV",
+      "session": "US 2026-11-24",
+      "move_pct": -11.84,
+      "close": 42.61,
+      "reason": "ネオクラウドが前日の上げを返上（アイレン-11.54%、ネビウス-10.74%）。空売りも増加（S3パートナーズ）。",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/24/nvidia-stock-jensen-huang-return.html",
+      "note": "終値42.61ドルはMarketWatch。"
+    },
+    {
+      "name": "デル・テクノロジーズ",
+      "ticker": "DELL",
+      "session": "US 2026-11-24（引け後決算）",
+      "move_pct": -12,
+      "close": 294,
+      "reason": "通常取引は約12%安。引け後の8〜10月期決算は売上高549.4億ドル（予想492.7億ドル）、調整後EPS9.45ドル（予想6.59ドル）、AIサーバー売上220億ドル。通期売上見通しを1920億→2020億ドルに引き上げ。時間外で3〜6%高。",
+      "outlet": "Reuters（Investing.com転載）",
+      "url": "https://www.investing.com/news/stock-market-news/dell-lifts-annual-forecasts-after-record-quarter-on-surging-ai-server-demand-5049024",
+      "note": "終値約294ドル・予想値はYahoo Finance（https://finance.yahoo.com/technology/ai/article/dell-handily-tops-estimates-lifts-sales-and-profit-guidance-212145887.html）。ロイター本文は未取得（検索要約）。"
+    },
+    {
+      "name": "アナログ・デバイセズ",
+      "ticker": "ADI",
+      "session": "US 2026-11-24",
+      "move_pct": -18,
+      "close": null,
+      "reason": "8〜10月期は調整後EPS4.06ドル（予想3.90）、売上43.7億ドル（予想43.3億）と予想を上回ったが急落。",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/24/stocks-moving-the-most-today-live-updates.html",
+      "note": "-18%は日中の数字。終値は未確認。"
+    },
+    {
+      "name": "アバクロンビー&フィッチ",
+      "ticker": "ANF",
+      "session": "US 2026-11-24",
+      "move_pct": 21,
+      "close": null,
+      "reason": "決算が予想を上回り、利益見通しを引き上げ。小売り株（ディックス、コールズ）も好決算で上昇。",
+      "outlet": "Reuters / CNBC",
+      "url": "https://www.streetinsider.com/Market+Check/Nasdaq%2C+S%26P+500+fall+as+Nvidia-driven+AI+rally+unwinds/27390048.html",
+      "note": "+21%前後はCNBC関連の検索要約で、終値ベースは未確認。"
+    },
+    {
+      "name": "米10年債利回り",
+      "ticker": "US10Y",
+      "session": "US 2026-11-24",
+      "move_pct": null,
+      "close": 4.9,
+      "reason": "約1.8bp低下。NY連銀ウィリアムズ総裁は利上げ方向を示唆。12月利上げ確率98%、1月追加66%（CME FedWatch）。50bp利上げの織り込みは消えた。2年債4.6415%。",
+      "outlet": "Reuters（Euronext転載）",
+      "url": "https://live.euronext.com/en/financial-news/us-stocks-slide-nvidia-rally-fizzles-out-dollar-falls",
+      "note": "単位は%。記事時点（NY昼）の値で引け値ではない。"
+    },
+    {
+      "name": "ドル指数／金・原油",
+      "ticker": "DXY/GC/BZ",
+      "session": "US 2026-11-24",
+      "move_pct": -0.44,
+      "close": null,
+      "reason": "ドル指数は20カ月ぶり高値から0.44%反落。金-1.2%、銀-3.7%、ブレント+0.5%の89.82ドル（3カ月ぶり安値圏）。銅は約5%安で鉱山株（フリーポート約-6%）も安い。",
+      "outlet": "Reuters（Euronext転載）",
+      "url": "https://live.euronext.com/en/financial-news/us-stocks-slide-nvidia-rally-fizzles-out-dollar-falls",
+      "note": "ドル円の水準はこの出典では未確認。銅・鉱山株はCNBC（stocks-moving-the-most）。"
+    }
+  ],
+  "followups": [
+    {
+      "source_script": "memory/scripts/2026-11-24.md（『日本時間11月25日の22時30分に、米国の10月のコアPCE物価指数と、第3四半期のGDP改定値が発表されます』）",
+      "promise": "10月コアPCE（予想前月比+0.3%）、7〜9月期GDP改定値（予想年率3.5%）",
+      "status": "未発表",
+      "as_of_jst": "2026-11-25T06:32:50+09:00",
+      "outcome": "発表は今夜（日本時間11/25 22:30）。結果は11/26（木）配信で。ロイターは12月FOMC前の最後の重要指標と位置づけ。",
+      "sources": [
+        "https://live.euronext.com/en/financial-news/us-stocks-slide-nvidia-rally-fizzles-out-dollar-falls",
+        "https://github.com/trosystems1/aria-audio/blob/main/memory/scripts/2026-11-24.md"
+      ]
+    },
+    {
+      "source_script": "memory/scripts/2026-11-24.md（エヌビディア、フアン氏復帰）",
+      "promise": "フアン氏復帰後のエヌビディア株の行方",
+      "status": "続報あり",
+      "as_of_jst": "2026-11-25T06:32:50+09:00",
+      "outcome": "翌日は-5.86%の155.38ドルと反落。全社会議で行動規範違反を認めたとの報道（ロイター）、司法長官は『良き企業市民』と発言。",
+      "sources": [
+        "https://www.cnbc.com/2026/11/24/nvidia-stock-jensen-huang-return.html",
+        "https://x.com/Reuters/status/2125328642741805408"
+      ]
+    },
+    {
+      "source_script": "memory/scripts/2026-11-24.md（クラウドストライクのゼットスケーラー買収）",
+      "promise": "（予告ではなく前日ニュース）",
+      "status": "続報未確認",
+      "as_of_jst": "2026-11-25T06:32:50+09:00",
+      "outcome": "今回の収集範囲では大きな続報は見つからなかった（確認は限定的）。",
+      "sources": []
+    }
+  ],
+  "limitations": "指数終値はCNBC（ロイター速報値と小差）。アンソロピック、マイクロン、AMD、ADI、ANFの終値は未確認。ADIの-18%は日中値、ANFの+21%は検索要約で終値ベース未確認。デルの数字はロイター記事本文を開けず検索要約とYahoo Financeで確認。10年債・ドル・商品はロイターの記事時点の値。ドル円の水準は確認できていない。新関税の対象国リストは記事全文で確認していない。@elonmusk・@realDonaldTrumpの市場関連X投稿は収集範囲で見つからなかった（@WhiteHouseは感謝祭の七面鳥恩赦など市場材料なし）。HPE（前日引け後決算）の翌日の値動きは確かな出典で確認できず未掲載。ワークデイ・オートデスクの時間外の値動きは主要5媒体で未確認のため未掲載。"
+}
