@@ -1,0 +1,372 @@
+{
+  "generated": "2026-11-26T06:33:39+09:00",
+  "test_run": false,
+  "session_covered": {
+    "us": "2026-11-25（水・米東部時間）の終値。感謝祭前日。11/26（木）は休場、11/27（金）は午後1時（ET）の短縮取引",
+    "japan": "2026-11-26（木）配信回",
+    "x_window_utc": "2026-11-25T06:00:00Z〜2026-11-25T21:30:00Z",
+    "notes": "AI株売りと新関税案で寄り付きから急落（安値でナスダック-4.6%、S&P500-3.2%、ダウ-1,100ドル超）したが、引けにかけて大きく戻した。終値はダウ+0.33%の50,182.95、S&P500-0.25%、ナスダック-0.62%。10月PCEは前年比3.8%（予想通り）、コア3.3%（予想3.2%を上回る）。7〜9月期GDP改定値は年率4.3%（速報3.4%、予想3.5%）。USTRが日本を含む14カ国・地域に301条の追加関税案（日本は最大15%）。S&Pがエヌビディアを『クレジットウォッチ・ネガティブ』に。"
+  },
+  "x_statements": [
+    {
+      "account": "@USTradeRep",
+      "post_url": "https://x.com/USTradeRep/status/2125593464138072571",
+      "time_jst": "2026-11-25T23:12:28+09:00",
+      "gist": "米通商代表部（USTR）が、過剰生産能力をめぐる301条調査の結果を公表し、追加関税案を示したと投稿。対象は中国、EU、日本、韓国、台湾、インドなど14カ国・地域。日本は全品目に最大15%（既存関税と相殺、上乗せではない）、中国は最大20%。1月5日までパブリックコメント、1月25日に公聴会で、まだ発効していない。",
+      "tickers": [
+        "SPY",
+        "EWJ",
+        "FXI"
+      ],
+      "news_article": {
+        "outlet": "USTR公式発表 / Reuters / 日経 / CNBC",
+        "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/november/ustr-makes-determinations-and-proposes-actions-14-section-301-investigations-relating-structural",
+        "also": [
+          "https://www.reuters.com/world/china/us-proposes-new-tariffs-14-trading-partners-fight-excess-factory-capacity-2026-11-25/",
+          "https://www.nikkei.com/article/DGXZQOGN250640V21C26A1000000/",
+          "https://www.cnbc.com/2026/11/25/us-tariffs-trump-section-301.html"
+        ],
+        "note": "日経の見出しは『日本15%上限、対米投資履行しなければ20%』（本文は会員限定で冒頭のみ確認）。CNBCではグリアUSTR代表が『上乗せではなく、事実上の上積み（トップアップ）』と説明。ロイターは最大税率20〜40%案、ただし合意済み・交渉中の水準で上限を設ける方針と報道。"
+      }
+    },
+    {
+      "account": "@WhiteHouse",
+      "post_url": "https://x.com/WhiteHouse/status/2125597813405012435",
+      "time_jst": "2026-11-25T23:29:45+09:00",
+      "gist": "ホワイトハウス公式が『7〜9月期の米経済は予想を上回る成長』と投稿。",
+      "tickers": [
+        "SPY"
+      ],
+      "news_article": {
+        "outlet": "Reuters（StreetInsider転載）",
+        "url": "https://www.streetinsider.com/Reuters/US+third-quarter+economic+growth+revised+sharply+higher%3B+inflation+broadening+out/27399230.html",
+        "note": "GDP改定値は年率4.3%（速報3.4%、ロイター予想3.5%）。2023年7〜9月期以来の高い伸び。"
+      }
+    },
+    {
+      "account": "@CNBC",
+      "post_url": "https://x.com/CNBC/status/2125583760007512236",
+      "time_jst": "2026-11-25T22:33:54+09:00",
+      "gist": "FRBが重視するPCE物価指数が10月に前年比3.8%へ加速。12月の利上げがほぼ確実に。",
+      "tickers": [
+        "SPY",
+        "TLT"
+      ],
+      "news_article": {
+        "outlet": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/25/pce-inflation-report-october-2026.html",
+        "note": "コアは3.3%（予想3.2%）。12月8〜9日のFOMCで0.25%利上げを完全に織り込み。"
+      }
+    },
+    {
+      "account": "@Reuters",
+      "post_url": "https://x.com/Reuters/status/2125613095833710815",
+      "time_jst": "2026-11-26T00:30:28+09:00",
+      "gist": "AI株の売りと関税案で、ナスダックが4%下落（取引時間中）。",
+      "tickers": [
+        "QQQ",
+        "NVDA"
+      ],
+      "news_article": {
+        "outlet": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
+        "note": "安値はナスダック-4.6%。その後大きく戻し、終値は-0.62%。台本では『一時』と明記すること。"
+      }
+    },
+    {
+      "account": "@CNBC",
+      "post_url": "https://x.com/CNBC/status/2125697805846987005",
+      "time_jst": "2026-11-26T06:07:05+09:00",
+      "gist": "ダウは一時1,100ドル安から切り返し、プラスで終えた。",
+      "tickers": [
+        "DIA"
+      ],
+      "news_article": {
+        "outlet": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
+        "note": "ダウ+164.25ドル（+0.33%）の50,182.95。戻りの一因は感謝祭前の薄商いと、マイケル・バーリ氏の『一時的にほぼ全面買い持ち』というブログ投稿。"
+      }
+    },
+    {
+      "account": "@Reuters",
+      "post_url": "https://x.com/Reuters/status/2125693561861484847",
+      "time_jst": "2026-11-26T05:50:13+09:00",
+      "gist": "S&Pグローバルがエヌビディアの格付けを経営・ガバナンスリスクの高まりを理由に『クレジットウォッチ・ネガティブ』に指定。",
+      "tickers": [
+        "NVDA"
+      ],
+      "news_article": {
+        "outlet": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
+        "note": "現在の発行体格付けはAA。取締役会の独立性やキーマンリスク、輸出規制違反の疑いをめぐる問題を指摘。11月の株価は27%安（CNBC）。日経も『S&P、NVIDIAを格下げ方向』と報道（x.com/nikkei/status/2125699723788960241）。"
+      }
+    },
+    {
+      "account": "@business",
+      "post_url": "https://x.com/business/status/2125695102844613012",
+      "time_jst": "2026-11-26T05:56:20+09:00",
+      "gist": "バンス副大統領が、フアン氏のエヌビディアCEO復帰を政権が後押ししたことを擁護。フアン氏は連邦捜査の対象ではないと述べた。",
+      "tickers": [
+        "NVDA"
+      ],
+      "news_article": null,
+      "note": "ブルームバーグ記事本文は未取得（投稿文のみ確認）。"
+    },
+    {
+      "account": "@CNBC",
+      "post_url": "https://x.com/CNBC/status/2125646465292697611",
+      "time_jst": "2026-11-26T02:43:04+09:00",
+      "gist": "米国が中国のAI半導体へのアクセスを制限するなか、エヌビディア製品の売り手が新たな買い手を探している（関係者）。",
+      "tickers": [
+        "NVDA"
+      ],
+      "news_article": {
+        "outlet": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/25/nvidia-china-ai-chip-remote-access.html",
+        "note": "記事本文は未取得。"
+      }
+    },
+    {
+      "account": "@Reuters",
+      "post_url": "https://x.com/Reuters/status/2125648264863056214",
+      "time_jst": "2026-11-26T02:50:13+09:00",
+      "gist": "AI株の売りが深まり、アンソロピックが一時74ドルまで下落。",
+      "tickers": [
+        "ANT"
+      ],
+      "news_article": {
+        "outlet": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/25/nvidia-ai-stock-tech-selloff.html",
+        "note": "CNBCは、アンソロピックはその後プラスに転じ4%超上昇（記事時点）と報道。終値は未確認。"
+      }
+    },
+    {
+      "account": "@business",
+      "post_url": "https://x.com/business/status/2125605539237224718",
+      "time_jst": "2026-11-26T00:00:27+09:00",
+      "gist": "ナスダック100指数が1年余りぶりの弱気相場入り（高値から20%下落）に向かっているとブルームバーグ（取引時間中）。",
+      "tickers": [
+        "QQQ"
+      ],
+      "news_article": null,
+      "note": "取引時間中の報道。引けで大きく戻したため、弱気相場入りが確定したかは未確認。台本では使わないほうが安全。"
+    },
+    {
+      "account": "@elonmusk",
+      "post_url": "https://x.com/elonmusk/status/2125667762324541673",
+      "time_jst": "2026-11-26T04:07:42+09:00",
+      "gist": "マスク氏が『SpaceXのColossus 3はアリゾナ州の地域に大きな恩恵をもたらす』と投稿。",
+      "tickers": [
+        "SPCX",
+        "TSLA"
+      ],
+      "news_article": null,
+      "note": "報道での裏付けは未確認。関連してCNBCは、SpaceXがFCCからAI計算衛星100万基の打ち上げ承認を受け、株価が1%超上昇と報道（https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html）。"
+    }
+  ],
+  "move_causes": [
+    {
+      "name": "ダウ平均",
+      "ticker": "DJI",
+      "session": "US 2026-11-25",
+      "move_pct": 0.33,
+      "close": 50182.95,
+      "reason": "一時1,100ドル超（-2.2%）下げたが切り返して上昇。IBM、セールスフォース、シャーウィン・ウィリアムズが支えた。素材・エネルギー・不動産が上昇。",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html"
+    },
+    {
+      "name": "S&P 500",
+      "ticker": "SPX",
+      "session": "US 2026-11-25",
+      "move_pct": -0.25,
+      "close": 7182.78,
+      "reason": "AI株の売りに加え、新関税案と予想を上回るコアPCEで寄り付きから急落（安値-3.2%）。引けにかけて大きく戻した。",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
+      "also_seen_in": [
+        {
+          "outlet": "AP",
+          "url": "https://apnews.com/article/wall-street-stocks-dow-nasdaq-94fdb0ecb060ec65c0b02879ce0d2d09",
+          "note": "検索要約で-0.3%を確認"
+        }
+      ]
+    },
+    {
+      "name": "ナスダック総合",
+      "ticker": "IXIC",
+      "session": "US 2026-11-25",
+      "move_pct": -0.62,
+      "close": 23585.8,
+      "reason": "半導体・AI株が主導して一時-4.6%。引けでは-0.62%まで縮小。ロイターはナスダックとS&P500が2008年以来最悪の11月になる勢いと報道。",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
+      "also_seen_in": [
+        {
+          "outlet": "Reuters（StreetInsider転載）",
+          "url": "https://www.streetinsider.com/Reuters/US+third-quarter+economic+growth+revised+sharply+higher%3B+inflation+broadening+out/27399230.html"
+        }
+      ]
+    },
+    {
+      "name": "エヌビディア",
+      "ticker": "NVDA",
+      "session": "US 2026-11-25",
+      "move_pct": -4,
+      "close": null,
+      "reason": "フアン氏復帰で上がった分が続けて剥落。S&Pグローバルがクレジットウォッチ・ネガティブに指定。11月の下落率は27%。",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
+      "note": "CNBCの表現は『ほぼ4%安』。終値は信頼できる出典で確認できず未掲載。"
+    },
+    {
+      "name": "オラクル",
+      "ticker": "ORCL",
+      "session": "US 2026-11-25",
+      "move_pct": -5,
+      "close": null,
+      "reason": "AIインフラ関連として売られた。アルファベット2%超安、マイクロン4.5%安。",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
+      "note": "CNBCの表現は『5%超安』。"
+    },
+    {
+      "name": "アンバレラ",
+      "ticker": "AMBA",
+      "session": "US 2026-11-25",
+      "move_pct": -19,
+      "close": null,
+      "reason": "11〜1月期の売上高見通し7,000万〜7,500万ドルが市場予想1億1,200万ドルを大きく下回った。8〜10月期も売上・利益が予想に届かず。",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
+      "note": "終値ベースは『19%超安』（CNBC）。日中は34%安（https://www.cnbc.com/2026/11/25/stocks-moving-the-most-today-live-updates.html）。"
+    },
+    {
+      "name": "HP",
+      "ticker": "HPQ",
+      "session": "US 2026-11-25（前日引け後決算）",
+      "move_pct": 11,
+      "close": null,
+      "reason": "8〜10月期の調整後EPS0.83ドル（予想0.75ドル）、売上高160億ドル（予想154.2億ドル）。配当を0.30→0.31ドルに増配。",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/25/stocks-moving-the-most-today-live-updates.html",
+      "note": "+11%前後は昼時点の数字。終値ベースは未確認。"
+    },
+    {
+      "name": "デル・テクノロジーズ",
+      "ticker": "DELL",
+      "session": "US 2026-11-25（前日引け後決算の翌日）",
+      "move_pct": -1,
+      "close": null,
+      "reason": "調整後EPS9.45ドル（予想6.59ドル）、売上高549.4億ドル（予想493.2億ドル）、AI受注残1,323億ドルと好決算だったが、AI株全体の売りで一時10.3%安。午後は-1.0%まで戻した。",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
+      "note": "-1.0%は引け前の表の値。終値は未確認。決算の数字は https://www.cnbc.com/2026/11/25/stocks-moving-the-most-today-live-updates.html。"
+    },
+    {
+      "name": "ワークデイ",
+      "ticker": "WDAY",
+      "session": "US 2026-11-25（前日引け後決算の翌日）",
+      "move_pct": -7,
+      "close": null,
+      "reason": "EPS・売上は予想を上回ったが、フリーキャッシュフロー6.91億ドルが予想7.12億ドルに届かず、11〜1月期のサブスク売上見通しもやや弱かった。",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/25/stocks-moving-the-most-today-live-updates.html",
+      "note": "-7%は寄り付き前の数字。終値は未確認。"
+    },
+    {
+      "name": "米10年債利回り",
+      "ticker": "US10Y",
+      "session": "US 2026-11-25",
+      "move_pct": null,
+      "close": 4.824,
+      "reason": "7bp超低下。株安で安全資産の国債が買われた。2年債4.588%、30年債5.235%。",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
+      "note": "単位は%。日中の記事時点の値で、引け値ではない。"
+    },
+    {
+      "name": "ドル円",
+      "ticker": "USDJPY",
+      "session": "US 2026-11-25",
+      "move_pct": -0.06,
+      "close": 159.13,
+      "reason": "株安で円とスイスフランが買われたが、変動は小さい。ドル指数は-0.22%の103.62。",
+      "outlet": "Reuters（Investing.com転載）",
+      "url": "https://www.investing.com/news/economy-news/dollar-takes-breather-ahead-of-us-data-on-fed-path-aussie-jumps-on-cpi-5049486",
+      "note": "NY午後3時半時点の値。"
+    },
+    {
+      "name": "金先物",
+      "ticker": "GC",
+      "session": "US 2026-11-25",
+      "move_pct": -1.5,
+      "close": 3508.9,
+      "reason": "一時3,425.2ドルと2025年8月末以来の3,500ドル割れ。11月は約10%安で3カ月連続の下落ペース。",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
+      "note": "日中の値。"
+    }
+  ],
+  "followups": [
+    {
+      "source_script": "memory/scripts/2026-11-25.md（『今夜、日本時間22時30分にコアPCE物価指数（前月比）と速報GDPの発表があります』）",
+      "promise": "10月コアPCE（予想は前月比+0.3%）と7〜9月期GDP",
+      "status": "発表済み",
+      "as_of_jst": "2026-11-26T06:33:39+09:00",
+      "outcome": "コアPCEは前月比+0.3%（3カ月連続）で予想通り。前年比は3.3%で予想3.2%を上回り、2023年11月以来の大きな伸び。総合は前年比3.8%（予想通り）。GDPは速報ではなく『改定値』で、年率4.3%（速報3.4%、予想3.5%）。12月利上げは完全に織り込み済み。",
+      "sources": [
+        "https://www.cnbc.com/2026/11/25/pce-inflation-report-october-2026.html",
+        "https://www.streetinsider.com/Reuters/US+third-quarter+economic+growth+revised+sharply+higher%3B+inflation+broadening+out/27399230.html",
+        "https://www.nikkei.com/article/DGXZQOGN2473O0U6A121C2000000/"
+      ]
+    },
+    {
+      "source_script": "memory/scripts/2026-11-25.md（エヌビディアの急騰の反動）",
+      "promise": "エヌビディア株の行方",
+      "status": "続報あり",
+      "as_of_jst": "2026-11-26T06:33:39+09:00",
+      "outcome": "さらにほぼ4%安。S&Pグローバルがクレジットウォッチ・ネガティブに指定。バンス副大統領は復帰を後押しした政権の判断を擁護。",
+      "sources": [
+        "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
+        "https://x.com/Reuters/status/2125693561861484847",
+        "https://x.com/business/status/2125695102844613012"
+      ]
+    },
+    {
+      "source_script": "memory/grok_research/2026-11-25.json（デル決算、時間外で上昇）",
+      "promise": "デル決算後の反応",
+      "status": "結果判明",
+      "outcome": "時間外の上昇は続かなかった。通常取引では一時10.3%安、引け前は-1.0%。",
+      "as_of_jst": "2026-11-26T06:33:39+09:00",
+      "sources": [
+        "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
+        "https://www.cnbc.com/2026/11/25/stocks-moving-the-most-today-live-updates.html"
+      ]
+    },
+    {
+      "source_script": "memory/grok_research/2026-11-25.json（新関税、16カ国・地域の報道）",
+      "promise": "新関税の正式発表",
+      "status": "発表済み（案）",
+      "as_of_jst": "2026-11-26T06:33:39+09:00",
+      "outcome": "USTRが14カ国・地域（日本を含む）に追加関税案。日本は最大15%（既存関税と相殺）。メキシコとノルウェーは今回判断せず。1月5日までパブリックコメント、1月25日に公聴会。",
+      "sources": [
+        "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/november/ustr-makes-determinations-and-proposes-actions-14-section-301-investigations-relating-structural",
+        "https://www.nikkei.com/article/DGXZQOGN250640V21C26A1000000/",
+        "https://www.reuters.com/world/china/us-proposes-new-tariffs-14-trading-partners-fight-excess-factory-capacity-2026-11-25/"
+      ]
+    },
+    {
+      "source_script": "memory/grok_research/2026-11-25.json（アンソロピックの公開価格割れ）",
+      "promise": "アンソロピック株の行方",
+      "status": "続報あり",
+      "as_of_jst": "2026-11-26T06:33:39+09:00",
+      "outcome": "一時74ドルまで下げた（ロイター）後、CNBCは4%超高と報道。終値は信頼できる出典で未確認。",
+      "sources": [
+        "https://x.com/Reuters/status/2125648264863056214",
+        "https://www.cnbc.com/2026/11/25/nvidia-ai-stock-tech-selloff.html"
+      ]
+    }
+  ],
+  "limitations": "エヌビディア、アンソロピック、オラクル、アンバレラ、HP、デル、ワークデイの終値は確認できていない（騰落率はCNBCの『ほぼ』『超』などの表現か、日中の数字）。検索で出てきたexa.aiの株価ページとSiliconANGLEには明らかな食い違い（例：NVDA+18.94%、ナスダック+0.61%）があったため使っていない。10年債・金・ドル円は日中の記事時点の値で、引け値ではない。9月のPCE前年比はCNBCが3.7%、ロイターが3.6%と報じており一致しない（10月の3.8%は両方で一致）。ロイター本文（reuters.com）は401で開けず、転載（StreetInsider/Investing.com）と検索要約で確認。日経の関税記事・GDP記事は会員限定で冒頭のみ確認。ディアの値動きはCNBC内で『4%超安』（朝）と『+4.7%』（午後の表）が食い違うため未掲載。@realDonaldTrumpのX投稿は対象時間に見つからなかった。ブルームバーグのナスダック100『弱気相場入り』は取引時間中の報道で、終値ベースでは未確認。"
+}
