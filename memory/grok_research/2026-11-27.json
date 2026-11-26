@@ -1,0 +1,239 @@
+{
+  "generated": "2026-11-27T06:45:00+09:00",
+  "test_run": false,
+  "session_covered": {
+    "us": "新しい米国セッションなし。2026-11-26（木）は感謝祭で米株式市場は休場。直近の終値は2026-11-25（水）で、前回ファイル（2026-11-26.json）に記載済み。11/27（金）は午後1時（ET、日本時間28日午前3時）までの短縮取引で、まだ始まっていない",
+    "japan": "2026-11-27（金）配信回",
+    "x_window_utc": "2026-11-25T21:00:00Z〜2026-11-26T21:34:00Z",
+    "notes": "米国は休場で材料は少ない。主な話題は（1）エヌビディアが東南アジア4カ国へのサーバー出荷を止めたとFTが報道、（2）マスク氏が米国の全ての子どもにSpaceX株2株を約束、（3）12月FOMCの利上げ確率が約97%、金は1年超ぶりの安値圏、（4）11/26の日経平均は487円高と反発。"
+  },
+  "x_statements": [
+    {
+      "account": "@elonmusk",
+      "post_url": "https://x.com/elonmusk/status/2125797463047258119",
+      "time_jst": "2026-11-26T12:43:05+09:00",
+      "gist": "「米国の全ての子どもがSpaceX株を2株受け取る。1株は会社から、1株は私個人から」と投稿。SpaceXは25日、アクティブな全てのTrumpアカウント（子ども向け口座）にクラスA株を1株ずつ寄付し、マスク氏も同数を出すと発表。会社分は来月、マスク氏分はロックアップが明ける2027年6月に移す予定。10月19日に約束した1株から倍に増やした形。",
+      "tickers": [
+        "SPCX(SpaceX)",
+        "TSLA"
+      ],
+      "news_article": {
+        "outlet": "CNBC / SpaceX IR / Axios",
+        "url": "https://www.cnbc.com/2026/11/25/spacex-musk-trump-account-stock.html",
+        "also": [
+          "https://ir.spacex.com/updates/releases-details/2026/SpaceX-to-Invest-in-the-Next-Generation-of-Americans-2026-r_LYQ5cH94/default.aspx",
+          "https://www.axios.com/2026/11/26/musk-spacex-shares-trump-accounts"
+        ],
+        "note": "Axiosは、未成年約7200万人と25日のSpaceX終値から総額約183.5億ドルと試算（Axiosの試算で、ロイター等の主要5媒体では未確認）。CNBCは『どれだけのアカウントがアクティブかは不明』としている。SpaceXのティッカー表記は未確認。"
+      }
+    },
+    {
+      "account": "@Reuters",
+      "post_url": "https://x.com/Reuters/status/2125873486992183742",
+      "time_jst": "2026-11-26T17:45:10+09:00",
+      "gist": "エヌビディアが、マレーシア、シンガポール、タイ、インドネシアの4カ国向けに、同社チップを載せたサーバーの出荷を止めるよう製造パートナー（デル、スーパーマイクロなど）に伝えたとFTが報道。先週発効した米国の新しい輸出規制（中国企業によるクラウド経由での利用を防ぐもの）への対応。一時的かどうかは不明。",
+      "tickers": [
+        "NVDA",
+        "DELL",
+        "SMCI"
+      ],
+      "news_article": {
+        "outlet": "Reuters（FT報道を引用）",
+        "url": "https://www.reuters.com/world/asia-pacific/nvidia-halts-chip-shipments-southeast-asia-ft-reports-2026-11-26/",
+        "also": [
+          "https://www.investing.com/news/stock-market-news/nvidia-halts-server-shipments-to-four-southeast-asian-countries-ft-reports-5052112"
+        ],
+        "note": "ロイター本体はアクセス不可（401）だったため、investing.comに転載されたロイター記事の全文で内容を確認。"
+      }
+    },
+    {
+      "account": "@CNBC",
+      "post_url": "https://x.com/CNBC/status/2125978428767683054",
+      "time_jst": "2026-11-27T00:42:10+09:00",
+      "gist": "チップ販売会社がネオクラウド各社に対し、計算能力を少しでも中国企業に貸すならエヌビディアのチップは売らないと伝えたと関係者2人の話として報道。11月19日発効のBIS（米商務省産業安全保障局）の新規則で、中国企業の遠隔アクセスへの規制が強まったため。グリアUSTR代表は「抜け穴を塞ぐもの」と説明。",
+      "tickers": [
+        "NVDA",
+        "CRWV",
+        "NBIS"
+      ],
+      "news_article": {
+        "outlet": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/26/neoclouds-nvidia-china-ai.html",
+        "note": "記事は『ネオクラウド株に新たな売り圧力』と書いているが、個別銘柄の騰落率はこの記事の抜粋では未確認。関連ティッカーのCRWV・NBISはこちらで挙げた例。"
+      }
+    },
+    {
+      "account": "@WSJ",
+      "post_url": "https://x.com/WSJ/status/2125955955531620549",
+      "time_jst": "2026-11-26T23:12:52+09:00",
+      "gist": "ジェンスン・ファン氏の辞任と復帰に注目が集まる中、米政府はAI競争で中国に対し静かに優位を固めた、とWSJが報道（新しい輸出規制の文脈）。",
+      "tickers": [
+        "NVDA"
+      ],
+      "news_article": {
+        "outlet": "WSJ",
+        "url": "https://www.wsj.com/tech/a-game-changing-move-just-gave-america-the-edge-over-china-in-ai-53492e2c",
+        "note": "本文は有料のため、投稿文と見出しのみ確認。"
+      }
+    },
+    {
+      "account": "@business（Bloomberg）",
+      "post_url": "https://x.com/business/status/2125909969115525168",
+      "time_jst": "2026-11-26T20:10:08+09:00",
+      "gist": "「米国株はここ数年で最も値動きが荒くなっている」。AIへの熱狂から悲観へ一転したウォール街を解説するニュースレター。",
+      "tickers": [
+        "SPY",
+        "QQQ"
+      ],
+      "news_article": {
+        "outlet": "Bloomberg",
+        "url": "https://www.bloomberg.com/news/newsletters/2026-11-26/wall-street-flips-from-ai-euphoria-to-gloom",
+        "note": "本文は未確認。数字は使わないこと。"
+      }
+    },
+    {
+      "account": "@business（Bloomberg）",
+      "post_url": "https://x.com/business/status/2125926328532697326",
+      "time_jst": "2026-11-26T21:15:09+09:00",
+      "gist": "301条に基づく新関税案に対し、対象国・地域は失望を示しつつ協議を求めている、と報道。",
+      "tickers": [
+        "EWJ",
+        "FXI"
+      ],
+      "news_article": {
+        "outlet": "Bloomberg",
+        "url": "https://www.bloomberg.com/news/newsletters/2026-11-26/trading-partners-respond-to-trump-tariff-plans",
+        "note": "本文は未確認。日本政府の具体的な反応はここでは確かめていない。"
+      }
+    },
+    {
+      "account": "@WhiteHouse / @SecScottBessent / @tim_cook / @Tesla",
+      "post_url": "https://x.com/WhiteHouse/status/2125943964083552747",
+      "time_jst": "2026-11-26T22:25:13+09:00",
+      "gist": "感謝祭のあいさつが中心で、市場に関わる新しい政策発言はなし。@USTradeRepは貿易協定で農産物の市場が開いたと投稿（https://x.com/USTradeRep/status/2125962656100094065）。@Teslaは『家族にFSDを見せる日』と投稿（https://x.com/Tesla/status/2126043628632203732）。",
+      "tickers": [],
+      "news_article": {
+        "outlet": "なし（あいさつのみ）",
+        "url": "https://x.com/WhiteHouse/status/2125943964083552747"
+      }
+    }
+  ],
+  "move_causes": [
+    {
+      "item": "米国市場（11/26）",
+      "move": "感謝祭で休場。新しい終値はない",
+      "reason": "11/25（水）の終値（ダウ+0.33%の50,182.95、S&P500-0.25%、ナスダック-0.62%）は前回ファイル2026-11-26.jsonに出典つきで記載済み。11/27（金）は短縮取引。CMEの株価指数先物は26日は日本時間27日午前3時〜8時に中断、27日は日本時間28日午前3時15分に終了。",
+      "sources": [
+        {
+          "outlet": "Nasdaq Trader（取引所告知）",
+          "url": "https://www.nasdaqtrader.com/TraderNews.aspx?id=ETA2026-69"
+        },
+        {
+          "outlet": "TradeReign（先物の取引時間）",
+          "url": "https://trade-reign.com/mes-mnq-futures-trading-hours"
+        }
+      ]
+    },
+    {
+      "item": "日経平均（11/26）",
+      "move": "+487.54円（+0.86%）の57,499.16円。一時1,200円超高。TOPIXは3,750.40（+4.20）",
+      "reason": "25日の米国でダウが3日続伸し、ナスダック100先物も堅調。韓国・台湾の株高もあり、下げていたAI・半導体株が買い戻された。午後は米国の休場を前に売買が控えられ、上げ幅を縮めた。",
+      "sources": [
+        {
+          "outlet": "日経",
+          "url": "https://www.nikkei.com/article/DGXZQOFL265XB0W6A121C2000000/"
+        },
+        {
+          "outlet": "日経平均プロフィル",
+          "url": "https://indexes.nikkei.co.jp/nkave/archives/summary?dt=20261126&idx=nk225"
+        }
+      ],
+      "note": "TOPIXの数字は岩井コスモ証券の市況（https://www.iwaicosmo.co.jp/investment/market/）で確認。主要5媒体では未確認。"
+    },
+    {
+      "item": "世界の株式（11/26）",
+      "move": "上昇（ロイターの見出し『新たな米関税に動じず株高』）。欧州株はハイテクと銀行の反発で上昇",
+      "reason": "新関税案は発効まで時間があり、市場は落ち着いて受け止めた",
+      "sources": [
+        {
+          "outlet": "Reuters",
+          "url": "https://www.reuters.com/world/china/global-markets-global-markets-2026-11-26/"
+        },
+        {
+          "outlet": "Reuters（@ReutersBiz）",
+          "url": "https://x.com/ReutersBiz/status/2125945287894007980"
+        }
+      ],
+      "note": "ロイター本文はアクセス不可で、見出しのみ確認。騰落率は使わないこと。"
+    },
+    {
+      "item": "金（スポット）",
+      "move": "26日は$3,580.87前後でほぼ横ばい（日本時間12時17分時点）。25日には2025年9月以来初めて一時$3,500を割った",
+      "reason": "PCEの上振れとGDPの上方修正で、FRBが12月と2027年初めに利上げするとの見方が強まった。金利が上がると利子を生まない金は不利になる",
+      "sources": [
+        {
+          "outlet": "CNBC（ロイター配信）",
+          "url": "https://www.cnbc.com/2026/11/26/gold-federal-reserve-interest-rate-metals.html"
+        }
+      ]
+    }
+  ],
+  "followups": [
+    {
+      "promised_in": "memory/scripts/2026-11-26.md（『明日の配信では、来月のFOMCに向けた市場の動きをお伝えします』）",
+      "result": "CMEのFedWatchで、12月FOMCの0.25%利上げ確率は97.2%、据え置きは2.8%（11/26時点の報道）。CNBCは12月と2027年初めの利上げが見込まれていると報道。結果発表は日本時間12月10日（木）午前4時。",
+      "sources": [
+        {
+          "outlet": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/26/gold-federal-reserve-interest-rate-metals.html"
+        },
+        {
+          "outlet": "FXBus（FedWatchの数字を転載）",
+          "url": "https://www.fxbus.com/en/news/20261126060941197826.html"
+        }
+      ],
+      "note": "97.2%という数字は主要5媒体では未確認（転載サイトと中国の每经网で確認）。台本では『約97%』とし、出典をCMEのFedWatchとするのが安全。"
+    },
+    {
+      "promised_in": "memory/scripts/2026-11-26.md（301条の新関税案）",
+      "result": "対象国は失望を示しつつ協議を求めている（Bloomberg）。株式市場は落ち着いて受け止めた（ロイター見出し）。パブリックコメントは1月5日まで、公聴会は1月25日（前回ファイル参照）。",
+      "sources": [
+        {
+          "outlet": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/newsletters/2026-11-26/trading-partners-respond-to-trump-tariff-plans"
+        },
+        {
+          "outlet": "Reuters",
+          "url": "https://www.reuters.com/world/china/global-markets-global-markets-2026-11-26/"
+        }
+      ]
+    }
+  ],
+  "upcoming": [
+    {
+      "event": "米国株 短縮取引（ブラックフライデー）",
+      "time_jst": "2026-11-27 23:30〜2026-11-28 03:00",
+      "note": "全米小売業協会（NRF）の予想では、感謝祭の週末に約1億8,270万人が買い物を予定",
+      "source": {
+        "outlet": "NRF",
+        "url": "https://nrf.com/media-center/press-releases/183-million-consumers-expected-to-shop-during-thanksgiving-weekend"
+      }
+    },
+    {
+      "event": "FOMC結果発表",
+      "time_jst": "2026-12-10 04:00",
+      "source": {
+        "outlet": "前回台本・前回ファイル",
+        "url": "https://github.com/trosystems1/aria-audio/blob/main/memory/grok_research/2026-11-26.json"
+      }
+    }
+  ],
+  "limitations": [
+    "11/26は米国が休場のため、米国株の新しい終値・騰落率はない。",
+    "ロイターの記事本体は401でアクセスできず、見出しまたは転載（investing.com、CNBC）で確認した。",
+    "@realDonaldTrumpのX投稿は対象時間内に見つからなかった（Truth Socialは確認していない）。",
+    "Bloomberg・WSJの記事は有料で、投稿文と見出しのみ確認。",
+    "FedWatchの97.2%は主要5媒体では確認できず、転載サイトの数字。",
+    "ブラックフライデーの売上実績はまだ出ていない（配信後）。"
+  ]
+}
