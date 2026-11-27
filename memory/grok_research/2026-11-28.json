@@ -1,0 +1,316 @@
+{
+ "generated": "2026-11-28T06:34:17+09:00",
+ "test_run": false,
+ "session_covered": {
+  "us": "2026-11-27（金）米国セッション。感謝祭翌日のブラックフライデーで、午後1時（ET、日本時間28日午前3時）までの短縮取引",
+  "japan": "2026-11-28（土）配信回（週報の可能性あり）",
+  "x_window_utc": "2026-11-26T21:00:00Z〜2026-11-27T21:30:00Z",
+  "notes": "AI・半導体株が買い戻され3指数そろって大幅高。S&P500は週間+5.6%で2025年4月以来、ダウは2022年10月以来の大きな週間上昇。一方でS&P500とナスダックは11月として2008年以来の悪さになる見通し。来週は雇用統計（12/4）とフアン氏の上院証言（12/3）、12月FOMC（12/8-9）が焦点。"
+ },
+ "x_statements": [
+  {
+   "account": "@elonmusk",
+   "post_url": "https://x.com/elonmusk/status/2126064597039997254",
+   "time_jst": "2026-11-27T06:24:34+09:00",
+   "gist": "「米国の全ての子どもに、毎年さらに1株ずつSpaceX株を寄付する」と返信で投稿。25日に発表した『会社から1株・本人から1株』の2株に上乗せする形。SpaceX株は27日の短縮取引で4.83%高（CNBC）。夜間取引（Blue Ocean ATS）では一時7%超上昇。",
+   "tickers": [
+    "SpaceX",
+    "TSLA"
+   ],
+   "news_article": {
+    "outlet": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/27/spacex-shares-musk-donations.html",
+    "also": [
+     "https://www.bloomberg.com/news/articles/2026-11-26/musk-says-every-us-kid-to-get-two-spacex-shares-doubling-pledge"
+    ],
+    "note": "返信形式の投稿（@stevenmarkryan宛て）。CNBCはトランプ口座が10月時点で約7000万件と報道（ホワイトハウスの数字）。FCCが25日にSpaceXの『Starmind』データセンター衛星100万基の展開を承認したことも同記事に記載。"
+   }
+  },
+  {
+   "account": "@CNBC（トランプ大統領の発言を報道）",
+   "post_url": "https://x.com/CNBC/status/2126358922269233593",
+   "time_jst": "2026-11-28T01:54:00+09:00",
+   "gist": "トランプ大統領が、7-9月期GDPの上方改定（速報3.4%→4.3%、年率）を『記録的な誤り』と呼び、調査を要求。CNBCは改定は通常の手順で予定どおり公表されたものと指摘。強いGDPは12月利上げ観測を支える材料。",
+   "tickers": [
+    "SPY",
+    "米国債",
+    "USDJPY"
+   ],
+   "news_article": {
+    "outlet": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/26/trump-gdp-revision-investigation.html",
+    "also": [
+     "https://www.bloomberg.com/news/articles/2026-11-26/trump-says-revised-gdp-numbers-fake-calls-for-investigation"
+    ],
+    "note": "大統領の発言はTruth Social等とみられ、@realDonaldTrumpのX投稿は対象時間内に見つからなかった。発言の原文は未確認で、CNBCの報道に基づく。"
+   }
+  },
+  {
+   "account": "@nikkei / @business（Bloomberg）",
+   "post_url": "https://x.com/nikkei/status/2126383260179505579",
+   "time_jst": "2026-11-28T03:30:00+09:00",
+   "gist": "対中輸出が禁止されているエヌビディアの先端半導体『ブラックウェル』（GB300 NVL72ラックなど）が、上海のデータセンターに設置されていたとブルームバーグが報道。フアンCEOと関係のあったアリス・フアン氏が関わった企業群とつながる施設。経路は不明。日経（NQN）は、輸出規制強化の観測がエヌビディア株の重荷となり一時2.6%安まで売られたと伝えた（終値は+0.8%）。",
+   "tickers": [
+    "NVDA"
+   ],
+   "news_article": {
+    "outlet": "Bloomberg / 日経",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-27/nvidia-blackwell-chips-turn-up-at-china-site-tied-to-alice-huang",
+    "also": [
+     "https://www.nikkei.com/article/DGXZQOGN27BWO0X21C26A1000000/",
+     "https://www.nikkei.com/article/DGXZQOFL27CA70X21C26A1000000/"
+    ],
+    "note": "Bloomberg本文は有料で未読。設置企業名・ラック型番は検索結果の要約（stockanalysis.com、Engadget）で確認したもので、台本では『ブラックウェルが上海のデータセンターに』程度にとどめるのが安全。"
+   }
+  },
+  {
+   "account": "@CNBC",
+   "post_url": "https://x.com/CNBC/status/2126395614757814307",
+   "time_jst": "2026-11-28T04:19:00+09:00",
+   "gist": "OpenAIがアップルを逆提訴。アップルが元社員を通じてOpenAIの機器開発の企業秘密を盗み、部品メーカーにOpenAIと組まないよう働きかけたと主張。7月にアップルがOpenAIを提訴していたことへの反撃。",
+   "tickers": [
+    "AAPL",
+    "MSFT"
+   ],
+   "news_article": {
+    "outlet": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/27/openai-countersues-apple-for-stealing-trade-secrets-ft-reports.html",
+    "note": "アップル株への影響は未確認。"
+   }
+  },
+  {
+   "account": "@Reuters",
+   "post_url": "https://x.com/Reuters/status/2126423350624817623",
+   "time_jst": "2026-11-28T06:10:00+09:00",
+   "gist": "来週の米国株は11月雇用統計とFRBの利上げ見通しが試金石、とロイターの週間展望。フアン氏は来週木曜に上院銀行委員会で証言予定。S&Pグローバルは水曜にエヌビディアの格付けを『クレジットウォッチ・ネガティブ』に指定。",
+   "tickers": [
+    "NVDA",
+    "SPY",
+    "QQQ"
+   ],
+   "news_article": {
+    "outlet": "Reuters（investing.com転載）",
+    "url": "https://www.investing.com/news/economy-news/sliding-stock-market-confronts-jobs-data-rate-view-as-next-tests-5053316"
+   }
+  },
+  {
+   "account": "@Reuters / @business（Bloomberg）",
+   "post_url": "https://x.com/Reuters/status/2126390805107515719",
+   "time_jst": "2026-11-28T04:00:00+09:00",
+   "gist": "オランダ首相がG20でトランプ大統領と、半導体製造装置の対中輸出規制を広げる米国の『MATCH法』案を協議へ（ロイター）。フランスもオランダを支持し対抗措置を検討（ブルームバーグ、https://x.com/business/status/2126403220159222166）。ASMLなど装置株の材料になりうる。",
+   "tickers": [
+    "ASML",
+    "AMAT",
+    "LRCX"
+   ],
+   "news_article": {
+    "outlet": "Reuters / Bloomberg",
+    "url": "https://x.com/Reuters/status/2126390805107515719",
+    "note": "記事本文は未読（リンク先がアクセス不可）。投稿文のみで確認。"
+   }
+  },
+  {
+   "account": "@WhiteHouse / @SecScottBessent / @federalreserve / @Tesla / @nvidia",
+   "post_url": "https://x.com/WhiteHouse/status/2126156447029375249",
+   "time_jst": "2026-11-27T12:29:00+09:00",
+   "gist": "感謝祭関連の投稿が中心で、市場に関わる新しい政策発言はなし。@federalreserveは来週の予定表とH.8の定例公表のみ。@Teslaは対象時間内の投稿なし。",
+   "tickers": [],
+   "news_article": {
+    "outlet": "なし",
+    "url": "https://x.com/federalreserve/status/2126344940062216238"
+   }
+  }
+ ],
+ "move_causes": [
+  {
+   "item": "主要3指数（11/27）",
+   "move": "ダウ+591.99ドル（+1.18%）の50,774.94、S&P500+114.71（+1.60%）の7,297.49、ナスダック+543.70（+2.31%）の24,129.50",
+   "reason": "感謝祭明けに、売り込まれていたAI関連株に買い戻し。『売られすぎで反発は必然』（Harris Financial）。短縮取引で薄商い（出来高約110億株）のため値幅が出やすかった（日経）。年末商戦への期待も消費関連株を支えた。",
+   "sources": [
+    {
+     "outlet": "Reuters（investing.com転載）",
+     "url": "https://www.investing.com/news/stock-market-news/wall-st-futures-surge-as-investors-return-from-holiday-5053052"
+    },
+    {
+     "outlet": "CNBC",
+     "url": "https://www.cnbc.com/2026/11/26/stock-market-today-live-updates.html"
+    },
+    {
+     "outlet": "日経（NQN）",
+     "url": "https://www.nikkei.com/article/DGXZQOFL27CA70X21C26A1000000/"
+    }
+   ]
+  },
+  {
+   "item": "週間・月間",
+   "move": "週間でS&P500+5.6%（2025年4月以来の大きさ）、ナスダック+6.68%、ダウ+5.46%（2022年10月以来）。ただし11月の月間ではS&P500が約4%安で、S&P500とナスダックは2008年以来の悪い11月になる見通し。S&P500のIT指数は11月の下落率が2022年9月以来の大きさ",
+   "reason": "フアン氏のエヌビディアCEO復帰（23日）で急反発した一方、AI投資の資金調達やリターンへの疑問、中間選挙での民主党勝利によるAI規制強化観測、12月利上げ観測が重荷（ロイター）。",
+   "sources": [
+    {
+     "outlet": "Reuters（investing.com転載）",
+     "url": "https://www.investing.com/news/stock-market-news/wall-st-futures-surge-as-investors-return-from-holiday-5053052"
+    },
+    {
+     "outlet": "CNBC",
+     "url": "https://www.cnbc.com/2026/11/26/stock-market-today-live-updates.html"
+    },
+    {
+     "outlet": "日経",
+     "url": "https://www.nikkei.com/article/DGXZQOGN25CLO0V21C26A1000000/"
+    }
+   ],
+   "note": "11月はあと1営業日（11/30）残る。月間の数字は『27日時点』と言うこと。"
+  },
+  {
+   "item": "半導体・AI関連",
+   "move": "フィラデルフィア半導体指数+4.7%、マイクロン+7.6%、マーベル+7.3%、サンディスク約+16%（S&P500の値上がり率トップ）、エヌビディア+0.8%（一時2.6%安）。ルメンタム、デルも大幅高",
+   "reason": "今月売り込まれた銘柄の買い戻し。エヌビディアはブラックウェルの中国流出報道と輸出規制強化観測で上値が重かった（日経）。",
+   "sources": [
+    {
+     "outlet": "Reuters（investing.com転載）",
+     "url": "https://www.investing.com/news/stock-market-news/wall-st-futures-surge-as-investors-return-from-holiday-5053052"
+    },
+    {
+     "outlet": "日経（NQN）",
+     "url": "https://www.nikkei.com/article/DGXZQOFL27CA70X21C26A1000000/"
+    },
+    {
+     "outlet": "CNBC（個別銘柄の動き）",
+     "url": "https://www.cnbc.com/2026/11/27/stocks-moving-the-most-today-live-updates.html"
+    }
+   ],
+   "note": "サンディスクの終値85.36ドル・+15.96%はinvesting.comの表で、主要5媒体ではロイターの『almost 16%』まで。"
+  },
+  {
+   "item": "大型ハイテク",
+   "move": "アマゾン約+4%、メタ+3%超、ブロードコム約+4%、マイクロソフト・オラクルも上昇。アンソロピック約+11%",
+   "reason": "ハイパースケーラーにも買いが戻った（ロイター）。アンソロピックは今週一時公開価格を割り込んだ後の反発。",
+   "sources": [
+    {
+     "outlet": "CNBC",
+     "url": "https://www.cnbc.com/2026/11/26/stock-market-today-live-updates.html"
+    },
+    {
+     "outlet": "Reuters（investing.com転載）",
+     "url": "https://www.investing.com/news/stock-market-news/wall-st-futures-surge-as-investors-return-from-holiday-5053052"
+    }
+   ]
+  },
+  {
+   "item": "テスラ（TSLA）",
+   "move": "+5%（ロイター）",
+   "reason": "ロイターは理由を書いていない。Investing.comによると、独カルテル庁がテスラによる独工作機械メーカーEMAG（人型ロボットの駆動部品向けの歯車加工設備）買収の届け出を公表したことが材料。欧州委員会がFSD（監視付き）承認の採決を議題案に載せたことも追い風とした。",
+   "sources": [
+    {
+     "outlet": "Reuters（investing.com転載）",
+     "url": "https://www.investing.com/news/stock-market-news/wall-st-futures-surge-as-investors-return-from-holiday-5053052"
+    },
+    {
+     "outlet": "Investing.com（主要5媒体外）",
+     "url": "https://www.investing.com/news/stock-market-news/why-is-tesla-stock-climbing-today-93CH-5053632"
+    }
+   ],
+   "note": "上昇理由は主要5媒体では未確認。台本では『ロイターによるとテスラは5%高』まで、理由は使うなら『報道によると』で控えめに。"
+  },
+  {
+   "item": "SpaceX",
+   "move": "+4.83%（CNBC）",
+   "reason": "ハイテク高に加え、マスク氏が子ども向け株式寄付を毎年1株上乗せすると投稿。",
+   "sources": [
+    {
+     "outlet": "CNBC",
+     "url": "https://www.cnbc.com/2026/11/27/spacex-shares-musk-donations.html"
+    }
+   ]
+  },
+  {
+   "item": "バーテックス（VRTX）",
+   "move": "-5.2%",
+   "reason": "FDAが腎臓病薬の審査期間を最大3カ月延長（新たな期限は2027年2月28日まで）。",
+   "sources": [
+    {
+     "outlet": "Reuters（investing.com転載）",
+     "url": "https://www.investing.com/news/stock-market-news/wall-st-futures-surge-as-investors-return-from-holiday-5053052"
+    },
+    {
+     "outlet": "CNBC（寄り付き前の動き）",
+     "url": "https://www.cnbc.com/2026/11/27/stocks-moving-the-most-today-live-updates.html"
+    }
+   ]
+  },
+  {
+   "item": "金・銀・恐怖指数",
+   "move": "金先物+2.6%の1オンス3,628ドル、銀先物+7.9%の43.23ドル（いずれもCNBCの日中の数字）。VIXは25.13まで低下（今週約30%低下）。ニューモント+5.4%",
+   "reason": "今月急落した貴金属が買い戻された。株式市場の落ち着きで恐怖指数は低下。",
+   "sources": [
+    {
+     "outlet": "CNBC",
+     "url": "https://www.cnbc.com/2026/11/26/stock-market-today-live-updates.html"
+    },
+    {
+     "outlet": "Reuters（investing.com転載）",
+     "url": "https://www.investing.com/news/stock-market-news/wall-st-futures-surge-as-investors-return-from-holiday-5053052"
+    }
+   ],
+   "note": "金・銀は日中の値で、終値ではない。"
+  }
+ ],
+ "followups": [
+  {
+   "promised_in": "memory/scripts/2026-11-26.md（『明日の配信では、来月の米連邦公開市場委員会に向けた市場の動きをお伝えします』、FOMC結果は日本時間12月10日午前4時）",
+   "result": "ロイターによると、市場は12月会合（12月8-9日）での0.25%利上げをほぼ完全に織り込んでいる。7-9月期GDPの大幅上方改定と10月の物価加速が背景。ウォラー理事は0.5%の利上げか2027年の利上げペース加速を示すべきと主張。焦点は利上げ幅よりも声明のタカ派度合いと、12/4の雇用統計。",
+   "sources": [
+    {
+     "outlet": "Reuters（investing.com転載）",
+     "url": "https://www.investing.com/news/stock-market-news/wall-st-futures-surge-as-investors-return-from-holiday-5053052"
+    },
+    {
+     "outlet": "Reuters（investing.com転載）",
+     "url": "https://www.investing.com/news/economy-news/sliding-stock-market-confronts-jobs-data-rate-view-as-next-tests-5053316"
+    }
+   ]
+  },
+  {
+   "promised_in": "（前回ファイルのlimitations）ブラックフライデーの売上",
+   "result": "アドビは26〜30日のオンライン中心の売上高を前年比7.4%増と予想（日経が引用）。実績はまだ出ていない。",
+   "sources": [
+    {
+     "outlet": "日経（NQN）",
+     "url": "https://www.nikkei.com/article/DGXZQOFL27CA70X21C26A1000000/"
+    }
+   ],
+   "note": "memory/scripts/ に 2026-11-27.md は見当たらず、前日（11/27配信回）の予告内容は確認できなかった。"
+  }
+ ],
+ "upcoming": [
+  {
+   "event": "フアンCEOの上院銀行委員会での証言",
+   "when_jst": "12月3日（木）米国時間（日本時間は未確認）",
+   "source": "https://www.investing.com/news/economy-news/sliding-stock-market-confronts-jobs-data-rate-view-as-next-tests-5053316"
+  },
+  {
+   "event": "11月の米雇用統計（予想: 非農業部門+9万人、失業率4.1%、LSEG調査）。10月は+16.5万人",
+   "when_jst": "12月4日（金）22:30（米東部8:30の通常時刻から換算）",
+   "source": "https://www.investing.com/news/economy-news/sliding-stock-market-confronts-jobs-data-rate-view-as-next-tests-5053316"
+  },
+  {
+   "event": "セールスフォース、マーベルの決算",
+   "when_jst": "来週（日時は未確認）",
+   "source": "https://www.investing.com/news/economy-news/sliding-stock-market-confronts-jobs-data-rate-view-as-next-tests-5053316"
+  },
+  {
+   "event": "FOMC（12月8-9日）",
+   "when_jst": "結果は12月10日（木）午前4時",
+   "source": "https://www.investing.com/news/economy-news/sliding-stock-market-confronts-jobs-data-rate-view-as-next-tests-5053316"
+  }
+ ],
+ "limitations": [
+  "ロイター本体（reuters.com）は401でアクセスできず、investing.com等に転載されたロイター記事で確認した。",
+  "@realDonaldTrumpのX投稿は対象時間内に0件。GDP調査要求の発言はCNBC・ブルームバーグの報道で確認（原文は未確認）。",
+  "Bloomberg・WSJの記事本文は有料で未読。ブラックウェル流出報道の詳細は日経の冒頭部分と検索結果の要約に基づく。",
+  "ドル円・米10年債利回りの27日の終値は、主要5媒体で確かな数字を確認できなかったため載せていない（検索要約に『159円27銭』『4.90%』とあったが出典本文で未確認）。",
+  "11/27の日経平均の終値は今回確認していない。",
+  "テスラ上昇の理由（EMAG買収届け出）はInvesting.comのみで、主要5媒体では未確認。",
+  "memory/scripts/ に 2026-11-27.md が無く、前日配信の予告は確認できなかった。"
+ ]
+}
